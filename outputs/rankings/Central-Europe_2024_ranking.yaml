@@ -1,0 +1,660 @@
+- citation: First Place
+  honorableMentionCitation: null
+  institution: Jagiellonian University in Krakow
+  lastProblemTime: 271
+  medalCitation: Gold Medal
+  problemsSolved: 10
+  rank: 1
+  siteCitation: Champions of Central Europe
+  teamId: 953947
+  teamName: Jagiellonian teapots
+  totalTime: 1661
+- citation: Second Place
+  honorableMentionCitation: null
+  institution: University of Warsaw
+  lastProblemTime: 219
+  medalCitation: Gold Medal
+  problemsSolved: 9
+  rank: 2
+  siteCitation: ''
+  teamId: 952369
+  teamName: UW5
+  totalTime: 934
+- citation: Third Place
+  honorableMentionCitation: null
+  institution: University of Wroclaw
+  lastProblemTime: 291
+  medalCitation: Silver Medal
+  problemsSolved: 9
+  rank: 3
+  siteCitation: ''
+  teamId: 932042
+  teamName: UWr 1
+  totalTime: 1244
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: University of Zagreb
+  lastProblemTime: 260
+  medalCitation: Silver Medal
+  problemsSolved: 8
+  rank: 4
+  siteCitation: ''
+  teamId: 946922
+  teamName: Zagreb 1
+  totalTime: 921
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: University of Warsaw
+  lastProblemTime: 269
+  medalCitation: Silver Medal
+  problemsSolved: 8
+  rank: 5
+  siteCitation: ''
+  teamId: 931451
+  teamName: UW1
+  totalTime: 1017
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: Jagiellonian University in Krakow
+  lastProblemTime: 258
+  medalCitation: Bronze Medal
+  problemsSolved: 8
+  rank: 6
+  siteCitation: ''
+  teamId: 953948
+  teamName: Jagiellonian 2
+  totalTime: 1226
+- citation: Seventh Place
+  honorableMentionCitation: null
+  institution: University of Wroclaw
+  lastProblemTime: 299
+  medalCitation: Bronze Medal
+  problemsSolved: 8
+  rank: 7
+  siteCitation: ''
+  teamId: 932043
+  teamName: UWr 2
+  totalTime: 1409
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: "E\xF6tv\xF6s Lor\xE1nd University"
+  lastProblemTime: 294
+  medalCitation: Bronze Medal
+  problemsSolved: 7
+  rank: 8
+  siteCitation: ''
+  teamId: 957641
+  teamName: ELTE 1
+  totalTime: 762
+- citation: Ninth Place
+  honorableMentionCitation: null
+  institution: University of Latvia
+  lastProblemTime: 285
+  medalCitation: Bronze Medal
+  problemsSolved: 7
+  rank: 9
+  siteCitation: ''
+  teamId: 937710
+  teamName: LU1
+  totalTime: 1043
+- citation: Tenth Place
+  honorableMentionCitation: null
+  institution: University of Zagreb
+  lastProblemTime: 298
+  medalCitation: null
+  problemsSolved: 7
+  rank: 10
+  siteCitation: ''
+  teamId: 946924
+  teamName: Zagreb 3
+  totalTime: 1246
+- citation: 11th Place
+  honorableMentionCitation: null
+  institution: University of Warsaw
+  lastProblemTime: 225
+  medalCitation: null
+  problemsSolved: 6
+  rank: 11
+  siteCitation: ''
+  teamId: 931454
+  teamName: UW4
+  totalTime: 779
+- citation: 12th Place
+  honorableMentionCitation: null
+  institution: Masaryk University
+  lastProblemTime: 213
+  medalCitation: null
+  problemsSolved: 6
+  rank: 12
+  siteCitation: ''
+  teamId: 936952
+  teamName: FI MUNI 01
+  totalTime: 872
+- citation: 13th Place
+  honorableMentionCitation: null
+  institution: University of Warsaw
+  lastProblemTime: 290
+  medalCitation: null
+  problemsSolved: 6
+  rank: 13
+  siteCitation: ''
+  teamId: 931452
+  teamName: UW2
+  totalTime: 1037
+- citation: 14th Place
+  honorableMentionCitation: null
+  institution: Charles University
+  lastProblemTime: 297
+  medalCitation: null
+  problemsSolved: 6
+  rank: 14
+  siteCitation: ''
+  teamId: 947231
+  teamName: MFF1
+  totalTime: 1062
+- citation: 15th Place
+  honorableMentionCitation: null
+  institution: "E\xF6tv\xF6s Lor\xE1nd University"
+  lastProblemTime: 213
+  medalCitation: null
+  problemsSolved: 5
+  rank: 15
+  siteCitation: ''
+  teamId: 957643
+  teamName: "R\xFCh\xF6s \xE1llat"
+  totalTime: 522
+- citation: 16th Place
+  honorableMentionCitation: null
+  institution: Jagiellonian University in Krakow
+  lastProblemTime: 281
+  medalCitation: null
+  problemsSolved: 5
+  rank: 16
+  siteCitation: ''
+  teamId: 953950
+  teamName: Jagiellonian 4
+  totalTime: 619
+- citation: 17th Place
+  honorableMentionCitation: null
+  institution: Czech Technical University in Prague
+  lastProblemTime: 285
+  medalCitation: null
+  problemsSolved: 5
+  rank: 17
+  siteCitation: ''
+  teamId: 933952
+  teamName: caCTUs
+  totalTime: 732
+- citation: 18th Place
+  honorableMentionCitation: null
+  institution: University of Latvia
+  lastProblemTime: 286
+  medalCitation: null
+  problemsSolved: 5
+  rank: 18
+  siteCitation: ''
+  teamId: 937713
+  teamName: LU2
+  totalTime: 809
+- citation: 19th Place
+  honorableMentionCitation: null
+  institution: Jagiellonian University in Krakow
+  lastProblemTime: 144
+  medalCitation: null
+  problemsSolved: 4
+  rank: 19
+  siteCitation: ''
+  teamId: 953949
+  teamName: Jagiellonian 3
+  totalTime: 278
+- citation: 20th Place
+  honorableMentionCitation: null
+  institution: University of Zagreb
+  lastProblemTime: 116
+  medalCitation: null
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 946923
+  teamName: Zagreb 2
+  totalTime: 309
+- citation: 21st Place
+  honorableMentionCitation: null
+  institution: University of Warsaw
+  lastProblemTime: 144
+  medalCitation: null
+  problemsSolved: 4
+  rank: 21
+  siteCitation: ''
+  teamId: 931453
+  teamName: UW3
+  totalTime: 327
+- citation: 22nd Place
+  honorableMentionCitation: null
+  institution: University of Wroclaw
+  lastProblemTime: 163
+  medalCitation: null
+  problemsSolved: 4
+  rank: 22
+  siteCitation: ''
+  teamId: 932046
+  teamName: UWr 5
+  totalTime: 372
+- citation: 23rd Place
+  honorableMentionCitation: null
+  institution: Comenius University
+  lastProblemTime: 203
+  medalCitation: null
+  problemsSolved: 4
+  rank: 23
+  siteCitation: ''
+  teamId: 946768
+  teamName: Traktoristi
+  totalTime: 411
+- citation: 24th Place
+  honorableMentionCitation: null
+  institution: University of Warsaw
+  lastProblemTime: 204
+  medalCitation: null
+  problemsSolved: 4
+  rank: 24
+  siteCitation: ''
+  teamId: 952370
+  teamName: UW6
+  totalTime: 492
+- citation: 25th Place
+  honorableMentionCitation: null
+  institution: University of Wroclaw
+  lastProblemTime: 212
+  medalCitation: null
+  problemsSolved: 4
+  rank: 25
+  siteCitation: ''
+  teamId: 932044
+  teamName: UWr 3
+  totalTime: 496
+- citation: 26th Place
+  honorableMentionCitation: null
+  institution: Comenius University
+  lastProblemTime: 227
+  medalCitation: null
+  problemsSolved: 4
+  rank: 26
+  siteCitation: ''
+  teamId: 946767
+  teamName: "Farm\xE1ri"
+  totalTime: 499
+- citation: 27th Place
+  honorableMentionCitation: null
+  institution: University of Ljubljana
+  lastProblemTime: 284
+  medalCitation: null
+  problemsSolved: 4
+  rank: 27
+  siteCitation: ''
+  teamId: 925554
+  teamName: Ljubljana 3
+  totalTime: 528
+- citation: 28th Place
+  honorableMentionCitation: null
+  institution: "E\xF6tv\xF6s Lor\xE1nd University"
+  lastProblemTime: 222
+  medalCitation: null
+  problemsSolved: 4
+  rank: 28
+  siteCitation: ''
+  teamId: 957642
+  teamName: "\xC1rv\xEDzt\u0171r\u0151 t\xFCk\xF6rf\xFAr\xF3g\xE9p"
+  totalTime: 530
+- citation: 29th Place
+  honorableMentionCitation: null
+  institution: Nicolaus Copernicus University
+  lastProblemTime: 276
+  medalCitation: null
+  problemsSolved: 4
+  rank: 29
+  siteCitation: ''
+  teamId: 931598
+  teamName: NCU2
+  totalTime: 545
+- citation: 30th Place
+  honorableMentionCitation: null
+  institution: Nicolaus Copernicus University
+  lastProblemTime: 129
+  medalCitation: null
+  problemsSolved: 4
+  rank: 30
+  siteCitation: ''
+  teamId: 931597
+  teamName: NCU1
+  totalTime: 589
+- citation: 31st Place
+  honorableMentionCitation: null
+  institution: University of Ljubljana
+  lastProblemTime: 276
+  medalCitation: null
+  problemsSolved: 4
+  rank: 31
+  siteCitation: ''
+  teamId: 925552
+  teamName: Ljubljana 1
+  totalTime: 626
+- citation: 32nd Place
+  honorableMentionCitation: null
+  institution: Masaryk University
+  lastProblemTime: 214
+  medalCitation: null
+  problemsSolved: 4
+  rank: 32
+  siteCitation: ''
+  teamId: 936953
+  teamName: FI MUNI 02
+  totalTime: 627
+- citation: 33rd Place
+  honorableMentionCitation: null
+  institution: Charles University
+  lastProblemTime: 299
+  medalCitation: null
+  problemsSolved: 4
+  rank: 33
+  siteCitation: ''
+  teamId: 947232
+  teamName: MFF2
+  totalTime: 668
+- citation: 34th Place
+  honorableMentionCitation: null
+  institution: Charles University
+  lastProblemTime: 243
+  medalCitation: null
+  problemsSolved: 4
+  rank: 34
+  siteCitation: ''
+  teamId: 947233
+  teamName: "\u010C\xEDm viac, t\xFDm viac"
+  totalTime: 722
+- citation: 35th Place
+  honorableMentionCitation: null
+  institution: University of Ljubljana
+  lastProblemTime: 253
+  medalCitation: null
+  problemsSolved: 4
+  rank: 35
+  siteCitation: ''
+  teamId: 925553
+  teamName: Ljubljana 2
+  totalTime: 723
+- citation: 36th Place
+  honorableMentionCitation: null
+  institution: University of Maribor
+  lastProblemTime: 283
+  medalCitation: null
+  problemsSolved: 4
+  rank: 36
+  siteCitation: ''
+  teamId: 954949
+  teamName: Maribor 1
+  totalTime: 834
+- citation: 37th Place
+  honorableMentionCitation: null
+  institution: Czech Technical University in Prague
+  lastProblemTime: 110
+  medalCitation: null
+  problemsSolved: 3
+  rank: 37
+  siteCitation: ''
+  teamId: 933955
+  teamName: IIllIIllllIlIIlllIlIIl
+  totalTime: 219
+- citation: 38th Place
+  honorableMentionCitation: null
+  institution: University of Wroclaw
+  lastProblemTime: 80
+  medalCitation: null
+  problemsSolved: 3
+  rank: 38
+  siteCitation: ''
+  teamId: 932045
+  teamName: UWr 4
+  totalTime: 227
+- citation: 39th Place
+  honorableMentionCitation: null
+  institution: Jagiellonian University in Krakow
+  lastProblemTime: 117
+  medalCitation: null
+  problemsSolved: 3
+  rank: 39
+  siteCitation: ''
+  teamId: 953951
+  teamName: MMM-2023
+  totalTime: 243
+- citation: 40th Place
+  honorableMentionCitation: null
+  institution: Masaryk University
+  lastProblemTime: 194
+  medalCitation: null
+  problemsSolved: 3
+  rank: 40
+  siteCitation: ''
+  teamId: 936954
+  teamName: FI MUNI 03
+  totalTime: 324
+- citation: 41st Place
+  honorableMentionCitation: null
+  institution: Czech Technical University in Prague
+  lastProblemTime: 181
+  medalCitation: null
+  problemsSolved: 3
+  rank: 41
+  siteCitation: ''
+  teamId: 933956
+  teamName: "Horizont moldavsk\xE1 jasky\u0148a"
+  totalTime: 359
+- citation: 42nd Place
+  honorableMentionCitation: null
+  institution: Budapest University of Technology and Economics
+  lastProblemTime: 258
+  medalCitation: null
+  problemsSolved: 3
+  rank: 42
+  siteCitation: ''
+  teamId: 938254
+  teamName: LSZ
+  totalTime: 401
+- citation: 43rd Place
+  honorableMentionCitation: null
+  institution: Czech Technical University in Prague
+  lastProblemTime: 281
+  medalCitation: null
+  problemsSolved: 3
+  rank: 43
+  siteCitation: ''
+  teamId: 933953
+  teamName: Impossible Pixels
+  totalTime: 494
+- citation: 44th Place
+  honorableMentionCitation: null
+  institution: Czech Technical University in Prague
+  lastProblemTime: 255
+  medalCitation: null
+  problemsSolved: 3
+  rank: 44
+  siteCitation: ''
+  teamId: 933954
+  teamName: We love Czenda <3
+  totalTime: 597
+- citation: 45th Place
+  honorableMentionCitation: null
+  institution: "Pavol Jozef \u0160af\xE1rik University in Ko\u0161ice"
+  lastProblemTime: 100
+  medalCitation: null
+  problemsSolved: 2
+  rank: 45
+  siteCitation: ''
+  teamId: 954771
+  teamName: aa
+  totalTime: 128
+- citation: 46th Place
+  honorableMentionCitation: null
+  institution: University of Szeged
+  lastProblemTime: 144
+  medalCitation: null
+  problemsSolved: 2
+  rank: 46
+  siteCitation: ''
+  teamId: 953813
+  teamName: USzeged 2
+  totalTime: 164
+- citation: 47th Place
+  honorableMentionCitation: null
+  institution: "University of \u017Dilina"
+  lastProblemTime: 196
+  medalCitation: null
+  problemsSolved: 2
+  rank: 47
+  siteCitation: ''
+  teamId: 952547
+  teamName: UNIZA_FRI_2
+  totalTime: 216
+- citation: 48th Place
+  honorableMentionCitation: null
+  institution: AGH University of Science and Technology
+  lastProblemTime: 186
+  medalCitation: null
+  problemsSolved: 2
+  rank: 48
+  siteCitation: ''
+  teamId: 928444
+  teamName: AGH1
+  totalTime: 217
+- citation: 49th Place
+  honorableMentionCitation: null
+  institution: "University of \u017Dilina"
+  lastProblemTime: 193
+  medalCitation: null
+  problemsSolved: 2
+  rank: 49
+  siteCitation: ''
+  teamId: 952546
+  teamName: UNIZA_FRI_1
+  totalTime: 272
+- citation: 50th Place
+  honorableMentionCitation: null
+  institution: University of Szeged
+  lastProblemTime: 246
+  medalCitation: null
+  problemsSolved: 2
+  rank: 50
+  siteCitation: ''
+  teamId: 953812
+  teamName: USzeged 1
+  totalTime: 301
+- citation: 51st Place
+  honorableMentionCitation: null
+  institution: Juraj Dobrila University of Pula
+  lastProblemTime: 140
+  medalCitation: null
+  problemsSolved: 2
+  rank: 51
+  siteCitation: ''
+  teamId: 947424
+  teamName: UNIPU
+  totalTime: 319
+- citation: 52nd Place
+  honorableMentionCitation: null
+  institution: Slovak University of Technology in Bratislava
+  lastProblemTime: 264
+  medalCitation: null
+  problemsSolved: 2
+  rank: 52
+  siteCitation: ''
+  teamId: 954715
+  teamName: baklazani
+  totalTime: 333
+- citation: 53rd Place
+  honorableMentionCitation: null
+  institution: "Maria Curie-Sk\u0142odowska University"
+  lastProblemTime: 208
+  medalCitation: null
+  problemsSolved: 2
+  rank: 53
+  siteCitation: ''
+  teamId: 957475
+  teamName: UMCS
+  totalTime: 360
+- citation: 54th Place
+  honorableMentionCitation: null
+  institution: Warsaw University of Technology
+  lastProblemTime: 297
+  medalCitation: null
+  problemsSolved: 2
+  rank: 54
+  siteCitation: ''
+  teamId: 953688
+  teamName: EeXoR
+  totalTime: 373
+- citation: 55th Place
+  honorableMentionCitation: null
+  institution: "V\u0160B - Technical University of Ostrava"
+  lastProblemTime: 260
+  medalCitation: null
+  problemsSolved: 2
+  rank: 55
+  siteCitation: ''
+  teamId: 930389
+  teamName: sillypilled
+  totalTime: 402
+- citation: 56th Place
+  honorableMentionCitation: null
+  institution: University of RIjeka
+  lastProblemTime: 30
+  medalCitation: null
+  problemsSolved: 1
+  rank: 56
+  siteCitation: ''
+  teamId: 948406
+  teamName: AlgoRiteh
+  totalTime: 30
+- citation: 57th Place
+  honorableMentionCitation: null
+  institution: Budapest University of Technology and Economics
+  lastProblemTime: 44
+  medalCitation: null
+  problemsSolved: 1
+  rank: 57
+  siteCitation: ''
+  teamId: 938255
+  teamName: DSU
+  totalTime: 64
+- citation: 58th Place
+  honorableMentionCitation: null
+  institution: University of Primorska
+  lastProblemTime: 61
+  medalCitation: null
+  problemsSolved: 1
+  rank: 58
+  siteCitation: ''
+  teamId: 953519
+  teamName: University of Primorska
+  totalTime: 81
+- citation: 59th Place
+  honorableMentionCitation: null
+  institution: "V\u0160B - Technical University of Ostrava"
+  lastProblemTime: 90
+  medalCitation: null
+  problemsSolved: 1
+  rank: 59
+  siteCitation: ''
+  teamId: 930388
+  teamName: using namespace bruteforce;
+  totalTime: 150
+- citation: 60th Place
+  honorableMentionCitation: null
+  institution: Slovak University of Technology in Bratislava
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 60
+  siteCitation: ''
+  teamId: 954716
+  teamName: NeverTouchGrass
+  totalTime: 0

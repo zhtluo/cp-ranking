@@ -1,0 +1,82 @@
+contests:
+  keys:
+    - World-Finals
+    # Championships
+    - North-America-Championship
+    ## Asia Pacific Championship
+    - APSEPC
+    - Latin-America-Champ
+    ## Asia West Continent Final Contest
+    - ICPCKolkataKanpur
+    ## Africa & Arab Collegiate Programming Championship
+    - ACPC
+    ## Europe Championship
+    - EUC
+    - SEERC
+    - Central-Europe
+    - SWERC
+    - Northwestern-Europe
+
+    - Northern-Eurasia
+    - Asia-EC-League-Final
+    # NA Regionals
+    - East-Central-NA
+    - Mid-Atlantic-USA
+    - Mid-Central-USA
+    - North-Central-North-America
+    - PacNW
+    - Rocky-Mountain
+    - SCUSA
+    - Southern-California
+    - Southeast-USA
+    - greater-new-york
+    - northeast-north-america
+  years:
+    - 2024
+    - 2023
+    - 2022
+    - 2021
+    - 2020
+    - 2019
+    - 2018
+    - 2017
+    - 2016
+    - 2015
+  pairs:
+    - [World-Finals, North-America-Championship]
+    - [World-Finals, APSEPC]
+    - [World-Finals, Latin-America-Champ]
+    - [World-Finals, ICPCKolkataKanpur]
+    - [World-Finals, ACPC]
+    - [World-Finals, EUC]
+    - [World-Finals, SEERC]
+    - [World-Finals, Central-Europe]
+    - [World-Finals, SWERC]
+    - [World-Finals, Northwestern-Europe]
+    - [World-Finals, Northern-Eurasia]
+    - [World-Finals, Asia-EC-League-Final]
+    - [North-America-Championship, East-Central-NA]
+    - [North-America-Championship, Mid-Atlantic-USA]
+    - [North-America-Championship, Mid-Central-USA]
+    - [North-America-Championship, North-Central-North-America]
+    - [North-America-Championship, PacNW]
+    - [North-America-Championship, Rocky-Mountain]
+    - [North-America-Championship, SCUSA]
+    - [North-America-Championship, Southern-California]
+    - [North-America-Championship, Southeast-USA]
+    - [North-America-Championship, greater-new-york]
+    - [North-America-Championship, northeast-north-america]
+  cf:
+    - World-Finals
+    - North-America-Championship
+    - APSEPC
+    - Latin-America-Champ
+    - ICPCKolkataKanpur
+    - ACPC
+    - EUC
+    - SEERC
+    - Central-Europe
+    - SWERC
+    - Northwestern-Europe
+    - Northern-Eurasia
+    - Asia-EC-League-Final

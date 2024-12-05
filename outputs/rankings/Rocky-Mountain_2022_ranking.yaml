@@ -1,0 +1,506 @@
+- citation: First Place
+  honorableMentionCitation: null
+  institution: University of Alberta
+  lastProblemTime: 263
+  medalCitation: Gold Medal
+  problemsSolved: 14
+  rank: 1
+  siteCitation: Canada Online
+  teamId: 663611
+  teamName: Alberta Aqua
+  totalTime: 1207
+- citation: Second Place
+  honorableMentionCitation: null
+  institution: Brigham Young University
+  lastProblemTime: 166
+  medalCitation: Gold Medal
+  problemsSolved: 10
+  rank: 2
+  siteCitation: Brigham Young University
+  teamId: 662155
+  teamName: BYU *
+  totalTime: 557
+- citation: Third Place
+  honorableMentionCitation: null
+  institution: Brigham Young University
+  lastProblemTime: 109
+  medalCitation: Gold Medal
+  problemsSolved: 10
+  rank: 3
+  siteCitation: ''
+  teamId: 662156
+  teamName: BYU JT^2
+  totalTime: 559
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: University of Calgary
+  lastProblemTime: 188
+  medalCitation: Gold Medal
+  problemsSolved: 9
+  rank: 4
+  siteCitation: ''
+  teamId: 663024
+  teamName: Codetoads
+  totalTime: 879
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 278
+  medalCitation: Silver Medal
+  problemsSolved: 9
+  rank: 5
+  siteCitation: Colorado School of Mines
+  teamId: 666463
+  teamName: Algonauts
+  totalTime: 1126
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: University of Utah
+  lastProblemTime: 220
+  medalCitation: Silver Medal
+  problemsSolved: 8
+  rank: 6
+  siteCitation: ''
+  teamId: 663125
+  teamName: Rule-Of-Three
+  totalTime: 811
+- citation: Seventh Place
+  honorableMentionCitation: null
+  institution: University of Lethbridge
+  lastProblemTime: 259
+  medalCitation: Silver Medal
+  problemsSolved: 8
+  rank: 7
+  siteCitation: ''
+  teamId: 662946
+  teamName: University of Lethbridge WA
+  totalTime: 930
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: Brigham Young University
+  lastProblemTime: 224
+  medalCitation: Silver Medal
+  problemsSolved: 8
+  rank: 8
+  siteCitation: ''
+  teamId: 662154
+  teamName: BYU["sunshine"]
+  totalTime: 1035
+- citation: Ninth Place
+  honorableMentionCitation: null
+  institution: University of Calgary
+  lastProblemTime: 219
+  medalCitation: Bronze Medal
+  problemsSolved: 8
+  rank: 9
+  siteCitation: ''
+  teamId: 663025
+  teamName: Codefrogs
+  totalTime: 1087
+- citation: Tenth Place
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 286
+  medalCitation: Bronze Medal
+  problemsSolved: 8
+  rank: 10
+  siteCitation: ''
+  teamId: 667581
+  teamName: Mines 8
+  totalTime: 1120
+- citation: Eleventh Place
+  honorableMentionCitation: null
+  institution: Brigham Young University
+  lastProblemTime: 276
+  medalCitation: Bronze Medal
+  problemsSolved: 8
+  rank: 11
+  siteCitation: ''
+  teamId: 662153
+  teamName: BYU Runtime Error
+  totalTime: 1275
+- citation: Twelfth Place
+  honorableMentionCitation: null
+  institution: University of Lethbridge
+  lastProblemTime: 289
+  medalCitation: Bronze Medal
+  problemsSolved: 6
+  rank: 12
+  siteCitation: ''
+  teamId: 662947
+  teamName: Human Beings
+  totalTime: 689
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: University of Alberta
+  lastProblemTime: 289
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 13
+  siteCitation: ''
+  teamId: 663612
+  teamName: Alberta Green
+  totalTime: 837
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 297
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 13
+  siteCitation: ''
+  teamId: 665234
+  teamName: It's 3AM Somewhere
+  totalTime: 955
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: University of Alberta
+  lastProblemTime: 154
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 15
+  siteCitation: ''
+  teamId: 663615
+  teamName: Alberta Blue
+  totalTime: 481
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Brigham Young University
+  lastProblemTime: 211
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 15
+  siteCitation: ''
+  teamId: 662157
+  teamName: BYU bring back blue
+  totalTime: 584
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Colorado Mesa University
+  lastProblemTime: 174
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 15
+  siteCitation: US Online
+  teamId: 662799
+  teamName: The _ A _Team
+  totalTime: 855
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 286
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 15
+  siteCitation: ''
+  teamId: 666021
+  teamName: The Challengers
+  totalTime: 580
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: University of Calgary
+  lastProblemTime: 226
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 15
+  siteCitation: ''
+  teamId: 663021
+  teamName: Vivid Soup
+  totalTime: 499
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: University of Alberta
+  lastProblemTime: 271
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 663616
+  teamName: Alberta Azure
+  totalTime: 362
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: University of Alberta
+  lastProblemTime: 236
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 663614
+  teamName: Alberta Red
+  totalTime: 315
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: Montana Tech of the University of Montana
+  lastProblemTime: 248
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 667572
+  teamName: Binary Treant
+  totalTime: 609
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: Montana Tech of the University of Montana
+  lastProblemTime: 131
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 667571
+  teamName: Broken Monitor
+  totalTime: 236
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: Brigham Young University
+  lastProblemTime: 276
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 662152
+  teamName: BYU K
+  totalTime: 485
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: Brigham Young University
+  lastProblemTime: 271
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 662736
+  teamName: BYU O(n!)
+  totalTime: 556
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 174
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 667476
+  teamName: FF@15
+  totalTime: 435
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: Montana Tech of the University of Montana
+  lastProblemTime: 122
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 667573
+  teamName: I Don't Know Yet
+  totalTime: 279
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 254
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 667479
+  teamName: Mines 5
+  totalTime: 504
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 156
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 667480
+  teamName: Mines 6
+  totalTime: 309
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: University of Lethbridge
+  lastProblemTime: 242
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 20
+  siteCitation: ''
+  teamId: 663952
+  teamName: Nitrave Maximus
+  totalTime: 365
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Alberta
+  lastProblemTime: 142
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 663613
+  teamName: Alberta Black
+  totalTime: 325
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Alberta
+  lastProblemTime: 134
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 663617
+  teamName: Alberta Teal
+  totalTime: 179
+- citation: ''
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 258
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 665741
+  teamName: Blaster's Basket Bunch
+  totalTime: 685
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Calgary
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 663023
+  teamName: Brogramming
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 91
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 666681
+  teamName: Callonia
+  totalTime: 206
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Lethbridge
+  lastProblemTime: 164
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 662950
+  teamName: Fire Breathing Beasts
+  totalTime: 364
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Calgary
+  lastProblemTime: 85
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 663022
+  teamName: foobar
+  totalTime: 101
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Saskatchewan
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 664344
+  teamName: GoodOldCodes
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 164
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 667474
+  teamName: Googol
+  totalTime: 246
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Lethbridge
+  lastProblemTime: 54
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 662951
+  teamName: if(( pizza && coke )==0) Team= leave;
+  totalTime: 97
+- citation: ''
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 125
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 667475
+  teamName: KIX
+  totalTime: 250
+- citation: ''
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 90
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 667478
+  teamName: Mines 4
+  totalTime: 186
+- citation: ''
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 254
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 667580
+  teamName: Mines 7
+  totalTime: 439
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Lethbridge
+  lastProblemTime: 86
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 662948
+  teamName: Team Bazuso
+  totalTime: 190
+- citation: ''
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 27
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 665235
+  teamName: Team Pterodactyl
+  totalTime: 106
+- citation: ''
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 78
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 667477
+  teamName: The Lemon Drops
+  totalTime: 143

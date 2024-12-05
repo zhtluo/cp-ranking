@@ -1,0 +1,241 @@
+import yaml
+from scipy.stats import kendalltau
+import os
+import math
+
+
+def load_yaml(file_path):
+    """Load the YAML configuration file."""
+    with open(file_path, "r") as file:
+        return yaml.safe_load(file)
+
+
+def load_ranking(file_path):
+    """Load the ranking file in YAML format and assign index as rank if rank is null."""
+    with open(file_path, "r") as file:
+        rankings = yaml.safe_load(file)
+
+    # Filter out entries with invalid data
+    valid_rankings = [
+        entry
+        for entry in rankings
+        if entry.get("institution")
+        and isinstance(entry.get("problemsSolved"), int)
+        and entry["problemsSolved"] > 0
+    ]
+
+    # Sort by problems solved (descending) and then by total time (ascending)
+    sorted_rankings = sorted(
+        valid_rankings,
+        key=lambda x: (-x["problemsSolved"], x.get("totalTime", float("inf"))),
+    )
+
+    # Create a dictionary to store the best-ranked team for each institution
+    institution_rankings = {}
+    for index, entry in enumerate(
+        sorted_rankings, start=1
+    ):  # Assign ranks based on sorted order
+        institution = entry["institution"]
+
+        if (
+            institution not in institution_rankings
+            or index < institution_rankings[institution]["rank"]
+        ):
+            institution_rankings[institution] = {
+                **entry,
+                "rank": index,
+            }  # Store with updated rank
+
+    return institution_rankings
+
+
+def load_cf_ratings(file_path):
+    """Load CF rating file in YAML format and assign rank based on average CF rating."""
+    with open(file_path, "r") as file:
+        cf_data = yaml.safe_load(file)
+
+    # Rank universities by CF rating (higher rating gets better rank)
+    cf_data.sort(key=lambda x: -x["average_cf_rating"])  # Descending order
+
+    cf_rankings = {}
+    for rank, entry in enumerate(cf_data, start=1):
+        university = entry.get("university")
+        if university is None:
+            continue
+        cf_rankings[university] = {
+            "rank": rank,
+            "average_cf_rating": entry["average_cf_rating"],
+        }
+
+    return cf_rankings
+
+
+def compare_contests(year, contest1, contest2, rankings_dir):
+    """Compare the rankings of two contests in a specific year using Kendall's Tau."""
+    file1 = os.path.join(rankings_dir, f"{contest1}_{year}_ranking.yaml")
+    file2 = os.path.join(rankings_dir, f"{contest2}_{year}_ranking.yaml")
+    if not os.path.exists(file1) or not os.path.exists(file2):
+        return None, 0
+
+    rankings1 = load_ranking(file1)
+    rankings2 = load_ranking(file2)
+
+    # Find common institutions
+    common_institutions = set(rankings1.keys()) & set(rankings2.keys())
+    num_schools = len(common_institutions)
+
+    # Skip if there's only one shared school
+    if num_schools <= 1:
+        return None, num_schools
+
+    # Create ranking lists for the common institutions
+    ranks1 = []
+    ranks2 = []
+
+    for institution in common_institutions:
+        ranks1.append(rankings1[institution]["rank"])
+        ranks2.append(rankings2[institution]["rank"])
+
+    # Calculate Kendall's Tau
+    tau, _ = kendalltau(ranks1, ranks2)
+    return tau, num_schools
+
+
+def compare_contests_with_cf(contest, cf_ratings_dir, rankings_dir, years):
+    """Compare a specific contest against CF ratings."""
+    total_tau = 0
+    total_schools = 0
+    yearly_results = {}
+
+    for year in years:
+        contest_file = os.path.join(rankings_dir, f"{contest}_{year}_ranking.yaml")
+        cf_file = os.path.join(cf_ratings_dir, f"{year}.yaml")
+
+        if not os.path.exists(contest_file) or not os.path.exists(cf_file):
+            continue
+
+        contest_rankings = load_ranking(contest_file)
+        cf_rankings = load_cf_ratings(cf_file)
+
+        # Find common institutions
+        common_universities = set(contest_rankings.keys()) & set(cf_rankings.keys())
+        num_schools = len(common_universities)
+
+        if num_schools <= 1:
+            continue
+
+        # Create ranking lists
+        ranks1 = []
+        ranks2 = []
+
+        for university in common_universities:
+            ranks1.append(contest_rankings[university]["rank"])
+            ranks2.append(cf_rankings[university]["rank"])
+
+        # Calculate Kendall's Tau
+        tau, _ = kendalltau(ranks1, ranks2)
+        if tau is not None and not math.isnan(tau):
+            yearly_results[year] = {"tau": tau, "num_schools": num_schools}
+            total_tau += tau * num_schools * (num_schools - 1)
+            total_schools += num_schools * (num_schools - 1)
+
+    if total_schools == 0:
+        weighted_average_tau = None
+    else:
+        weighted_average_tau = total_tau / total_schools
+
+    return yearly_results, weighted_average_tau
+
+
+def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
+    """
+    Process all comparisons specified in the YAML configuration, including CF ratings.
+
+    Args:
+    - yaml_config: Parsed YAML configuration.
+    - rankings_dir: Directory where contest ranking files are stored.
+    - cf_ratings_dir: Directory where CF rating files are stored.
+
+    Returns:
+    - results: Dictionary with results for CF ratings and pairwise contest comparisons.
+    """
+    years = yaml_config["contests"]["years"]
+    pairs = yaml_config["contests"]["pairs"]
+    cf_contests = yaml_config["contests"]["cf"]
+
+    results = {}
+
+    # Process comparisons between contests and CF ratings
+    for contest in cf_contests:
+        print(f"\nProcessing comparison: {contest} vs CF Ratings")
+        yearly_results, weighted_average_tau = compare_contests_with_cf(
+            contest, cf_ratings_dir, rankings_dir, years
+        )
+        results[f"{contest}_vs_CF-Ratings"] = {
+            "yearly_results": yearly_results,
+            "weighted_average_tau": weighted_average_tau,
+        }
+
+    # Process other contest pairs
+    for contest1, contest2 in pairs:
+        print(f"\nProcessing comparison: {contest1} vs {contest2}")
+        total_tau = 0
+        total_schools = 0
+        yearly_results = {}
+
+        for year in years:
+            tau, num_schools = compare_contests(year, contest1, contest2, rankings_dir)
+            if tau is not None and not math.isnan(tau):
+                yearly_results[year] = {"tau": tau, "num_schools": num_schools}
+                total_tau += tau * num_schools * (num_schools - 1)
+                total_schools += num_schools * (num_schools - 1)
+
+        if total_schools == 0:
+            weighted_average_tau = None
+        else:
+            weighted_average_tau = total_tau / total_schools
+
+        results[(contest1, contest2)] = {
+            "yearly_results": yearly_results,
+            "weighted_average_tau": weighted_average_tau,
+        }
+
+    return results
+
+
+# Example usage
+if __name__ == "__main__":
+    # Load YAML configuration
+    yaml_file = "contests.yaml"
+    config = load_yaml(yaml_file)
+
+    # Rankings directory
+    rankings_dir = "./outputs/rankings"
+
+    # CF Ratings directory
+    cf_ratings_dir = "./cf-rating"
+
+    # Process comparisons
+    pairwise_results = process_pairs_with_cf(config, rankings_dir, cf_ratings_dir)
+
+    # Print results
+    print("\nComparison Results:")
+    for key, data in pairwise_results.items():
+        print(f"\nComparison: {key}")
+        if not data["yearly_results"]:
+            print("  No valid data found.")
+            continue
+
+        denominator = 0
+        for year, result in data["yearly_results"].items():
+            print(
+                f"  Year {year}: Tau = {result['tau']:.3f}, Shared Schools = {result['num_schools']}"
+            )
+            denominator += result["num_schools"] * (result["num_schools"] - 1)
+
+        avg_tau = data["weighted_average_tau"]
+        if avg_tau is None:
+            print("  Weighted Average Tau: None (no valid years)")
+        else:
+            print(f"  Weighted Average Tau: {avg_tau:.3f}")
+            print(f"  Denominator: {denominator}")

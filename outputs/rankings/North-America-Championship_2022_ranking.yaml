@@ -1,0 +1,550 @@
+- citation: First Place
+  honorableMentionCitation: null
+  institution: Massachusetts Institute of Technology
+  lastProblemTime: 290
+  medalCitation: Gold Medal
+  problemsSolved: 13
+  rank: 1
+  siteCitation: East
+  teamId: 668423
+  teamName: MIT CopyPaste
+  totalTime: 1634
+- citation: Second Place
+  honorableMentionCitation: null
+  institution: Swarthmore College
+  lastProblemTime: 268
+  medalCitation: Silver Medal
+  problemsSolved: 11
+  rank: 2
+  siteCitation: South
+  teamId: 668208
+  teamName: cout << 1/0 << endl;
+  totalTime: 2003
+- citation: Third Place
+  honorableMentionCitation: null
+  institution: University of Wisconsin-Madison
+  lastProblemTime: 253
+  medalCitation: Silver Medal
+  problemsSolved: 10
+  rank: 3
+  siteCitation: Central
+  teamId: 668204
+  teamName: Longest SubRoutine
+  totalTime: 1431
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: University of Waterloo
+  lastProblemTime: 226
+  medalCitation: Bronze Medal
+  problemsSolved: 7
+  rank: 4
+  siteCitation: ''
+  teamId: 668214
+  teamName: Waterloo Gold
+  totalTime: 898
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: Carnegie Mellon University
+  lastProblemTime: 268
+  medalCitation: Bronze Medal
+  problemsSolved: 7
+  rank: 5
+  siteCitation: ''
+  teamId: 668213
+  teamName: CMU1
+  totalTime: 1014
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: Georgia Institute of Technology
+  lastProblemTime: 278
+  medalCitation: Bronze Medal
+  problemsSolved: 7
+  rank: 6
+  siteCitation: ''
+  teamId: 668198
+  teamName: Acceptable
+  totalTime: 1278
+- citation: Seventh Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 272
+  medalCitation: Bronze Medal
+  problemsSolved: 7
+  rank: 7
+  siteCitation: ''
+  teamId: 667858
+  teamName: UCF Iris
+  totalTime: 1346
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: Columbia University
+  lastProblemTime: 263
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 8
+  siteCitation: ''
+  teamId: 668210
+  teamName: Columbia-fortcoders
+  totalTime: 1041
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: Harvard University
+  lastProblemTime: 265
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 8
+  siteCitation: ''
+  teamId: 668424
+  teamName: Harvard 1
+  totalTime: 1193
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: Purdue University
+  lastProblemTime: 232
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 8
+  siteCitation: ''
+  teamId: 668791
+  teamName: Purdue UWU
+  totalTime: 815
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: Rutgers University
+  lastProblemTime: 232
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 8
+  siteCitation: ''
+  teamId: 668211
+  teamName: Rutgers-7
+  totalTime: 809
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: Stanford University
+  lastProblemTime: 236
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 8
+  siteCitation: ''
+  teamId: 668203
+  teamName: Cardinal
+  totalTime: 949
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: University of Alberta
+  lastProblemTime: 287
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 8
+  siteCitation: ''
+  teamId: 668333
+  teamName: Alberta Aqua
+  totalTime: 1306
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: University of Illinois at Urbana-Champaign
+  lastProblemTime: 283
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 8
+  siteCitation: ''
+  teamId: 668206
+  teamName: UIUC A
+  totalTime: 1124
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: University of Southern California
+  lastProblemTime: 269
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 8
+  siteCitation: ''
+  teamId: 669219
+  teamName: USC Trojans
+  totalTime: 963
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: The University of Texas at Austin
+  lastProblemTime: 288
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 8
+  siteCitation: ''
+  teamId: 668200
+  teamName: NewType
+  totalTime: 1028
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: University of Washington
+  lastProblemTime: 289
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 8
+  siteCitation: West
+  teamId: 668202
+  teamName: new-final-final-2
+  totalTime: 880
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: New York University
+  lastProblemTime: 237
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 18
+  siteCitation: ''
+  teamId: 668792
+  teamName: NYU-A.C.E.
+  totalTime: 824
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: Texas A&M University
+  lastProblemTime: 281
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 18
+  siteCitation: ''
+  teamId: 668775
+  teamName: /tableflip WA
+  totalTime: 1008
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: The University of British Columbia
+  lastProblemTime: 251
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 18
+  siteCitation: ''
+  teamId: 668779
+  teamName: O(mae wa mou shindeiru)
+  totalTime: 854
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: University of Maryland
+  lastProblemTime: 273
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 18
+  siteCitation: ''
+  teamId: 668209
+  teamName: UMD Black
+  totalTime: 885
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: University of Michigan at Ann Arbor
+  lastProblemTime: 229
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 18
+  siteCitation: ''
+  teamId: 668790
+  teamName: Victors
+  totalTime: 593
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: University of Rochester
+  lastProblemTime: 227
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 18
+  siteCitation: ''
+  teamId: 668782
+  teamName: Rochester  Yellowjackets
+  totalTime: 820
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: University of Toronto
+  lastProblemTime: 285
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 18
+  siteCitation: ''
+  teamId: 669216
+  teamName: UofT Blue
+  totalTime: 1271
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Brigham Young University
+  lastProblemTime: 252
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 25
+  siteCitation: ''
+  teamId: 668334
+  teamName: BYU *
+  totalTime: 565
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Cornell University
+  lastProblemTime: 271
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 25
+  siteCitation: ''
+  teamId: 668793
+  teamName: Cornell-1
+  totalTime: 737
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Lafayette College
+  lastProblemTime: 254
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 25
+  siteCitation: ''
+  teamId: 668799
+  teamName: Lafayette 1
+  totalTime: 653
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Milwaukee School of Engineering
+  lastProblemTime: 231
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 25
+  siteCitation: ''
+  teamId: 668205
+  teamName: Kotlinaughts
+  totalTime: 880
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Northeastern University
+  lastProblemTime: 218
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 25
+  siteCitation: ''
+  teamId: 668784
+  teamName: NEU 1
+  totalTime: 666
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Simon Fraser University
+  lastProblemTime: 177
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 25
+  siteCitation: ''
+  teamId: 668778
+  teamName: SFU_Lavender
+  totalTime: 599
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: University of California, Berkeley
+  lastProblemTime: 281
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 25
+  siteCitation: ''
+  teamId: 668777
+  teamName: Berkeley Blue
+  totalTime: 771
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: University of California, Los Angeles
+  lastProblemTime: 194
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 25
+  siteCitation: ''
+  teamId: 668212
+  teamName: UCLA Lemon Meringue
+  totalTime: 591
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: University of California San Diego
+  lastProblemTime: 240
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 25
+  siteCitation: ''
+  teamId: 668786
+  teamName: UCSD Team Two
+  totalTime: 682
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Yale University
+  lastProblemTime: 195
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 25
+  siteCitation: ''
+  teamId: 670087
+  teamName: Yale-Bulldog1
+  totalTime: 544
+- citation: ''
+  honorableMentionCitation: null
+  institution: California Institute of Technology
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 668199
+  teamName: Caltech 1
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Carleton College
+  lastProblemTime: 105
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 668801
+  teamName: Dining Hall Chicken
+  totalTime: 260
+- citation: ''
+  honorableMentionCitation: null
+  institution: Colorado School of Mines
+  lastProblemTime: 243
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 669546
+  teamName: Algonauts
+  totalTime: 454
+- citation: ''
+  honorableMentionCitation: null
+  institution: Drexel University
+  lastProblemTime: 248
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 669218
+  teamName: Babbage Dragons
+  totalTime: 504
+- citation: ''
+  honorableMentionCitation: null
+  institution: Emory University
+  lastProblemTime: 267
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 668788
+  teamName: M||E
+  totalTime: 613
+- citation: ''
+  honorableMentionCitation: null
+  institution: Iowa State University
+  lastProblemTime: 251
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 668803
+  teamName: HYPEROMEGAPOGGERSCRAZY
+  totalTime: 633
+- citation: ''
+  honorableMentionCitation: null
+  institution: North Carolina State University
+  lastProblemTime: 187
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 668800
+  teamName: Long break
+  totalTime: 435
+- citation: ''
+  honorableMentionCitation: null
+  institution: Rice University
+  lastProblemTime: 213
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 668774
+  teamName: Rice Owls
+  totalTime: 241
+- citation: ''
+  honorableMentionCitation: null
+  institution: Troy University
+  lastProblemTime: 111
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 668787
+  teamName: Mahjong Masters
+  totalTime: 335
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Calgary
+  lastProblemTime: 272
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 668789
+  teamName: Codetoads
+  totalTime: 424
+- citation: ''
+  honorableMentionCitation: null
+  institution: The University of Chicago
+  lastProblemTime: 247
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 668207
+  teamName: Lying Flat
+  totalTime: 351
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Kentucky
+  lastProblemTime: 234
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 668795
+  teamName: UKy-bbb
+  totalTime: 502
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Minnesota - Twin Cities
+  lastProblemTime: 146
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 668802
+  teamName: Is This A Class?
+  totalTime: 240
+- citation: ''
+  honorableMentionCitation: null
+  institution: The University of Texas at Dallas
+  lastProblemTime: 175
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 668201
+  teamName: Comets 1
+  totalTime: 426
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Virginia
+  lastProblemTime: 198
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 668798
+  teamName: Seg Faults
+  totalTime: 381
+- citation: ''
+  honorableMentionCitation: null
+  institution: Vanderbilt University
+  lastProblemTime: 275
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 668796
+  teamName: VU Team 1
+  totalTime: 457

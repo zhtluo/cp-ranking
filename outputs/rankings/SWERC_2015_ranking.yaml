@@ -1,0 +1,539 @@
+- citation: First Place
+  honorableMentionCitation: null
+  institution: "Universitat Polit\xE8cnica de Catalunya"
+  lastProblemTime: 228
+  medalCitation: Gold Medal
+  problemsSolved: 9
+  rank: 1
+  siteCitation: null
+  teamId: 232334
+  teamName: UPC 1
+  totalTime: 1122
+- citation: Second Place
+  honorableMentionCitation: null
+  institution: "ETH Z\xFCrich"
+  lastProblemTime: 278
+  medalCitation: Gold Medal
+  problemsSolved: 8
+  rank: 2
+  siteCitation: null
+  teamId: 233223
+  teamName: Sub-ETHa
+  totalTime: 1345
+- citation: Third Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Paris"
+  lastProblemTime: 290
+  medalCitation: Silver Medal
+  problemsSolved: 8
+  rank: 3
+  siteCitation: null
+  teamId: 233075
+  teamName: ENS Ulm 1
+  totalTime: 1445
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: "Ecole Polytechnique F\xE9d\xE9rale de Lausanne"
+  lastProblemTime: 256
+  medalCitation: Silver Medal
+  problemsSolved: 7
+  rank: 4
+  siteCitation: null
+  teamId: 232655
+  teamName: "dru\u017Cyna z Lozanny"
+  totalTime: 1018
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: "Universitat Polit\xE8cnica de Catalunya"
+  lastProblemTime: 296
+  medalCitation: Silver Medal
+  problemsSolved: 5
+  rank: 5
+  siteCitation: null
+  teamId: 232335
+  teamName: UPC 2
+  totalTime: 776
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: University of the Basque Country
+  lastProblemTime: 286
+  medalCitation: Bronze Medal
+  problemsSolved: 5
+  rank: 6
+  siteCitation: null
+  teamId: 229419
+  teamName: Stark overflow
+  totalTime: 827
+- citation: Seventh Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Lyon"
+  lastProblemTime: 298
+  medalCitation: Bronze Medal
+  problemsSolved: 5
+  rank: 7
+  siteCitation: null
+  teamId: 231654
+  teamName: challENgerS
+  totalTime: 1026
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Paris"
+  lastProblemTime: 295
+  medalCitation: Bronze Medal
+  problemsSolved: 5
+  rank: 8
+  siteCitation: null
+  teamId: 233077
+  teamName: ENS Ulm 2
+  totalTime: 1221
+- citation: Ninth Place
+  honorableMentionCitation: null
+  institution: "Universitat Polit\xE8cnica de Catalunya"
+  lastProblemTime: 239
+  medalCitation: Bronze Medal
+  problemsSolved: 4
+  rank: 9
+  siteCitation: null
+  teamId: 232336
+  teamName: UPC 3
+  totalTime: 459
+- citation: Tenth Place
+  honorableMentionCitation: null
+  institution: "Universit\xE0 di Roma - La Sapienza"
+  lastProblemTime: 297
+  medalCitation: null
+  problemsSolved: 4
+  rank: 10
+  siteCitation: null
+  teamId: 212427
+  teamName: Sapienza 1
+  totalTime: 540
+- citation: Eleventh Place
+  honorableMentionCitation: null
+  institution: "ETH Z\xFCrich"
+  lastProblemTime: 247
+  medalCitation: null
+  problemsSolved: 4
+  rank: 11
+  siteCitation: null
+  teamId: 233065
+  teamName: "\u2193 dn \u028E\u0250\u028D s\u1D09\u0265\u0287 \u2193"
+  totalTime: 555
+- citation: Twelfth Place
+  honorableMentionCitation: null
+  institution: Universidade do Porto
+  lastProblemTime: 198
+  medalCitation: null
+  problemsSolved: 4
+  rank: 12
+  siteCitation: null
+  teamId: 232380
+  teamName: Ancelistas
+  totalTime: 610
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: "T\xE9l\xE9com Paris"
+  lastProblemTime: 295
+  medalCitation: null
+  problemsSolved: 4
+  rank: 13
+  siteCitation: null
+  teamId: 232144
+  teamName: VisioN CampaigN FaR
+  totalTime: 863
+- citation: Fourteenth Place
+  honorableMentionCitation: null
+  institution: Universidad Complutense de Madrid
+  lastProblemTime: 297
+  medalCitation: null
+  problemsSolved: 4
+  rank: 14
+  siteCitation: null
+  teamId: 232325
+  teamName: NameNotFoundException
+  totalTime: 1097
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Technion - Israel Institute of Technology
+  lastProblemTime: 173
+  medalCitation: null
+  problemsSolved: 3
+  rank: 15
+  siteCitation: null
+  teamId: 233420
+  teamName: Shalosh
+  totalTime: 337
+- citation: Sixteenth Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Paris"
+  lastProblemTime: 249
+  medalCitation: null
+  problemsSolved: 3
+  rank: 16
+  siteCitation: null
+  teamId: 233076
+  teamName: "\xC9NS Ulm 3"
+  totalTime: 483
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: Ecole Polytechnique
+  lastProblemTime: 277
+  medalCitation: null
+  problemsSolved: 3
+  rank: 17
+  siteCitation: null
+  teamId: 231188
+  teamName: "char lat\xF5es;"
+  totalTime: 587
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: Universidad de Murcia
+  lastProblemTime: 285
+  medalCitation: null
+  problemsSolved: 3
+  rank: 18
+  siteCitation: null
+  teamId: 233234
+  teamName: Polymorphic Code
+  totalTime: 721
+- citation: Nineteenth Place
+  honorableMentionCitation: null
+  institution: Universidad Complutense de Madrid
+  lastProblemTime: 298
+  medalCitation: null
+  problemsSolved: 3
+  rank: 19
+  siteCitation: null
+  teamId: 232324
+  teamName: Pulir cera
+  totalTime: 903
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: University of Bologna
+  lastProblemTime: 137
+  medalCitation: null
+  problemsSolved: 2
+  rank: 20
+  siteCitation: null
+  teamId: 237661
+  teamName: Pizza Mafia Mandolino
+  totalTime: 235
+- citation: Twenty-first Place
+  honorableMentionCitation: null
+  institution: Universidad Complutense de Madrid
+  lastProblemTime: 198
+  medalCitation: null
+  problemsSolved: 2
+  rank: 21
+  siteCitation: null
+  teamId: 232323
+  teamName: Dar cera
+  totalTime: 308
+- citation: Twenty-second Place
+  honorableMentionCitation: null
+  institution: "Ecole Polytechnique F\xE9d\xE9rale de Lausanne"
+  lastProblemTime: 199
+  medalCitation: null
+  problemsSolved: 2
+  rank: 22
+  siteCitation: null
+  teamId: 232656
+  teamName: \0
+  totalTime: 387
+- citation: Twenty-third Place
+  honorableMentionCitation: null
+  institution: University of Bologna
+  lastProblemTime: 249
+  medalCitation: null
+  problemsSolved: 2
+  rank: 23
+  siteCitation: null
+  teamId: 237662
+  teamName: Some Italian Guys
+  totalTime: 456
+- citation: Twenty-fourth Place
+  honorableMentionCitation: null
+  institution: University of Coimbra
+  lastProblemTime: 280
+  medalCitation: null
+  problemsSolved: 2
+  rank: 24
+  siteCitation: null
+  teamId: 233614
+  teamName: segfault
+  totalTime: 537
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Lyon"
+  lastProblemTime: 249
+  medalCitation: null
+  problemsSolved: 2
+  rank: 25
+  siteCitation: null
+  teamId: 231655
+  teamName: ENSL
+  totalTime: 557
+- citation: Twenty-sixth Place
+  honorableMentionCitation: null
+  institution: Ecole Polytechnique
+  lastProblemTime: 150
+  medalCitation: null
+  problemsSolved: 1
+  rank: 26
+  siteCitation: null
+  teamId: 239581
+  teamName: S34
+  totalTime: 150
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: "Faculdade de Ci\xEAncias - Universidade de Lisboa"
+  lastProblemTime: 168
+  medalCitation: null
+  problemsSolved: 1
+  rank: 27
+  siteCitation: null
+  teamId: 233880
+  teamName: FCools
+  totalTime: 168
+- citation: Twenty-eigth Place
+  honorableMentionCitation: null
+  institution: Politecnico di Torino
+  lastProblemTime: 156
+  medalCitation: null
+  problemsSolved: 1
+  rank: 28
+  siteCitation: null
+  teamId: 238686
+  teamName: Scrat@polito
+  totalTime: 176
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: Universidade Nova de Lisboa
+  lastProblemTime: 203
+  medalCitation: null
+  problemsSolved: 1
+  rank: 29
+  siteCitation: null
+  teamId: 233759
+  teamName: Caparica Exceptions
+  totalTime: 203
+- citation: Thirtieth Place
+  honorableMentionCitation: null
+  institution: University of Coimbra
+  lastProblemTime: 194
+  medalCitation: null
+  problemsSolved: 1
+  rank: 30
+  siteCitation: null
+  teamId: 238681
+  teamName: DNP
+  totalTime: 214
+- citation: Thirty-first Place
+  honorableMentionCitation: null
+  institution: University of Coimbra
+  lastProblemTime: 221
+  medalCitation: null
+  problemsSolved: 1
+  rank: 31
+  siteCitation: null
+  teamId: 235893
+  teamName: UCal
+  totalTime: 221
+- citation: Thirty-second Place
+  honorableMentionCitation: null
+  institution: "Universitat Polit\xE8cnica de Val\xE8ncia"
+  lastProblemTime: 205
+  medalCitation: null
+  problemsSolved: 1
+  rank: 32
+  siteCitation: null
+  teamId: 232329
+  teamName: ETSINF-2
+  totalTime: 225
+- citation: Thirty-third Place
+  honorableMentionCitation: null
+  institution: "T\xE9l\xE9com Paris"
+  lastProblemTime: 176
+  medalCitation: null
+  problemsSolved: 1
+  rank: 33
+  siteCitation: null
+  teamId: 232143
+  teamName: On place la barre haut
+  totalTime: 256
+- citation: Thirty-fourth Place
+  honorableMentionCitation: null
+  institution: Universidad de Murcia
+  lastProblemTime: 280
+  medalCitation: null
+  problemsSolved: 1
+  rank: 34
+  siteCitation: null
+  teamId: 233235
+  teamName: New NULL team
+  totalTime: 280
+- citation: Thirty-fifth Place
+  honorableMentionCitation: null
+  institution: "Institut National des Sciences Appliqu\xE9es de Rouen"
+  lastProblemTime: 278
+  medalCitation: null
+  problemsSolved: 1
+  rank: 35
+  siteCitation: null
+  teamId: 232657
+  teamName: INSA Rouen 1
+  totalTime: 338
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universidad Aut\xF3noma de Madrid"
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 36
+  siteCitation: null
+  teamId: 230675
+  teamName: Free the mallocs
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universitat Polit\xE8cnica de Val\xE8ncia"
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 37
+  siteCitation: null
+  teamId: 231486
+  teamName: ETSINF-1
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Paris-Saclay"
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 38
+  siteCitation: null
+  teamId: 233030
+  teamName: 4chan
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Universidad CEU-Cardenal Herrera
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 39
+  siteCitation: null
+  teamId: 223060
+  teamName: PVTCoders CEU-UCH
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Universidade do Porto
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 40
+  siteCitation: null
+  teamId: 232381
+  teamName: Borgasort
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universidade da Coru\xF1a"
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 41
+  siteCitation: null
+  teamId: 238223
+  teamName: FICtory
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of the Basque Country
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 42
+  siteCitation: null
+  teamId: 233158
+  teamName: Weregeeks
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universidad Aut\xF3noma de Madrid"
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 43
+  siteCitation: null
+  teamId: 230676
+  teamName: Hombres C
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Ecole Polytechnique
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 44
+  siteCitation: null
+  teamId: 231189
+  teamName: boolceta
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Universitat Pompeu Fabra
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 45
+  siteCitation: null
+  teamId: 232739
+  teamName: The Binary Three
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Valladolid
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 46
+  siteCitation: null
+  teamId: 232317
+  teamName: UVa
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Institut National des Sciences Appliqu\xE9es de Rouen"
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 47
+  siteCitation: null
+  teamId: 232659
+  teamName: INSA Rouen 2
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universidad Aut\xF3noma de Madrid"
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 48
+  siteCitation: null
+  teamId: 230677
+  teamName: HPPH
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Faculdade de Engenharia da Universidade do Porto
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 49
+  siteCitation: null
+  teamId: 232382
+  teamName: deadBits
+  totalTime: 0
