@@ -105,7 +105,7 @@ if __name__ == "__main__":
                 if year not in merged[key]:
                     print(f"--Adding {year} to {key}")
                     changed_smth = True
-                elif merged[key][year] is not cid:
+                elif merged[key][year] != cid:
                     print(f"[WARN] Updated Contest ID: {key} for {year} is set"\
                           f" to {merged[key][year]} but is found to be {cid}")
                 merged[key].setdefault(year, cid)
