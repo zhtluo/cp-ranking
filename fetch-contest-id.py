@@ -3,13 +3,22 @@ import requests
 import os
 from copy import deepcopy
 
-
+############# YAML
 # Load the YAML file
 def load_yaml(file_path):
     with open(file_path, "r") as file:
         return yaml.safe_load(file)
 
+# Save data to a YAML file
+def save_to_yaml(data, file_path):
+    # Create directories if needed
+    os.makedirs(os.path.dirname(file_path), exist_ok=True)
+    with open(file_path, "w") as file:
+        yaml.dump(data, file, default_flow_style=False)
+        print(f"Data saved to {file_path}")
 
+
+############# html stuff
 # Generate URLs from contest keys and years
 def generate_urls(contests_yaml):
     keys = contests_yaml["contests"]["keys"]
@@ -35,14 +44,6 @@ def fetch_contest_id(url):
         print(f"Failed to fetch data from {url}: {e}")
         return None
 
-
-# Save data to a YAML file
-def save_to_yaml(data, file_path):
-    # Create directories if needed
-    os.makedirs(os.path.dirname(file_path), exist_ok=True)
-    with open(file_path, "w") as file:
-        yaml.dump(data, file, default_flow_style=False)
-    print(f"Data saved to {file_path}")
 
 
 # Main script
