@@ -2,6 +2,7 @@ import yaml
 import requests
 import os
 
+SKIP_PREV_GENERATED = True
 
 # Load the YAML file with contest IDs
 def load_contest_ids(file_path):
@@ -11,6 +12,13 @@ def load_contest_ids(file_path):
 
 # Fetch ranking data for a specific contest ID
 def fetch_ranking(contest_id, output_dir, contest_name, year):
+    yaml_filename = f"{contest_name}_{year}_ranking.yaml"
+    yaml_output_path = os.path.join(output_dir, yaml_filename)
+
+    if SKIP_PREV_GENERATED and os.path.exists(yaml_output_path):
+        print(f"  [SKIP] {yaml_filename} already exists – not re-downloading.")
+        return
+
     url = f"https://icpc.global/api/contest/public/search/contest/{contest_id}?q=proj:rank,institution,teamName,problemsSolved,totalTime,lastProblemTime,medalCitation%3B&page=1&size=1000"
     try:
         response = requests.get(url, timeout=10)
@@ -18,13 +26,10 @@ def fetch_ranking(contest_id, output_dir, contest_name, year):
         data = response.json()
 
         # Convert and save the data to YAML
-        yaml_filename = f"{contest_name}_{year}_ranking.yaml"
-        yaml_output_path = os.path.join(output_dir, yaml_filename)
         with open(yaml_output_path, "w") as yaml_file:
             yaml.dump(data, yaml_file, default_flow_style=False)
-        print(
-            f"Saved ranking data in YAML for {contest_name} {year} to {yaml_output_path}"
-        )
+        print(f"--Saved ranking data in YAML for "\
+              f"{contest_name} {year} to {yaml_output_path}")
 
     except requests.RequestException as e:
         print(f"[WARN] Failed to fetch ranking for contest ID {contest_id}: {e}")
