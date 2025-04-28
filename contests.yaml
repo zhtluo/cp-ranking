@@ -1,5 +1,6 @@
 contests:
   keys:
+    # ################## There is basically nothing on ICPC global before /2009 (the 2008-2009 season)
     - World-Finals
     # Championships
     - North-America-Championship
@@ -16,9 +17,9 @@ contests:
     - Central-Europe
     - SWERC
     - Northwestern-Europe
-
     - Northern-Eurasia
     - Asia-EC-League-Final
+
     # NA Regionals
     - East-Central-NA
     - Mid-Atlantic-USA
@@ -26,11 +27,109 @@ contests:
     - North-Central-North-America
     - PacNW
     - Rocky-Mountain
-    - SCUSA
     - Southern-California
     - Southeast-USA
     - greater-new-york
     - northeast-north-america
+    ## Northern Eurasia Regionals -- complete
+    # regional -2024 to present  Tajikistan
+    # - used to be with Uzbekistan-Regional from -2023 to -2019, DNE before that
+    - TjRC
+  split-keys:
+    # NA Regionals
+    South-Central:
+      # SCUSA from -1999 to -2018
+      # South-Central-USA from -2018 to present
+      - SCUSA
+      - South-Central-USA
+
+    ## Northern Eurasia Regionals -- complete
+    Armenia:
+      # regional from -2020 (2019-2020) to present
+      # Subregional from -2019 to -2009
+      - Armenia-Regional
+      - Armenia-Subregional
+    Azerbaijan:
+      # regional -2020 to present
+      # subregional from -2019 to -2009
+      - Azerbaijan-Regional
+      - Azerbaijan-Subregional
+    Belarus:
+      # regional -2023 to present
+      # Belarus-and-Baltics-Regional from -2020 to -2022
+      # Western-Subregiona from -2019 to -2009
+      - Belarus-Regional
+      - Belarus-and-Baltics-Regional
+      - Western-Subregional
+    Central:
+      # regional -2020 to present
+      # subregional from -2019 to -2009
+      - Central-Regional
+      - Central-Subregional
+    East-Siberian:
+      # regional -2020 to present
+      # subregional from -2019 to -2009
+      - East-Siberian-Regional
+      - East-Siberian-Subregional
+    Far-Eastern:
+      # regional -2020 to present
+      # subregional from -2019 to -2009
+      - Far-Eastern-Regional
+      - Far-Eastern-Subregional
+    Georgia:
+      # regional -2020 to present
+      # subregional from -2019 to -2009
+      - Georgia-Regional
+      - Georgia-Subregional
+    Kazakhstan:
+      # regional -2020 to present
+      # subregional from -2019 to -2009
+      - Kazakhstan-Regional
+      - Kazakhstan-Subregional
+    Kyrgyzstan:
+      # regional -2020 to present
+      # subregional from -2019 to -2009
+      - Kyrgyzstan-Regional
+      - Kyrgyzstan-Subregional
+    MoscowMRC:
+      # regional -2020 to present
+      # Moscow-Subregional from -2019 to -2009
+      - MRC
+      - Moscow-Subregional
+    Northwestern-Russia:
+      # regional -2020 to present
+      # subregional from -2019 to -2009
+      - Northwestern-Russia-Regional
+      - Northern-Subregional
+    Southern-and-Volga:
+      # regional -2020 to present
+      # Southern-Subregional from -2019 to -2009
+      - Southern-and-Volga-Russia-Regional
+      - Southern-Subregional
+    Taurida:
+      # regional -2020 to present
+      # regional -2019 to -2015 (did not exist before)
+      - Taurida-Regional
+      - Taurida
+    UralEastern:
+      # regional -2020 to present
+      # subregional from -2019 to -2018
+      # Eastern-Subregional from -2017 to -2016
+      # Easter-Subregional from -2015 to -2009
+      - Ural-Regional
+      - Urals-Subregional
+      - Eastern-Subregional
+      - Easter-Subregional
+    Uzbekistan:
+      # regional -2020 to present
+      # subregional from -2019 to -2009
+      - Uzbekistan-Regional
+      - Uzbekistan-Subregional
+    West-Siberian:
+      # regional -2020 to present
+      # subregional from -2019 to -2009
+      - West-Siberian-Regional
+      - West-Siberian-Subregional
   years:
     - 2024
     - 2023
