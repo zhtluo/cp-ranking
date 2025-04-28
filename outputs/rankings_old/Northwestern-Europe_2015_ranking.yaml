@@ -1,0 +1,1056 @@
+- citation: First Place
+  honorableMentionCitation: null
+  institution: University of Copenhagen
+  lastProblemTime: 295
+  medalCitation: Gold
+  problemsSolved: 9
+  rank: 1
+  siteCitation: null
+  teamId: 238556
+  teamName: Lambdabamserne
+  totalTime: 1298
+- citation: Second Place
+  honorableMentionCitation: null
+  institution: Friedrich-Alexander-University Erlangen-Nuremberg
+  lastProblemTime: 291
+  medalCitation: Gold
+  problemsSolved: 9
+  rank: 2
+  siteCitation: null
+  teamId: 234123
+  teamName: Old Fafhioned Typefetting
+  totalTime: 1462
+- citation: Third Place
+  honorableMentionCitation: null
+  institution: KTH - Royal Institute of Technology
+  lastProblemTime: 131
+  medalCitation: Gold
+  problemsSolved: 8
+  rank: 3
+  siteCitation: null
+  teamId: 231714
+  teamName: Omogen Heap
+  totalTime: 747
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: University of Helsinki
+  lastProblemTime: 230
+  medalCitation: Gold
+  problemsSolved: 8
+  rank: 4
+  siteCitation: null
+  teamId: 236356
+  teamName: Game of Nolife
+  totalTime: 814
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: Leiden University
+  lastProblemTime: 246
+  medalCitation: Silver
+  problemsSolved: 8
+  rank: 5
+  siteCitation: null
+  teamId: 234374
+  teamName: Syntax Error
+  totalTime: 990
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: University of Cambridge
+  lastProblemTime: 197
+  medalCitation: Silver
+  problemsSolved: 8
+  rank: 6
+  siteCitation: null
+  teamId: 235811
+  teamName: EE Dragons
+  totalTime: 1045
+- citation: Seventh Place
+  honorableMentionCitation: null
+  institution: Imperial College London
+  lastProblemTime: 260
+  medalCitation: Silver
+  problemsSolved: 8
+  rank: 7
+  siteCitation: null
+  teamId: 232740
+  teamName: DoCtors
+  totalTime: 1190
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: Karlsruhe Institute of Technology
+  lastProblemTime: 273
+  medalCitation: Silver
+  problemsSolved: 8
+  rank: 8
+  siteCitation: null
+  teamId: 234062
+  teamName: hacKIT
+  totalTime: 1204
+- citation: Ninth Place
+  honorableMentionCitation: null
+  institution: "Universit\xE9 Catholique de Louvain"
+  lastProblemTime: 205
+  medalCitation: Bronze
+  problemsSolved: 7
+  rank: 9
+  siteCitation: null
+  teamId: 238946
+  teamName: UCooL
+  totalTime: 790
+- citation: Tenth Place
+  honorableMentionCitation: null
+  institution: Radboud University
+  lastProblemTime: 235
+  medalCitation: Bronze
+  problemsSolved: 7
+  rank: 10
+  siteCitation: null
+  teamId: 234159
+  teamName: Kaas
+  totalTime: 894
+- citation: Eleventh Place
+  honorableMentionCitation: null
+  institution: Katholieke Universiteit Leuven
+  lastProblemTime: 294
+  medalCitation: Bronze
+  problemsSolved: 7
+  rank: 11
+  siteCitation: null
+  teamId: 237648
+  teamName: ''';DROP TABLE Participants;'
+  totalTime: 906
+- citation: Twelfth Place
+  honorableMentionCitation: null
+  institution: University of Cambridge
+  lastProblemTime: 288
+  medalCitation: Bronze
+  problemsSolved: 7
+  rank: 12
+  siteCitation: null
+  teamId: 235812
+  teamName: Beuler
+  totalTime: 1001
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: KTH - Royal Institute of Technology
+  lastProblemTime: 250
+  medalCitation: Bronze
+  problemsSolved: 7
+  rank: 13
+  siteCitation: null
+  teamId: 231715
+  teamName: E^3
+  totalTime: 1055
+- citation: Fourteenth Place
+  honorableMentionCitation: null
+  institution: Vrije Universiteit
+  lastProblemTime: 289
+  medalCitation: Bronze
+  problemsSolved: 7
+  rank: 14
+  siteCitation: null
+  teamId: 237705
+  teamName: TicTac
+  totalTime: 1108
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Aarhus University
+  lastProblemTime: 214
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 237822
+  teamName: Massive octo ninja
+  totalTime: 772
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: University College London
+  lastProblemTime: 249
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 237953
+  teamName: Carrot
+  totalTime: 786
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: University of Oxford
+  lastProblemTime: 283
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 237718
+  teamName: Axioms
+  totalTime: 1682
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Karlsruhe Institute of Technology
+  lastProblemTime: 289
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 234063
+  teamName: justKITing
+  totalTime: 1084
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: University of Edinburgh
+  lastProblemTime: 240
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 238263
+  teamName: Challenge accepted
+  totalTime: 653
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Saarland University
+  lastProblemTime: 169
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 237651
+  teamName: <(OvO)>
+  totalTime: 587
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: "University of G\xF6ttingen"
+  lastProblemTime: 180
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 238587
+  teamName: The Gaussians at IfI
+  totalTime: 694
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Friedrich-Alexander-University Erlangen-Nuremberg
+  lastProblemTime: 264
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 234124
+  teamName: FAUltfinder
+  totalTime: 913
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Friedrich-Alexander-University Erlangen-Nuremberg
+  lastProblemTime: 259
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 234121
+  teamName: Rage maximum query
+  totalTime: 616
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: "Technische Universit\xE4t M\xFCnchen"
+  lastProblemTime: 261
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 237904
+  teamName: '#define true false'
+  totalTime: 850
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: KTH - Royal Institute of Technology
+  lastProblemTime: 291
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 231716
+  teamName: Quantum Quoders
+  totalTime: 785
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Reykjavik University
+  lastProblemTime: 230
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 231670
+  teamName: viRUs
+  totalTime: 573
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: "Universit\xE9 Catholique de Louvain"
+  lastProblemTime: 285
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 238947
+  teamName: UCooLTwo
+  totalTime: 1096
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: University of Oxford
+  lastProblemTime: 198
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 237720
+  teamName: Vortex manipulator
+  totalTime: 614
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: Eindhoven University of Technology
+  lastProblemTime: 246
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 238126
+  teamName: "\u2604"
+  totalTime: 769
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: Jacobs University
+  lastProblemTime: 290
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 237687
+  teamName: FAK
+  totalTime: 737
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: "Johannes Gutenberg Universit\xE4t Mainz"
+  lastProblemTime: 219
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 233621
+  teamName: JOGUrt
+  totalTime: 885
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: University of Cambridge
+  lastProblemTime: 200
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 235813
+  teamName: Zrakomlati
+  totalTime: 590
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: "Ludwig-Maximilians Universit\xE4t M\xFCnchen"
+  lastProblemTime: 297
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 237415
+  teamName: Quokka
+  totalTime: 650
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: University of Twente
+  lastProblemTime: 150
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 237924
+  teamName: "run\xBBescape"
+  totalTime: 438
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: "Link\xF6ping University"
+  lastProblemTime: 293
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 237971
+  teamName: "15% Mer Kr\xE4m"
+  totalTime: 1238
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: Universiteit Utrecht
+  lastProblemTime: 183
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 237717
+  teamName: Turing Compl
+  totalTime: 649
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: Imperial College London
+  lastProblemTime: 243
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 232741
+  teamName: Y U NO ACC
+  totalTime: 672
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: "Technische Universit\xE4t M\xFCnchen"
+  lastProblemTime: 284
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 237937
+  teamName: TeamNameInProgress
+  totalTime: 1020
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: Delft University of Technology
+  lastProblemTime: 161
+  medalCitation: null
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 234749
+  teamName: zodiac
+  totalTime: 493
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: University of Oslo
+  lastProblemTime: 166
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 236359
+  teamName: Typing Chicken
+  totalTime: 374
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Karlsruhe Institute of Technology
+  lastProblemTime: 243
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 234061
+  teamName: ChaosKITs
+  totalTime: 656
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Lund University
+  lastProblemTime: 150
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 231645
+  teamName: "F\xE5ngade i en while-loop"
+  totalTime: 329
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: "Technische Universit\xE4t M\xFCnchen"
+  lastProblemTime: 289
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 237908
+  teamName: Kartoffel
+  totalTime: 918
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: University of Bergen
+  lastProblemTime: 149
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 237620
+  teamName: THM
+  totalTime: 413
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Eindhoven University of Technology
+  lastProblemTime: 145
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 238127
+  teamName: Fuzz
+  totalTime: 348
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Imperial College London
+  lastProblemTime: 229
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 232742
+  teamName: Code Ninjas
+  totalTime: 465
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Aalto University
+  lastProblemTime: 278
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 237895
+  teamName: goto pizza;
+  totalTime: 781
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: University of Southampton
+  lastProblemTime: 202
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 232029
+  teamName: Soton 1.1
+  totalTime: 594
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Norwegian University of Science and Technology
+  lastProblemTime: 289
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 234257
+  teamName: "Kj\xF8ttdeig"
+  totalTime: 600
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: "Johannes Gutenberg Universit\xE4t Mainz"
+  lastProblemTime: 235
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 233620
+  teamName: ALT
+  totalTime: 512
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Universiteit Utrecht
+  lastProblemTime: 201
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 237716
+  teamName: sudo win
+  totalTime: 457
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: "Link\xF6ping University"
+  lastProblemTime: 214
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 237973
+  teamName: SKM
+  totalTime: 616
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Saarland University
+  lastProblemTime: 152
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 237652
+  teamName: ^(OvO)^
+  totalTime: 398
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Aarhus University
+  lastProblemTime: 150
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 237827
+  teamName: Stroustrup Strategists
+  totalTime: 365
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: "Universit\xE4t zu L\xFCbeck"
+  lastProblemTime: 262
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 238549
+  teamName: Team Kuno
+  totalTime: 600
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: "Universit\xE4t zu L\xFCbeck"
+  lastProblemTime: 180
+  medalCitation: null
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 238548
+  teamName: No Output
+  totalTime: 481
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Eindhoven University of Technology
+  lastProblemTime: 291
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 238128
+  teamName: '``Can we drink yet?"'
+  totalTime: 638
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Bath
+  lastProblemTime: 295
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 238966
+  teamName: Bath-1
+  totalTime: 593
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Oslo
+  lastProblemTime: 141
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 236357
+  teamName: "3000m \xD8l"
+  totalTime: 258
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Warwick
+  lastProblemTime: 225
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 234968
+  teamName: Lel
+  totalTime: 397
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Delft University of Technology
+  lastProblemTime: 273
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 234750
+  teamName: VVV
+  totalTime: 630
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Link\xF6ping University"
+  lastProblemTime: 232
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 237972
+  teamName: if (solved) throw new balloon
+  totalTime: 501
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Oxford
+  lastProblemTime: 250
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 237719
+  teamName: includeOx
+  totalTime: 302
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Delft University of Technology
+  lastProblemTime: 176
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 234751
+  teamName: Phoenix
+  totalTime: 284
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Jacobs University
+  lastProblemTime: 268
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 237898
+  teamName: 'YES'
+  totalTime: 374
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Warwick
+  lastProblemTime: 233
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 234967
+  teamName: Infinite Loop
+  totalTime: 321
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Edinburgh
+  lastProblemTime: 180
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 238264
+  teamName: Bulgarian Squirrel Force
+  totalTime: 445
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Lund University
+  lastProblemTime: 198
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 231647
+  teamName: Hack-o-Matic
+  totalTime: 414
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Lund University
+  lastProblemTime: 271
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 231669
+  teamName: Rootkjell o company
+  totalTime: 669
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Universiteit van Amsterdam
+  lastProblemTime: 286
+  medalCitation: null
+  problemsSolved: 3
+  rank: 57
+  siteCitation: null
+  teamId: 234612
+  teamName: Crown of Command Line
+  totalTime: 605
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universit\xE4t Rostock"
+  lastProblemTime: 194
+  medalCitation: null
+  problemsSolved: 2
+  rank: 71
+  siteCitation: null
+  teamId: 233844
+  teamName: Mission I'm Possible
+  totalTime: 226
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Nottingham
+  lastProblemTime: 215
+  medalCitation: null
+  problemsSolved: 2
+  rank: 71
+  siteCitation: null
+  teamId: 237251
+  teamName: Xiaobai
+  totalTime: 328
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Frankfurt University of Applied Sciences
+  lastProblemTime: 292
+  medalCitation: null
+  problemsSolved: 2
+  rank: 71
+  siteCitation: null
+  teamId: 232951
+  teamName: HipHipArray
+  totalTime: 339
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Uppsala University
+  lastProblemTime: 214
+  medalCitation: null
+  problemsSolved: 2
+  rank: 71
+  siteCitation: null
+  teamId: 233514
+  teamName: Static void
+  totalTime: 372
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Vrije Universiteit
+  lastProblemTime: 278
+  medalCitation: null
+  problemsSolved: 2
+  rank: 71
+  siteCitation: null
+  teamId: 237704
+  teamName: resistance==futile
+  totalTime: 590
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Norwegian University of Science and Technology
+  lastProblemTime: 257
+  medalCitation: null
+  problemsSolved: 2
+  rank: 71
+  siteCitation: null
+  teamId: 234258
+  teamName: Ninjadev
+  totalTime: 367
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Applied Sciences Landshut
+  lastProblemTime: 58
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 237964
+  teamName: extends Object
+  totalTime: 78
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Bergen
+  lastProblemTime: 18
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 237621
+  teamName: RageAgainstTheTuringMachine
+  totalTime: 38
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Liverpool
+  lastProblemTime: 60
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 239328
+  teamName: Doris
+  totalTime: 60
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Katholieke Universiteit Leuven
+  lastProblemTime: 22
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 237676
+  teamName: Drink en denk
+  totalTime: 22
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Frankfurt University of Applied Sciences
+  lastProblemTime: 29
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 232950
+  teamName: q.e.d.
+  totalTime: 29
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University College London
+  lastProblemTime: 178
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 237954
+  teamName: Segmentation fault
+  totalTime: 218
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Applied Sciences Landshut
+  lastProblemTime: 64
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 237955
+  teamName: BestPudgeEU
+  totalTime: 84
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Warwick
+  lastProblemTime: 21
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 234969
+  teamName: Superscrubs
+  totalTime: 21
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Bath
+  lastProblemTime: 275
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 238967
+  teamName: Bath-2
+  totalTime: 295
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Ume\xE5 University"
+  lastProblemTime: 22
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 236360
+  teamName: 28 Arrays Later
+  totalTime: 42
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Manchester
+  lastProblemTime: 23
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 237491
+  teamName: Brogrammers
+  totalTime: 43
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Copenhagen
+  lastProblemTime: 39
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 238557
+  teamName: Diarrekursive
+  totalTime: 59
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Lappeenranta University of Technology
+  lastProblemTime: 43
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 238204
+  teamName: LUT
+  totalTime: 43
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Liverpool
+  lastProblemTime: 34
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 239329
+  teamName: Error in String "teamName"
+  totalTime: 34
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Leiden University
+  lastProblemTime: 9
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 233749
+  teamName: ':(){:|:&};: #dabomb'
+  totalTime: 9
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Nottingham
+  lastProblemTime: 57
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 237249
+  teamName: iMoOR
+  totalTime: 77
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Applied Sciences Landshut
+  lastProblemTime: 24
+  medalCitation: null
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 237961
+  teamName: JustVisitingSweden
+  totalTime: 64
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Uppsala University
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 94
+  siteCitation: null
+  teamId: 233515
+  teamName: Mohebbolhoggeh
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Lule\xE5 University of Technology"
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 94
+  siteCitation: null
+  teamId: 238269
+  teamName: /etc/inte.d/
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Frankfurt University of Applied Sciences
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 94
+  siteCitation: null
+  teamId: 232952
+  teamName: Keine Ahnung
+  totalTime: 0

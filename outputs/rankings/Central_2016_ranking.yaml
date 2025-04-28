@@ -1,0 +1,407 @@
+- citation: First Place
+  honorableMentionCitation: null
+  institution: Rybinsk State Aviation Technical University
+  lastProblemTime: 277
+  medalCitation: null
+  problemsSolved: 8
+  rank: 1
+  siteCitation: null
+  teamId: 264175
+  teamName: 'Rybinsk SATU #1'
+  totalTime: 1255
+- citation: Second Place
+  honorableMentionCitation: null
+  institution: Yaroslavl State University
+  lastProblemTime: 260
+  medalCitation: null
+  problemsSolved: 6
+  rank: 2
+  siteCitation: null
+  teamId: 263420
+  teamName: Yaroslavl SU 1
+  totalTime: 970
+- citation: Third Place
+  honorableMentionCitation: null
+  institution: Orel State University
+  lastProblemTime: 288
+  medalCitation: null
+  problemsSolved: 5
+  rank: 3
+  siteCitation: null
+  teamId: 261068
+  teamName: PSU 3
+  totalTime: 525
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: Vyatka State University
+  lastProblemTime: 125
+  medalCitation: null
+  problemsSolved: 4
+  rank: 4
+  siteCitation: null
+  teamId: 263274
+  teamName: VyatkaSU 1
+  totalTime: 367
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: Orel State University
+  lastProblemTime: 234
+  medalCitation: null
+  problemsSolved: 4
+  rank: 5
+  siteCitation: null
+  teamId: 261064
+  teamName: PSU 1
+  totalTime: 460
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: Rybinsk State Aviation Technical University
+  lastProblemTime: 243
+  medalCitation: null
+  problemsSolved: 4
+  rank: 6
+  siteCitation: null
+  teamId: 264177
+  teamName: 'Rybinsk SATU #3'
+  totalTime: 830
+- citation: Seventh Place
+  honorableMentionCitation: null
+  institution: Ivanovo State University
+  lastProblemTime: 90
+  medalCitation: null
+  problemsSolved: 3
+  rank: 7
+  siteCitation: null
+  teamId: 253997
+  teamName: IvSU
+  totalTime: 149
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: Academy of Federal Security Guard Service of the Russian Federation
+  lastProblemTime: 174
+  medalCitation: null
+  problemsSolved: 3
+  rank: 8
+  siteCitation: null
+  teamId: 258692
+  teamName: AFSO
+  totalTime: 231
+- citation: Ninth Place
+  honorableMentionCitation: null
+  institution: Vologda State University
+  lastProblemTime: 180
+  medalCitation: null
+  problemsSolved: 3
+  rank: 9
+  siteCitation: null
+  teamId: 264371
+  teamName: Vologda SU 1
+  totalTime: 256
+- citation: Tenth Place
+  honorableMentionCitation: null
+  institution: Tula State University
+  lastProblemTime: 148
+  medalCitation: null
+  problemsSolved: 3
+  rank: 10
+  siteCitation: null
+  teamId: 255032
+  teamName: TSU1501
+  totalTime: 297
+- citation: Eleventh Place
+  honorableMentionCitation: null
+  institution: Vyatka State University
+  lastProblemTime: 272
+  medalCitation: null
+  problemsSolved: 3
+  rank: 11
+  siteCitation: null
+  teamId: 263276
+  teamName: VyatkaSU 3
+  totalTime: 469
+- citation: Twelfth Place
+  honorableMentionCitation: null
+  institution: Tula State L.N. Tolstoy Pedagogical University
+  lastProblemTime: 282
+  medalCitation: null
+  problemsSolved: 3
+  rank: 12
+  siteCitation: null
+  teamId: 261082
+  teamName: TSPU
+  totalTime: 887
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: Yaroslavl State University
+  lastProblemTime: 42
+  medalCitation: null
+  problemsSolved: 2
+  rank: 13
+  siteCitation: null
+  teamId: 263422
+  teamName: Yaroslavl SU 3
+  totalTime: 54
+- citation: Fourteenth Place
+  honorableMentionCitation: null
+  institution: Yaroslavl State Pedagogical University
+  lastProblemTime: 40
+  medalCitation: null
+  problemsSolved: 2
+  rank: 14
+  siteCitation: null
+  teamId: 258227
+  teamName: YSPU1
+  totalTime: 65
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Ivanovo State Power University
+  lastProblemTime: 41
+  medalCitation: null
+  problemsSolved: 2
+  rank: 15
+  siteCitation: null
+  teamId: 262536
+  teamName: 'ISPU #1'
+  totalTime: 67
+- citation: Sixteenth Place
+  honorableMentionCitation: null
+  institution: Ivanovo State Power University
+  lastProblemTime: 62
+  medalCitation: null
+  problemsSolved: 2
+  rank: 16
+  siteCitation: null
+  teamId: 262537
+  teamName: 'ISPU #2'
+  totalTime: 71
+- citation: Sixteenth Place
+  honorableMentionCitation: null
+  institution: Kovrov State Technological Academy
+  lastProblemTime: 41
+  medalCitation: null
+  problemsSolved: 2
+  rank: 16
+  siteCitation: null
+  teamId: 258877
+  teamName: Kovrov STA
+  totalTime: 71
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: Orel State University
+  lastProblemTime: 52
+  medalCitation: null
+  problemsSolved: 2
+  rank: 18
+  siteCitation: null
+  teamId: 261066
+  teamName: PSU 2
+  totalTime: 81
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: Vologda State University
+  lastProblemTime: 45
+  medalCitation: null
+  problemsSolved: 2
+  rank: 18
+  siteCitation: null
+  teamId: 264372
+  teamName: Vologda SU 2
+  totalTime: 81
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: Voronezh State University of Engineering Technologies
+  lastProblemTime: 49
+  medalCitation: null
+  problemsSolved: 2
+  rank: 18
+  siteCitation: null
+  teamId: 259580
+  teamName: VSUET
+  totalTime: 81
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Bryansk State University
+  lastProblemTime: 62
+  medalCitation: null
+  problemsSolved: 2
+  rank: 21
+  siteCitation: null
+  teamId: 259515
+  teamName: BRGU
+  totalTime: 98
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Tula State University
+  lastProblemTime: 78
+  medalCitation: null
+  problemsSolved: 2
+  rank: 22
+  siteCitation: null
+  teamId: 256420
+  teamName: TSU1502
+  totalTime: 118
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Cherepovets State University
+  lastProblemTime: 71
+  medalCitation: null
+  problemsSolved: 2
+  rank: 23
+  siteCitation: null
+  teamId: 266141
+  teamName: Woodpeckers
+  totalTime: 119
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Rybinsk State Aviation Technical University
+  lastProblemTime: 72
+  medalCitation: null
+  problemsSolved: 2
+  rank: 24
+  siteCitation: null
+  teamId: 264178
+  teamName: 'Rybinsk SATU #4'
+  totalTime: 120
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Tula State University
+  lastProblemTime: 116
+  medalCitation: null
+  problemsSolved: 2
+  rank: 25
+  siteCitation: null
+  teamId: 260721
+  teamName: TSU1503
+  totalTime: 154
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Bryansk State Technical University
+  lastProblemTime: 76
+  medalCitation: null
+  problemsSolved: 2
+  rank: 26
+  siteCitation: null
+  teamId: 252325
+  teamName: BSTU
+  totalTime: 164
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Vyatka State University
+  lastProblemTime: 170
+  medalCitation: null
+  problemsSolved: 2
+  rank: 27
+  siteCitation: null
+  teamId: 263275
+  teamName: VyatkaSU 2
+  totalTime: 199
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Tver State University
+  lastProblemTime: 153
+  medalCitation: null
+  problemsSolved: 2
+  rank: 28
+  siteCitation: null
+  teamId: 260109
+  teamName: TverSU2
+  totalTime: 222
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Kostroma State University
+  lastProblemTime: 153
+  medalCitation: null
+  problemsSolved: 2
+  rank: 29
+  siteCitation: null
+  teamId: 264236
+  teamName: Kostroma SU
+  totalTime: 225
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Kostroma State Technological University
+  lastProblemTime: 145
+  medalCitation: null
+  problemsSolved: 2
+  rank: 30
+  siteCitation: null
+  teamId: 262483
+  teamName: KSTU#1
+  totalTime: 262
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Tver State Technical University
+  lastProblemTime: 136
+  medalCitation: null
+  problemsSolved: 2
+  rank: 30
+  siteCitation: null
+  teamId: 266935
+  teamName: TSTU
+  totalTime: 262
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Rybinsk State Aviation Technical University
+  lastProblemTime: 207
+  medalCitation: null
+  problemsSolved: 2
+  rank: 32
+  siteCitation: null
+  teamId: 264176
+  teamName: 'Rybinsk SATU #2'
+  totalTime: 276
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Yaroslavl State University
+  lastProblemTime: 257
+  medalCitation: null
+  problemsSolved: 2
+  rank: 33
+  siteCitation: null
+  teamId: 263421
+  teamName: Yaroslavl SU 2
+  totalTime: 330
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Tver State University
+  lastProblemTime: 210
+  medalCitation: null
+  problemsSolved: 2
+  rank: 34
+  siteCitation: null
+  teamId: 260108
+  teamName: TverSU1
+  totalTime: 382
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Yaroslavl State Pedagogical University
+  lastProblemTime: 158
+  medalCitation: null
+  problemsSolved: 2
+  rank: 35
+  siteCitation: null
+  teamId: 258228
+  teamName: YSPU2
+  totalTime: 394
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Kostroma State Technological University
+  lastProblemTime: 72
+  medalCitation: null
+  problemsSolved: 1
+  rank: 36
+  siteCitation: null
+  teamId: 262484
+  teamName: KSTU#2
+  totalTime: 72
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Rybinsk State Aviation Technical University
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 37
+  siteCitation: null
+  teamId: 264179
+  teamName: 'Rybinsk SATU #5'
+  totalTime: 0

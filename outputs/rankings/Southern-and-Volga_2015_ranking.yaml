@@ -1,0 +1,584 @@
+- citation: First Place
+  honorableMentionCitation: null
+  institution: Saratov State University
+  lastProblemTime: 275
+  medalCitation: null
+  problemsSolved: 10
+  rank: 1
+  siteCitation: null
+  teamId: 233349
+  teamName: Saratov SU 1
+  totalTime: 1036
+- citation: Second Place
+  honorableMentionCitation: null
+  institution: Saratov State University
+  lastProblemTime: 245
+  medalCitation: null
+  problemsSolved: 9
+  rank: 2
+  siteCitation: null
+  teamId: 233353
+  teamName: Saratov SU 2
+  totalTime: 1072
+- citation: Third Place
+  honorableMentionCitation: null
+  institution: Saratov State University
+  lastProblemTime: 262
+  medalCitation: null
+  problemsSolved: 9
+  rank: 3
+  siteCitation: null
+  teamId: 233354
+  teamName: Saratov SU 3
+  totalTime: 1162
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: Samara State Aerospace University
+  lastProblemTime: 213
+  medalCitation: null
+  problemsSolved: 8
+  rank: 4
+  siteCitation: null
+  teamId: 231896
+  teamName: Samara SAU 1
+  totalTime: 810
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: Ulyanovsk State Technical University
+  lastProblemTime: 217
+  medalCitation: null
+  problemsSolved: 7
+  rank: 5
+  siteCitation: null
+  teamId: 220868
+  teamName: 'Ulyanovsk STU #1'
+  totalTime: 564
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: Saratov State University
+  lastProblemTime: 238
+  medalCitation: null
+  problemsSolved: 7
+  rank: 6
+  siteCitation: null
+  teamId: 233358
+  teamName: Saratov SU 5
+  totalTime: 759
+- citation: Seventh Place
+  honorableMentionCitation: null
+  institution: Mordovia State University
+  lastProblemTime: 277
+  medalCitation: null
+  problemsSolved: 7
+  rank: 7
+  siteCitation: null
+  teamId: 228961
+  teamName: MRSU#1
+  totalTime: 879
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: Voronezh State University
+  lastProblemTime: 258
+  medalCitation: null
+  problemsSolved: 7
+  rank: 8
+  siteCitation: null
+  teamId: 230150
+  teamName: 'Voronezh SU #3'
+  totalTime: 930
+- citation: Ninth Place
+  honorableMentionCitation: null
+  institution: Volgograd State Technical University
+  lastProblemTime: 165
+  medalCitation: null
+  problemsSolved: 6
+  rank: 9
+  siteCitation: null
+  teamId: 232239
+  teamName: 'Volgograd STU #1'
+  totalTime: 490
+- citation: Tenth Place
+  honorableMentionCitation: null
+  institution: Voronezh State University
+  lastProblemTime: 164
+  medalCitation: null
+  problemsSolved: 6
+  rank: 10
+  siteCitation: null
+  teamId: 230117
+  teamName: 'Voronezh SU #1'
+  totalTime: 498
+- citation: Eleventh Place
+  honorableMentionCitation: null
+  institution: Volgograd State Technical University
+  lastProblemTime: 128
+  medalCitation: null
+  problemsSolved: 6
+  rank: 11
+  siteCitation: null
+  teamId: 232240
+  teamName: 'Volgograd STU #2'
+  totalTime: 512
+- citation: Twelfth Place
+  honorableMentionCitation: null
+  institution: Togliatti State University
+  lastProblemTime: 129
+  medalCitation: null
+  problemsSolved: 6
+  rank: 12
+  siteCitation: null
+  teamId: 220925
+  teamName: Togliatti SU
+  totalTime: 554
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: Samara State Aerospace University
+  lastProblemTime: 173
+  medalCitation: null
+  problemsSolved: 6
+  rank: 13
+  siteCitation: null
+  teamId: 231897
+  teamName: Samara SAU 2
+  totalTime: 563
+- citation: Fourteenth Place
+  honorableMentionCitation: null
+  institution: Kazan (Volga Region) Federal University
+  lastProblemTime: 205
+  medalCitation: null
+  problemsSolved: 6
+  rank: 14
+  siteCitation: null
+  teamId: 232046
+  teamName: 'Kazan FU #1'
+  totalTime: 593
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: Southern Federal University (Institute of Computer Technologies and
+    Information Security)
+  lastProblemTime: 281
+  medalCitation: null
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 231457
+  teamName: SFedU (ICTIS)
+  totalTime: 634
+- citation: Sixteenth Place
+  honorableMentionCitation: null
+  institution: Saratov State University
+  lastProblemTime: 181
+  medalCitation: null
+  problemsSolved: 6
+  rank: 16
+  siteCitation: null
+  teamId: 233355
+  teamName: Saratov SU 4
+  totalTime: 635
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: Southern Federal University
+  lastProblemTime: 164
+  medalCitation: null
+  problemsSolved: 6
+  rank: 17
+  siteCitation: null
+  teamId: 218127
+  teamName: 'SFedU #1: ghostbusters'
+  totalTime: 672
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: Penza State University
+  lastProblemTime: 249
+  medalCitation: null
+  problemsSolved: 6
+  rank: 18
+  siteCitation: null
+  teamId: 234117
+  teamName: Penza SU 3
+  totalTime: 860
+- citation: Nineteenth Place
+  honorableMentionCitation: null
+  institution: Samara State Aerospace University
+  lastProblemTime: 285
+  medalCitation: null
+  problemsSolved: 6
+  rank: 19
+  siteCitation: null
+  teamId: 231899
+  teamName: Samara SAU 4
+  totalTime: 1008
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: Voronezh State University
+  lastProblemTime: 289
+  medalCitation: null
+  problemsSolved: 6
+  rank: 20
+  siteCitation: null
+  teamId: 231950
+  teamName: VSU 5
+  totalTime: 1210
+- citation: Twenty-first Place
+  honorableMentionCitation: null
+  institution: Kazan (Volga Region) Federal University
+  lastProblemTime: 247
+  medalCitation: null
+  problemsSolved: 5
+  rank: 21
+  siteCitation: null
+  teamId: 232047
+  teamName: 'Kazan FU #3'
+  totalTime: 830
+- citation: Twenty-second Place
+  honorableMentionCitation: null
+  institution: Saratov State University
+  lastProblemTime: 296
+  medalCitation: null
+  problemsSolved: 5
+  rank: 22
+  siteCitation: null
+  teamId: 233359
+  teamName: Saratov SU 6
+  totalTime: 854
+- citation: Twenty-third Place
+  honorableMentionCitation: null
+  institution: Povolzhskiy State University of Telecommunications and Informatics
+  lastProblemTime: 250
+  medalCitation: null
+  problemsSolved: 5
+  rank: 23
+  siteCitation: null
+  teamId: 231935
+  teamName: PSUTI 1
+  totalTime: 874
+- citation: Twenty-fourth Place
+  honorableMentionCitation: null
+  institution: Nizhny Novgorod State Technical University
+  lastProblemTime: 296
+  medalCitation: null
+  problemsSolved: 5
+  rank: 24
+  siteCitation: null
+  teamId: 230047
+  teamName: Nizhny Novgorod STU 1
+  totalTime: 1133
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Povolgskiy State Technological University
+  lastProblemTime: 282
+  medalCitation: null
+  problemsSolved: 5
+  rank: 25
+  siteCitation: null
+  teamId: 231746
+  teamName: PSTU 1
+  totalTime: 1214
+- citation: Twenty-sixth Place
+  honorableMentionCitation: null
+  institution: Voronezh State University
+  lastProblemTime: 209
+  medalCitation: null
+  problemsSolved: 4
+  rank: 26
+  siteCitation: null
+  teamId: 230148
+  teamName: 'Voronezh SU #2'
+  totalTime: 455
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Saratov State University
+  lastProblemTime: 255
+  medalCitation: null
+  problemsSolved: 4
+  rank: 27
+  siteCitation: null
+  teamId: 233360
+  teamName: Saratov SU 7
+  totalTime: 470
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Ulyanovsk State Technical University
+  lastProblemTime: 194
+  medalCitation: null
+  problemsSolved: 4
+  rank: 28
+  siteCitation: null
+  teamId: 220877
+  teamName: 'Ulyanovsk STU #2'
+  totalTime: 482
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Saratov State University
+  lastProblemTime: 281
+  medalCitation: null
+  problemsSolved: 4
+  rank: 29
+  siteCitation: null
+  teamId: 233368
+  teamName: Saratov SU 9
+  totalTime: 608
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Saratov State University
+  lastProblemTime: 247
+  medalCitation: null
+  problemsSolved: 4
+  rank: 30
+  siteCitation: null
+  teamId: 233367
+  teamName: Saratov SU 8
+  totalTime: 799
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Saratov State University
+  lastProblemTime: 297
+  medalCitation: null
+  problemsSolved: 4
+  rank: 31
+  siteCitation: null
+  teamId: 233369
+  teamName: Saratov SU 10
+  totalTime: 965
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Adyghe State University
+  lastProblemTime: 143
+  medalCitation: null
+  problemsSolved: 3
+  rank: 32
+  siteCitation: null
+  teamId: 229257
+  teamName: Adyghe SU Test a ment
+  totalTime: 262
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Voronezh State University
+  lastProblemTime: 264
+  medalCitation: null
+  problemsSolved: 3
+  rank: 33
+  siteCitation: null
+  teamId: 230438
+  teamName: 'Voronezh SU #4'
+  totalTime: 371
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Penza State University
+  lastProblemTime: 220
+  medalCitation: null
+  problemsSolved: 3
+  rank: 34
+  siteCitation: null
+  teamId: 234116
+  teamName: Penza SU 1
+  totalTime: 429
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Samara State Aerospace University
+  lastProblemTime: 230
+  medalCitation: null
+  problemsSolved: 3
+  rank: 35
+  siteCitation: null
+  teamId: 231898
+  teamName: Samara SAU 3
+  totalTime: 441
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Samara State University
+  lastProblemTime: 242
+  medalCitation: null
+  problemsSolved: 3
+  rank: 36
+  siteCitation: null
+  teamId: 231839
+  teamName: Samara SU 1
+  totalTime: 443
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Penza State University
+  lastProblemTime: 243
+  medalCitation: null
+  problemsSolved: 3
+  rank: 37
+  siteCitation: null
+  teamId: 234118
+  teamName: Penza SU 2
+  totalTime: 541
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Tambov State Technical University
+  lastProblemTime: 60
+  medalCitation: null
+  problemsSolved: 2
+  rank: 38
+  siteCitation: null
+  teamId: 232022
+  teamName: tstu_team#2
+  totalTime: 82
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Volgograd State University
+  lastProblemTime: 132
+  medalCitation: null
+  problemsSolved: 2
+  rank: 39
+  siteCitation: null
+  teamId: 231012
+  teamName: VolSU 1
+  totalTime: 203
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Saratov State Technical University
+  lastProblemTime: 169
+  medalCitation: null
+  problemsSolved: 2
+  rank: 40
+  siteCitation: null
+  teamId: 225781
+  teamName: 'SSTU 1: Pirates for life'
+  totalTime: 256
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Samara State University
+  lastProblemTime: 277
+  medalCitation: null
+  problemsSolved: 2
+  rank: 41
+  siteCitation: null
+  teamId: 231840
+  teamName: Samara SU 2
+  totalTime: 319
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Volgograd State University
+  lastProblemTime: 300
+  medalCitation: null
+  problemsSolved: 2
+  rank: 42
+  siteCitation: null
+  teamId: 231013
+  teamName: VolSU 2
+  totalTime: 336
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Saratov State Technical University
+  lastProblemTime: 283
+  medalCitation: null
+  problemsSolved: 2
+  rank: 43
+  siteCitation: null
+  teamId: 228861
+  teamName: SSTU 3
+  totalTime: 359
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: North-Caucasus Federal University
+  lastProblemTime: 15
+  medalCitation: null
+  problemsSolved: 1
+  rank: 44
+  siteCitation: null
+  teamId: 232193
+  teamName: NCFU2
+  totalTime: 15
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Kuban State University
+  lastProblemTime: 34
+  medalCitation: null
+  problemsSolved: 1
+  rank: 45
+  siteCitation: null
+  teamId: 232640
+  teamName: KubSU
+  totalTime: 34
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: North-Caucasus Federal University
+  lastProblemTime: 23
+  medalCitation: null
+  problemsSolved: 1
+  rank: 46
+  siteCitation: null
+  teamId: 232025
+  teamName: NCFU 1
+  totalTime: 43
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Mordovia State University
+  lastProblemTime: 28
+  medalCitation: null
+  problemsSolved: 1
+  rank: 47
+  siteCitation: null
+  teamId: 228962
+  teamName: MRSU#2
+  totalTime: 48
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Povolzhskiy State University of Telecommunications and Informatics
+  lastProblemTime: 70
+  medalCitation: null
+  problemsSolved: 1
+  rank: 48
+  siteCitation: null
+  teamId: 231936
+  teamName: PSUTI 2
+  totalTime: 90
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Tambov State Technical University
+  lastProblemTime: 96
+  medalCitation: null
+  problemsSolved: 1
+  rank: 49
+  siteCitation: null
+  teamId: 232021
+  teamName: tstu_team#1
+  totalTime: 96
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Saratov State Technical University
+  lastProblemTime: 135
+  medalCitation: null
+  problemsSolved: 1
+  rank: 50
+  siteCitation: null
+  teamId: 226113
+  teamName: SSTU 2
+  totalTime: 135
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Astrakhan State University
+  lastProblemTime: 172
+  medalCitation: null
+  problemsSolved: 1
+  rank: 51
+  siteCitation: null
+  teamId: 230372
+  teamName: Astrakhan_St_Un_2014_01
+  totalTime: 252
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Voronezh Institute of High Technologies
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 52
+  siteCitation: null
+  teamId: 228823
+  teamName: Vivat
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Voronezh State Forestry University named after G. F. Morozov
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 52
+  siteCitation: null
+  teamId: 231445
+  teamName: "\u0412\u0413\u041B\u0422\u0410"
+  totalTime: 0

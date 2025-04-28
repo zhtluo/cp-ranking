@@ -231,7 +231,7 @@
   totalTime: 911
 - citation: First Award
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 250
   medalCitation: Silver Medal
   problemsSolved: 8
@@ -242,7 +242,7 @@
   totalTime: 1033
 - citation: Eighth Place
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 250
   medalCitation: Silver Medal
   problemsSolved: 8
@@ -253,7 +253,7 @@
   totalTime: 1033
 - citation: Eighth Place
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 250
   medalCitation: Silver Medal
   problemsSolved: 8
@@ -396,7 +396,7 @@
   totalTime: 1167
 - citation: Thirteenth Place
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 251
   medalCitation: null
   problemsSolved: 8
@@ -407,7 +407,7 @@
   totalTime: 1179
 - citation: Thirteenth Place
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 251
   medalCitation: null
   problemsSolved: 8
@@ -418,7 +418,7 @@
   totalTime: 1179
 - citation: First Award
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 251
   medalCitation: null
   problemsSolved: 8
@@ -1056,7 +1056,7 @@
   totalTime: 434
 - citation: Thirty-third Place
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 127
   medalCitation: null
   problemsSolved: 6
@@ -1067,7 +1067,7 @@
   totalTime: 480
 - citation: Thirty-third Place
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 127
   medalCitation: null
   problemsSolved: 6
@@ -1078,7 +1078,7 @@
   totalTime: 480
 - citation: Third Award
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 127
   medalCitation: null
   problemsSolved: 6
@@ -1320,7 +1320,7 @@
   totalTime: 723
 - citation: Forty-first Place
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 257
   medalCitation: null
   problemsSolved: 6
@@ -1331,7 +1331,7 @@
   totalTime: 760
 - citation: Third Award
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 257
   medalCitation: null
   problemsSolved: 6
@@ -1342,7 +1342,7 @@
   totalTime: 760
 - citation: Forty-first Place
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 257
   medalCitation: null
   problemsSolved: 6
@@ -1650,7 +1650,7 @@
   totalTime: 850
 - citation: Fifty-first Place
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 289
   medalCitation: null
   problemsSolved: 6
@@ -1661,7 +1661,7 @@
   totalTime: 855
 - citation: Fifty-first Place
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 289
   medalCitation: null
   problemsSolved: 6
@@ -1672,7 +1672,7 @@
   totalTime: 855
 - citation: Third Award
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 289
   medalCitation: null
   problemsSolved: 6
@@ -2904,7 +2904,7 @@
   totalTime: 911
 - citation: Eighty-ninth Place
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 254
   medalCitation: null
   problemsSolved: 5
@@ -2915,7 +2915,7 @@
   totalTime: 921
 - citation: Third Award
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 254
   medalCitation: null
   problemsSolved: 5
@@ -2926,7 +2926,7 @@
   totalTime: 921
 - citation: Eighty-ninth Place
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 254
   medalCitation: null
   problemsSolved: 5
@@ -3179,7 +3179,7 @@
   totalTime: 344
 - citation: Ninety-seventh Place
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 123
   medalCitation: null
   problemsSolved: 4
@@ -3201,7 +3201,7 @@
   totalTime: 344
 - citation: Ninetieth Place
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 123
   medalCitation: null
   problemsSolved: 4
@@ -3256,7 +3256,7 @@
   totalTime: 344
 - citation: Ninetieth Place
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 123
   medalCitation: null
   problemsSolved: 4
@@ -5239,8 +5239,7 @@
   totalTime: 227
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Nizhny Novgorod Branch of National Research University Higher School
-    of Economics
+  institution: Nizhny Novgorod Branch of HSE University
   lastProblemTime: 107
   medalCitation: null
   problemsSolved: 3
@@ -5251,8 +5250,7 @@
   totalTime: 227
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Nizhny Novgorod Branch of National Research University Higher School
-    of Economics
+  institution: Nizhny Novgorod Branch of HSE University
   lastProblemTime: 107
   medalCitation: null
   problemsSolved: 3
@@ -5274,8 +5272,7 @@
   totalTime: 227
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Nizhny Novgorod Branch of National Research University Higher School
-    of Economics
+  institution: Nizhny Novgorod Branch of HSE University
   lastProblemTime: 107
   medalCitation: null
   problemsSolved: 3
@@ -6672,7 +6669,7 @@
   totalTime: 462
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Abylkas Saginov Karaganda Technical University
+  institution: A.Saginov Karaganda Technical University
   lastProblemTime: 150
   medalCitation: null
   problemsSolved: 3
@@ -6683,7 +6680,7 @@
   totalTime: 488
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Abylkas Saginov Karaganda Technical University
+  institution: A.Saginov Karaganda Technical University
   lastProblemTime: 150
   medalCitation: null
   problemsSolved: 3
@@ -6694,7 +6691,7 @@
   totalTime: 488
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Abylkas Saginov Karaganda Technical University
+  institution: A.Saginov Karaganda Technical University
   lastProblemTime: 150
   medalCitation: null
   problemsSolved: 3
@@ -8160,7 +8157,7 @@
   totalTime: 123
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Abylkas Saginov Karaganda Technical University
+  institution: A.Saginov Karaganda Technical University
   lastProblemTime: 142
   medalCitation: null
   problemsSolved: 1
@@ -8171,7 +8168,7 @@
   totalTime: 142
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Abylkas Saginov Karaganda Technical University
+  institution: A.Saginov Karaganda Technical University
   lastProblemTime: 142
   medalCitation: null
   problemsSolved: 1
@@ -8182,7 +8179,7 @@
   totalTime: 142
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Abylkas Saginov Karaganda Technical University
+  institution: A.Saginov Karaganda Technical University
   lastProblemTime: 142
   medalCitation: null
   problemsSolved: 1

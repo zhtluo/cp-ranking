@@ -1,0 +1,981 @@
+- citation: First Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Paris"
+  lastProblemTime: 299
+  medalCitation: Gold Medal
+  problemsSolved: 10
+  rank: 1
+  siteCitation: SWERC Champion
+  teamId: 379606
+  teamName: ENS Ulm 1
+  totalTime: 1526
+- citation: Second Place
+  honorableMentionCitation: null
+  institution: "ETH Z\xFCrich"
+  lastProblemTime: 278
+  medalCitation: Gold Medal
+  problemsSolved: 9
+  rank: 2
+  siteCitation: null
+  teamId: 401248
+  teamName: Team RaclETH
+  totalTime: 888
+- citation: Third Place
+  honorableMentionCitation: null
+  institution: "Universitat Polit\xE8cnica de Catalunya"
+  lastProblemTime: 274
+  medalCitation: Silver Medal
+  problemsSolved: 9
+  rank: 3
+  siteCitation: null
+  teamId: 382618
+  teamName: UPC-1
+  totalTime: 1421
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: Scuola Normale Superiore
+  lastProblemTime: 152
+  medalCitation: Silver Medal
+  problemsSolved: 8
+  rank: 4
+  siteCitation: null
+  teamId: 398884
+  teamName: SNS 1
+  totalTime: 803
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: "Universit\xE0 della Svizzera italiana"
+  lastProblemTime: 249
+  medalCitation: Silver Medal
+  problemsSolved: 8
+  rank: 5
+  siteCitation: null
+  teamId: 401415
+  teamName: illUSIon
+  totalTime: 986
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: "Universitat Polit\xE8cnica de Catalunya"
+  lastProblemTime: 259
+  medalCitation: Silver Medal
+  problemsSolved: 8
+  rank: 6
+  siteCitation: null
+  teamId: 382620
+  teamName: UPC-2
+  totalTime: 990
+- citation: Seventh Place
+  honorableMentionCitation: null
+  institution: Ecole Polytechnique
+  lastProblemTime: 240
+  medalCitation: Bronze Medal
+  problemsSolved: 7
+  rank: 7
+  siteCitation: null
+  teamId: 378745
+  teamName: EP red
+  totalTime: 1092
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: "Universitat Polit\xE8cnica de Catalunya"
+  lastProblemTime: 282
+  medalCitation: Bronze Medal
+  problemsSolved: 7
+  rank: 8
+  siteCitation: null
+  teamId: 382626
+  teamName: UPC-3
+  totalTime: 1168
+- citation: Ninth Place
+  honorableMentionCitation: null
+  institution: Politecnico di Milano
+  lastProblemTime: 285
+  medalCitation: Bronze Medal
+  problemsSolved: 7
+  rank: 9
+  siteCitation: null
+  teamId: 379591
+  teamName: Moradonellani
+  totalTime: 1181
+- citation: Tenth Place
+  honorableMentionCitation: null
+  institution: Scuola Normale Superiore
+  lastProblemTime: 295
+  medalCitation: Bronze Medal
+  problemsSolved: 7
+  rank: 10
+  siteCitation: null
+  teamId: 398885
+  teamName: SNS 2
+  totalTime: 1319
+- citation: Eleventh Place
+  honorableMentionCitation: null
+  institution: "ETH Z\xFCrich"
+  lastProblemTime: 186
+  medalCitation: Bronze Medal
+  problemsSolved: 6
+  rank: 11
+  siteCitation: null
+  teamId: 401249
+  teamName: Team RockETH
+  totalTime: 542
+- citation: Twelfth Place
+  honorableMentionCitation: null
+  institution: Universidade do Porto
+  lastProblemTime: 169
+  medalCitation: Bronze Medal
+  problemsSolved: 6
+  rank: 12
+  siteCitation: null
+  teamId: 400454
+  teamName: FCUP 1
+  totalTime: 583
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: University of Haifa
+  lastProblemTime: 172
+  medalCitation: Bronze Medal
+  problemsSolved: 6
+  rank: 13
+  siteCitation: null
+  teamId: 380421
+  teamName: TopOfTheMountain
+  totalTime: 588
+- citation: Fourteenth Place
+  honorableMentionCitation: null
+  institution: Harbour.Space University - Barcelona Campus
+  lastProblemTime: 275
+  medalCitation: Bronze Medal
+  problemsSolved: 6
+  rank: 14
+  siteCitation: null
+  teamId: 397705
+  teamName: Spacers
+  totalTime: 872
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: University of Bologna
+  lastProblemTime: 288
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 15
+  siteCitation: null
+  teamId: 397041
+  teamName: Blaise1
+  totalTime: 908
+- citation: Sixteenth Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Lyon"
+  lastProblemTime: 286
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 16
+  siteCitation: null
+  teamId: 380665
+  teamName: EPFD
+  totalTime: 957
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: "Universit\xE0 Degli Studi di Milano"
+  lastProblemTime: 289
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 17
+  siteCitation: null
+  teamId: 379645
+  teamName: '// TODO: choose team name'
+  totalTime: 1132
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: "T\xE9l\xE9com Paris"
+  lastProblemTime: 292
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 18
+  siteCitation: null
+  teamId: 382588
+  teamName: fifiran large-N
+  totalTime: 1142
+- citation: Nineteenth Place
+  honorableMentionCitation: null
+  institution: Ecole Polytechnique
+  lastProblemTime: 282
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 19
+  siteCitation: null
+  teamId: 378747
+  teamName: EP white
+  totalTime: 1207
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: Ecole Polytechnique
+  lastProblemTime: 233
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 20
+  siteCitation: null
+  teamId: 378746
+  teamName: EP blue
+  totalTime: 624
+- citation: Twenty-first Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Lyon"
+  lastProblemTime: 269
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 21
+  siteCitation: null
+  teamId: 380664
+  teamName: "K\xE2lENS"
+  totalTime: 659
+- citation: Twenty-second Place
+  honorableMentionCitation: null
+  institution: University of Verona
+  lastProblemTime: 246
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 22
+  siteCitation: null
+  teamId: 399827
+  teamName: UniVR be || !be
+  totalTime: 788
+- citation: Twenty-third Place
+  honorableMentionCitation: null
+  institution: Universidad de Murcia
+  lastProblemTime: 230
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 23
+  siteCitation: null
+  teamId: 397656
+  teamName: UMU1
+  totalTime: 824
+- citation: Twenty-fourth Place
+  honorableMentionCitation: null
+  institution: Technion - Israel Institute of Technology
+  lastProblemTime: 256
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 24
+  siteCitation: null
+  teamId: 376633
+  teamName: Rubber Duck Forces
+  totalTime: 902
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Paris-Saclay"
+  lastProblemTime: 240
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 25
+  siteCitation: null
+  teamId: 398706
+  teamName: CMD Paris Saclay
+  totalTime: 911
+- citation: Twenty-sixth Place
+  honorableMentionCitation: null
+  institution: "Universit\xE0 di Trento"
+  lastProblemTime: 286
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 26
+  siteCitation: null
+  teamId: 377130
+  teamName: UniTN TimeLimitExceeded
+  totalTime: 925
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: "Ecole Polytechnique F\xE9d\xE9rale de Lausanne"
+  lastProblemTime: 274
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 27
+  siteCitation: null
+  teamId: 401567
+  teamName: EPFLogo >_>
+  totalTime: 1003
+- citation: Twenty-eighth Place
+  honorableMentionCitation: null
+  institution: "Instituto Superior T\xE9cnico"
+  lastProblemTime: 151
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 28
+  siteCitation: null
+  teamId: 397635
+  teamName: aLMAConquISTadora
+  totalTime: 502
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: INSA de Lyon
+  lastProblemTime: 265
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 29
+  siteCitation: null
+  teamId: 381613
+  teamName: INSA Lyon 1
+  totalTime: 741
+- citation: Thirtieth Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Lyon"
+  lastProblemTime: 255
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 30
+  siteCitation: null
+  teamId: 380663
+  teamName: ENplS
+  totalTime: 748
+- citation: Thirty-first Place
+  honorableMentionCitation: null
+  institution: "Universit\xE0 di Roma - La Sapienza"
+  lastProblemTime: 299
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 31
+  siteCitation: null
+  teamId: 400636
+  teamName: SapienzaBlack
+  totalTime: 816
+- citation: Thirty-second Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Paris-Saclay"
+  lastProblemTime: 299
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 32
+  siteCitation: null
+  teamId: 398707
+  teamName: Fis[team] :3
+  totalTime: 978
+- citation: Thirty-third Place
+  honorableMentionCitation: null
+  institution: Faculdade de Engenharia da Universidade do Porto
+  lastProblemTime: 299
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 33
+  siteCitation: null
+  teamId: 399056
+  teamName: Rated C++
+  totalTime: 1072
+- citation: Thirty-fourth Place
+  honorableMentionCitation: null
+  institution: Universidad Complutense de Madrid
+  lastProblemTime: 116
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 34
+  siteCitation: null
+  teamId: 392102
+  teamName: UCM*
+  totalTime: 220
+- citation: Thirty-fifth Place
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Paris"
+  lastProblemTime: 129
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 35
+  siteCitation: null
+  teamId: 379607
+  teamName: ENS Ulm Beta
+  totalTime: 228
+- citation: Thirty-sixth Place
+  honorableMentionCitation: null
+  institution: INSA de Lyon
+  lastProblemTime: 149
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 36
+  siteCitation: null
+  teamId: 381614
+  teamName: INSA Lyon 2
+  totalTime: 325
+- citation: Thirty-seventh Place
+  honorableMentionCitation: null
+  institution: Universidad Complutense de Madrid
+  lastProblemTime: 179
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 37
+  siteCitation: null
+  teamId: 392103
+  teamName: UCM**
+  totalTime: 391
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: INSA de Lyon
+  lastProblemTime: 264
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 38
+  siteCitation: null
+  teamId: 381615
+  teamName: INSA Lyon 3
+  totalTime: 636
+- citation: Thirty-ninth Place
+  honorableMentionCitation: null
+  institution: Technion - Israel Institute of Technology
+  lastProblemTime: 293
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 39
+  siteCitation: null
+  teamId: 376627
+  teamName: Soap Bubbles
+  totalTime: 689
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universit\xE9 Paris Diderot - Paris 7"
+  lastProblemTime: 106
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 40
+  siteCitation: null
+  teamId: 399444
+  teamName: "\u2203x\u2208P (D(x) \u2192 \u2200y\u2208P D(y))"
+  totalTime: 164
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Artois University
+  lastProblemTime: 160
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 41
+  siteCitation: null
+  teamId: 380004
+  teamName: DeePWinning
+  totalTime: 204
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Paris"
+  lastProblemTime: 92
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 42
+  siteCitation: null
+  teamId: 379608
+  teamName: ENS Ulm d
+  totalTime: 229
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "T\xE9l\xE9com SudParis"
+  lastProblemTime: 146
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 43
+  siteCitation: null
+  teamId: 398953
+  teamName: The Bulbasaurs
+  totalTime: 231
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Institut National des Sciences Appliqu\xE9es de Rouen"
+  lastProblemTime: 153
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 44
+  siteCitation: null
+  teamId: 399599
+  teamName: INSA Rouen Normandie
+  totalTime: 238
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Ecole Polytechnique F\xE9d\xE9rale de Lausanne"
+  lastProblemTime: 210
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 45
+  siteCitation: null
+  teamId: 401569
+  teamName: 'seg EPFauLt '
+  totalTime: 245
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universit\xE0 di Roma - La Sapienza"
+  lastProblemTime: 207
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 46
+  siteCitation: null
+  teamId: 400637
+  teamName: SapienzaRed
+  totalTime: 254
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universit\xE0 di Trento"
+  lastProblemTime: 149
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 47
+  siteCitation: null
+  teamId: 377131
+  teamName: UniTN FatineRicorsine
+  totalTime: 259
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universit\xE0 di Trento"
+  lastProblemTime: 251
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 48
+  siteCitation: null
+  teamId: 377132
+  teamName: UniTN Livin' La Vida Yoda
+  totalTime: 297
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Universidad Rey Juan Carlos
+  lastProblemTime: 260
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 49
+  siteCitation: null
+  teamId: 393706
+  teamName: MilkTeam
+  totalTime: 304
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "\xC9cole Nationale Sup\xE9rieure d'\xE9lectrotechnique, d'\xE9lectronique,\
+    \ d'informatique, d'hydraulique et des T\xE9l\xE9communications"
+  lastProblemTime: 212
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 50
+  siteCitation: null
+  teamId: 401539
+  teamName: N7 2
+  totalTime: 314
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Polytech Nice Sophia
+  lastProblemTime: 188
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 51
+  siteCitation: null
+  teamId: 401314
+  teamName: Polyrithmics
+  totalTime: 333
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universit\xE0 degli Studi di Genova"
+  lastProblemTime: 223
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 52
+  siteCitation: null
+  teamId: 401459
+  teamName: ZenaTeam
+  totalTime: 343
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Faculdade de Ci\xEAncias - Universidade de Lisboa"
+  lastProblemTime: 299
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 53
+  siteCitation: null
+  teamId: 397704
+  teamName: '0xC0D1F1ED'
+  totalTime: 360
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "CentraleSup\xE9lec"
+  lastProblemTime: 277
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 54
+  siteCitation: null
+  teamId: 401540
+  teamName: CS1
+  totalTime: 372
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Rennes"
+  lastProblemTime: 257
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 55
+  siteCitation: null
+  teamId: 401490
+  teamName: ouragENS
+  totalTime: 438
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universitat Polit\xE8cnica de Val\xE8ncia"
+  lastProblemTime: 199
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 56
+  siteCitation: null
+  teamId: 394511
+  teamName: ETSINF-2
+  totalTime: 475
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Rennes"
+  lastProblemTime: 258
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 57
+  siteCitation: null
+  teamId: 401491
+  teamName: mauvais tENS
+  totalTime: 545
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Universidad Rey Juan Carlos
+  lastProblemTime: 282
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 58
+  siteCitation: null
+  teamId: 393650
+  teamName: "Las M\xE1s Debugs"
+  totalTime: 549
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universit\xE9 Paris Diderot - Paris 7"
+  lastProblemTime: 201
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 59
+  siteCitation: null
+  teamId: 399404
+  teamName: Tejosciplas
+  totalTime: 579
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "\xC9cole Pour l'Informatique et les Techniques Avanc\xE9es"
+  lastProblemTime: 15
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 60
+  siteCitation: null
+  teamId: 394453
+  teamName: EpiOignon
+  totalTime: 15
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universit\xE0 della Svizzera italiana"
+  lastProblemTime: 17
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 61
+  siteCitation: null
+  teamId: 401416
+  teamName: delUSIon
+  totalTime: 17
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universitat Polit\xE8cnica de Val\xE8ncia"
+  lastProblemTime: 18
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 62
+  siteCitation: null
+  teamId: 394510
+  teamName: ETSINF-1
+  totalTime: 18
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Paris-Sud University
+  lastProblemTime: 7
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 63
+  siteCitation: null
+  teamId: 401497
+  teamName: Paris-Sud
+  totalTime: 27
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "\xC9cole Nationale Sup\xE9rieure d'\xE9lectrotechnique, d'\xE9lectronique,\
+    \ d'informatique, d'hydraulique et des T\xE9l\xE9communications"
+  lastProblemTime: 38
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 64
+  siteCitation: null
+  teamId: 399393
+  teamName: N7 1
+  totalTime: 38
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Verona
+  lastProblemTime: 41
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 65
+  siteCitation: null
+  teamId: 399828
+  teamName: UniVR bits are bits
+  totalTime: 41
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universit\xE9 de Montpellier"
+  lastProblemTime: 23
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 66
+  siteCitation: null
+  teamId: 401578
+  teamName: "ComposeMuR\xE9cursionIdentit\xE9GaucheDroiteSuccesseurZ\xE9ro"
+  totalTime: 43
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: EFREI Paris
+  lastProblemTime: 25
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 67
+  siteCitation: null
+  teamId: 401581
+  teamName: EFREIQUESTRIA
+  totalTime: 45
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Valladolid
+  lastProblemTime: 27
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 68
+  siteCitation: null
+  teamId: 379679
+  teamName: UVa
+  totalTime: 47
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "T\xE9l\xE9com Paris"
+  lastProblemTime: 48
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 69
+  siteCitation: null
+  teamId: 392040
+  teamName: WeCode
+  totalTime: 48
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: The College of Management Academic Studies
+  lastProblemTime: 32
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 70
+  siteCitation: null
+  teamId: 401580
+  teamName: Alatz
+  totalTime: 52
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "\xC9cole Pour l'Informatique et les Techniques Avanc\xE9es"
+  lastProblemTime: 21
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 71
+  siteCitation: null
+  teamId: 399645
+  teamName: EpiSalade
+  totalTime: 61
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Universidad Rey Juan Carlos
+  lastProblemTime: 34
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 72
+  siteCitation: null
+  teamId: 393664
+  teamName: LactoseOverdose
+  totalTime: 74
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Bologna
+  lastProblemTime: 60
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 73
+  siteCitation: null
+  teamId: 397050
+  teamName: UniboCe2
+  totalTime: 80
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Universitat Pompeu Fabra
+  lastProblemTime: 44
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 74
+  siteCitation: null
+  teamId: 396667
+  teamName: The Binary Three
+  totalTime: 84
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universit\xE9 Paris Diderot - Paris 7"
+  lastProblemTime: 25
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 75
+  siteCitation: null
+  teamId: 396414
+  teamName: Pikathon
+  totalTime: 85
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "\xC9cole Pour l'Informatique et les Techniques Avanc\xE9es"
+  lastProblemTime: 48
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 76
+  siteCitation: null
+  teamId: 394454
+  teamName: EpiTomate
+  totalTime: 88
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Universidad de Castilla-La Mancha
+  lastProblemTime: 38
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 77
+  siteCitation: null
+  teamId: 401533
+  teamName: ESI Lynx
+  totalTime: 98
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Artois University
+  lastProblemTime: 88
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 78
+  siteCitation: null
+  teamId: 399653
+  teamName: MAMYPC
+  totalTime: 108
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Paris-Saclay"
+  lastProblemTime: 72
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 79
+  siteCitation: null
+  teamId: 401373
+  teamName: Mes Dudes
+  totalTime: 112
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Politecnico di Milano
+  lastProblemTime: 78
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 80
+  siteCitation: null
+  teamId: 379593
+  teamName: '0xDEADC0DE'
+  totalTime: 118
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universidad Aut\xF3noma de Madrid"
+  lastProblemTime: 41
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 81
+  siteCitation: null
+  teamId: 398510
+  teamName: Segmentation Fool
+  totalTime: 121
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "\xC9cole Normale Sup\xE9rieure de Rennes"
+  lastProblemTime: 177
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 82
+  siteCitation: null
+  teamId: 401489
+  teamName: mistral gagnENS
+  totalTime: 217
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Universidade da Beira Interior
+  lastProblemTime: 125
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 83
+  siteCitation: null
+  teamId: 397720
+  teamName: "sw\u1D49(r)cos"
+  totalTime: 265
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Holon Institute of Technology
+  lastProblemTime: 278
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 84
+  siteCitation: null
+  teamId: 401579
+  teamName: KeyboardCrusher
+  totalTime: 278
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universit\xE9 Grenoble Alpes"
+  lastProblemTime: 272
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 85
+  siteCitation: null
+  teamId: 400096
+  teamName: IM2AG Croustillants
+  totalTime: 292
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Universidad de Murcia
+  lastProblemTime: 245
+  medalCitation: Ranked
+  problemsSolved: 1
+  rank: 86
+  siteCitation: null
+  teamId: 397660
+  teamName: PythonEnchanters
+  totalTime: 385
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: EFREI Paris
+  lastProblemTime: 0
+  medalCitation: Ranked
+  problemsSolved: 0
+  rank: 87
+  siteCitation: null
+  teamId: 399595
+  teamName: EFREI 1
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Politecnico di Milano
+  lastProblemTime: 0
+  medalCitation: Ranked
+  problemsSolved: 0
+  rank: 87
+  siteCitation: null
+  teamId: 379592
+  teamName: DefinitelyNotTourist
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: "Universidad Aut\xF3noma de Madrid"
+  lastProblemTime: 0
+  medalCitation: Ranked
+  problemsSolved: 0
+  rank: 87
+  siteCitation: null
+  teamId: 398789
+  teamName: Aleph-1
+  totalTime: 0

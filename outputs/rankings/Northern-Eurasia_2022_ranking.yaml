@@ -1,6 +1,6 @@
 - citation: First Diploma
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 285
   medalCitation: Gold Medal
   problemsSolved: 9
@@ -11,7 +11,7 @@
   totalTime: 973
 - citation: First Diploma
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 282
   medalCitation: Gold Medal
   problemsSolved: 8
@@ -33,7 +33,7 @@
   totalTime: 845
 - citation: First Diploma
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 293
   medalCitation: Gold Medal
   problemsSolved: 8
@@ -143,7 +143,7 @@
   totalTime: 732
 - citation: Second Diploma
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 261
   medalCitation: null
   problemsSolved: 7
@@ -231,7 +231,7 @@
   totalTime: 940
 - citation: Second Diploma
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 288
   medalCitation: null
   problemsSolved: 7
@@ -264,7 +264,7 @@
   totalTime: 1082
 - citation: Second Diploma
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 239
   medalCitation: null
   problemsSolved: 7
@@ -528,7 +528,7 @@
   totalTime: 549
 - citation: Third Diploma
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 210
   medalCitation: null
   problemsSolved: 5
@@ -561,8 +561,7 @@
   totalTime: 669
 - citation: Third Diploma
   honorableMentionCitation: null
-  institution: Nizhny Novgorod Branch of National Research University Higher School
-    of Economics
+  institution: Nizhny Novgorod Branch of HSE University
   lastProblemTime: 230
   medalCitation: null
   problemsSolved: 5
@@ -815,7 +814,7 @@
   totalTime: 637
 - citation: Third Diploma
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 269
   medalCitation: null
   problemsSolved: 4
@@ -1454,8 +1453,7 @@
   totalTime: 792
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Nizhny Novgorod Branch of National Research University Higher School
-    of Economics
+  institution: Nizhny Novgorod Branch of HSE University
   lastProblemTime: 41
   medalCitation: null
   problemsSolved: 2
@@ -2127,7 +2125,7 @@
   totalTime: 179
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Almaty University of Power Engineering & Telecommunications
+  institution: Almaty University of Power Engineering and Telecommunications
   lastProblemTime: 181
   medalCitation: null
   problemsSolved: 1

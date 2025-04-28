@@ -1,0 +1,781 @@
+- citation: First Place
+  honorableMentionCitation: null
+  institution: University of Waterloo
+  lastProblemTime: 81
+  medalCitation: Gold Medal
+  problemsSolved: 12
+  rank: 1
+  siteCitation: Windsor Site
+  teamId: 483355
+  teamName: Waterloo Black
+  totalTime: 569
+- citation: Second Place
+  honorableMentionCitation: null
+  institution: Purdue University
+  lastProblemTime: 194
+  medalCitation: Gold Medal
+  problemsSolved: 12
+  rank: 2
+  siteCitation: Cincinnati Site
+  teamId: 486937
+  teamName: Purdue RE
+  totalTime: 998
+- citation: Third Place
+  honorableMentionCitation: null
+  institution: Carnegie Mellon University
+  lastProblemTime: 204
+  medalCitation: Gold Medal
+  problemsSolved: 12
+  rank: 3
+  siteCitation: Youngstown Site
+  teamId: 483639
+  teamName: CMU1
+  totalTime: 1029
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: University of Waterloo
+  lastProblemTime: 292
+  medalCitation: Gold Medal
+  problemsSolved: 12
+  rank: 4
+  siteCitation: ''
+  teamId: 483358
+  teamName: Waterloo Red
+  totalTime: 1029
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: University of Waterloo
+  lastProblemTime: 179
+  medalCitation: Silver Medal
+  problemsSolved: 12
+  rank: 5
+  siteCitation: ''
+  teamId: 483356
+  teamName: Waterloo Gold
+  totalTime: 1057
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: University of Toronto
+  lastProblemTime: 254
+  medalCitation: Silver Medal
+  problemsSolved: 12
+  rank: 6
+  siteCitation: ''
+  teamId: 483798
+  teamName: U of T Blue
+  totalTime: 1130
+- citation: Seventh Place
+  honorableMentionCitation: null
+  institution: University of Waterloo
+  lastProblemTime: 232
+  medalCitation: Silver Medal
+  problemsSolved: 12
+  rank: 7
+  siteCitation: ''
+  teamId: 483357
+  teamName: Waterloo White
+  totalTime: 1275
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: Carnegie Mellon University
+  lastProblemTime: 166
+  medalCitation: Silver Medal
+  problemsSolved: 11
+  rank: 8
+  siteCitation: ''
+  teamId: 483640
+  teamName: CMU2
+  totalTime: 999
+- citation: Ninth Place
+  honorableMentionCitation: null
+  institution: Carnegie Mellon University
+  lastProblemTime: 236
+  medalCitation: Bronze Medal
+  problemsSolved: 11
+  rank: 9
+  siteCitation: ''
+  teamId: 483641
+  teamName: CMU3
+  totalTime: 1281
+- citation: Tenth Place
+  honorableMentionCitation: null
+  institution: University of Waterloo
+  lastProblemTime: 285
+  medalCitation: Bronze Medal
+  problemsSolved: 11
+  rank: 10
+  siteCitation: ''
+  teamId: 485803
+  teamName: Waterloo Pink
+  totalTime: 1393
+- citation: Eleventh Place
+  honorableMentionCitation: null
+  institution: The Ohio State University
+  lastProblemTime: 258
+  medalCitation: Bronze Medal
+  problemsSolved: 11
+  rank: 11
+  siteCitation: ''
+  teamId: 485849
+  teamName: Sublinear Substring Seekers
+  totalTime: 1530
+- citation: Twelfth Place
+  honorableMentionCitation: null
+  institution: Carnegie Mellon University
+  lastProblemTime: 278
+  medalCitation: Bronze Medal
+  problemsSolved: 10
+  rank: 12
+  siteCitation: ''
+  teamId: 483642
+  teamName: CMU4
+  totalTime: 1253
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: Carnegie Mellon University
+  lastProblemTime: 287
+  medalCitation: Ranked
+  problemsSolved: 9
+  rank: 13
+  siteCitation: ''
+  teamId: 483643
+  teamName: CMU5
+  totalTime: 1204
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: Case Western Reserve University
+  lastProblemTime: 250
+  medalCitation: Ranked
+  problemsSolved: 9
+  rank: 13
+  siteCitation: ''
+  teamId: 486934
+  teamName: CWRU White
+  totalTime: 1085
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: University of Toronto
+  lastProblemTime: 294
+  medalCitation: Ranked
+  problemsSolved: 9
+  rank: 13
+  siteCitation: ''
+  teamId: 483799
+  teamName: U of T Gold
+  totalTime: 1496
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: University of Toronto Scarborough
+  lastProblemTime: 265
+  medalCitation: Ranked
+  problemsSolved: 9
+  rank: 13
+  siteCitation: ''
+  teamId: 485519
+  teamName: UTSC A
+  totalTime: 1267
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: University of Michigan at Ann Arbor
+  lastProblemTime: 243
+  medalCitation: Ranked
+  problemsSolved: 9
+  rank: 13
+  siteCitation: ''
+  teamId: 486726
+  teamName: Victors
+  totalTime: 1107
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: Case Western Reserve University
+  lastProblemTime: 254
+  medalCitation: Ranked
+  problemsSolved: 8
+  rank: 18
+  siteCitation: ''
+  teamId: 487048
+  teamName: CWRU Black
+  totalTime: 1646
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: University of Cincinnati
+  lastProblemTime: 246
+  medalCitation: Ranked
+  problemsSolved: 8
+  rank: 18
+  siteCitation: ''
+  teamId: 485930
+  teamName: gameisez
+  totalTime: 767
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: University of Toronto
+  lastProblemTime: 246
+  medalCitation: Ranked
+  problemsSolved: 8
+  rank: 18
+  siteCitation: ''
+  teamId: 483800
+  teamName: U of T White
+  totalTime: 1015
+- citation: Twenty-first Place
+  honorableMentionCitation: null
+  institution: Brock University
+  lastProblemTime: 269
+  medalCitation: Ranked
+  problemsSolved: 7
+  rank: 21
+  siteCitation: ''
+  teamId: 483755
+  teamName: Golden Badgers
+  totalTime: 1418
+- citation: Twenty-first Place
+  honorableMentionCitation: null
+  institution: Purdue University
+  lastProblemTime: 226
+  medalCitation: Ranked
+  problemsSolved: 7
+  rank: 21
+  siteCitation: ''
+  teamId: 487217
+  teamName: Purdue HN
+  totalTime: 1014
+- citation: Twenty-first Place
+  honorableMentionCitation: null
+  institution: The Ohio State University
+  lastProblemTime: 286
+  medalCitation: Ranked
+  problemsSolved: 7
+  rank: 21
+  siteCitation: ''
+  teamId: 485936
+  teamName: Uncountably Many Squirrels
+  totalTime: 1080
+- citation: Twenty-first Place
+  honorableMentionCitation: null
+  institution: University of Michigan at Ann Arbor
+  lastProblemTime: 238
+  medalCitation: Ranked
+  problemsSolved: 7
+  rank: 21
+  siteCitation: ''
+  teamId: 486727
+  teamName: Valiant
+  totalTime: 720
+- citation: Twenty-first Place
+  honorableMentionCitation: null
+  institution: York University
+  lastProblemTime: 265
+  medalCitation: Ranked
+  problemsSolved: 7
+  rank: 21
+  siteCitation: ''
+  teamId: 486943
+  teamName: York Red
+  totalTime: 867
+- citation: Twenty-sixth Place
+  honorableMentionCitation: null
+  institution: Cedarville University
+  lastProblemTime: 293
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 26
+  siteCitation: ''
+  teamId: 483306
+  teamName: Cedarville Blue
+  totalTime: 1088
+- citation: Twenty-sixth Place
+  honorableMentionCitation: null
+  institution: Cedarville University
+  lastProblemTime: 259
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 26
+  siteCitation: ''
+  teamId: 483307
+  teamName: Cedarville Gold
+  totalTime: 749
+- citation: Twenty-sixth Place
+  honorableMentionCitation: null
+  institution: University of Michigan at Ann Arbor
+  lastProblemTime: 296
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 26
+  siteCitation: ''
+  teamId: 486728
+  teamName: Conquering Heroes
+  totalTime: 841
+- citation: Twenty-sixth Place
+  honorableMentionCitation: null
+  institution: McMaster University
+  lastProblemTime: 257
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 26
+  siteCitation: ''
+  teamId: 486945
+  teamName: McMaster IndexError
+  totalTime: 974
+- citation: Twenty-sixth Place
+  honorableMentionCitation: null
+  institution: McMaster University
+  lastProblemTime: 186
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 26
+  siteCitation: ''
+  teamId: 486944
+  teamName: McMaster SyntaxError
+  totalTime: 645
+- citation: Twenty-sixth Place
+  honorableMentionCitation: null
+  institution: University of Toronto Scarborough
+  lastProblemTime: 269
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 26
+  siteCitation: ''
+  teamId: 485520
+  teamName: UTSC B
+  totalTime: 1044
+- citation: Thirty-second Place
+  honorableMentionCitation: null
+  institution: Cleveland State University
+  lastProblemTime: 296
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 32
+  siteCitation: ''
+  teamId: 485758
+  teamName: CSU-Euclid
+  totalTime: 1053
+- citation: Thirty-second Place
+  honorableMentionCitation: null
+  institution: Cleveland State University
+  lastProblemTime: 284
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 32
+  siteCitation: ''
+  teamId: 485760
+  teamName: CSU-Prospect
+  totalTime: 793
+- citation: Thirty-second Place
+  honorableMentionCitation: null
+  institution: McMaster University
+  lastProblemTime: 281
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 32
+  siteCitation: ''
+  teamId: 486947
+  teamName: McMaster NameError
+  totalTime: 987
+- citation: Thirty-second Place
+  honorableMentionCitation: null
+  institution: York University
+  lastProblemTime: 281
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 32
+  siteCitation: ''
+  teamId: 487049
+  teamName: York Gold
+  totalTime: 967
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Brock University
+  lastProblemTime: 278
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 36
+  siteCitation: ''
+  teamId: 483754
+  teamName: Brock Badgers
+  totalTime: 715
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Denison University
+  lastProblemTime: 165
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 36
+  siteCitation: ''
+  teamId: 486490
+  teamName: CS-DU
+  totalTime: 317
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Case Western Reserve University
+  lastProblemTime: 93
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 36
+  siteCitation: ''
+  teamId: 486942
+  teamName: CWRU Grey
+  totalTime: 229
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Michigan at Ann Arbor
+  lastProblemTime: 222
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 36
+  siteCitation: ''
+  teamId: 486729
+  teamName: Leaders and the Best
+  totalTime: 786
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: McMaster University
+  lastProblemTime: 202
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 36
+  siteCitation: ''
+  teamId: 486946
+  teamName: McMaster TypeError
+  totalTime: 636
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: McMaster University
+  lastProblemTime: 261
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 36
+  siteCitation: ''
+  teamId: 486948
+  teamName: McMaster ValueError
+  totalTime: 952
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Pennsylvania State University
+  lastProblemTime: 259
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 36
+  siteCitation: ''
+  teamId: 487453
+  teamName: PSU White
+  totalTime: 874
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Ryerson University
+  lastProblemTime: 234
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 36
+  siteCitation: ''
+  teamId: 485618
+  teamName: Ryerson A
+  totalTime: 694
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Windsor
+  lastProblemTime: 91
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 36
+  siteCitation: ''
+  teamId: 486720
+  teamName: Team Red
+  totalTime: 416
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Grove City College
+  lastProblemTime: 164
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 36
+  siteCitation: ''
+  teamId: 486723
+  teamName: Wolverines
+  totalTime: 280
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Cincinnati
+  lastProblemTime: 60
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 486391
+  teamName: Bearcats01
+  totalTime: 60
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Cincinnati
+  lastProblemTime: 286
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 486388
+  teamName: Bearcats23
+  totalTime: 488
+- citation: ''
+  honorableMentionCitation: null
+  institution: Central Michigan University
+  lastProblemTime: 46
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 483816
+  teamName: CMICH CHIPS
+  totalTime: 46
+- citation: ''
+  honorableMentionCitation: null
+  institution: Central Michigan University
+  lastProblemTime: 216
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: Grand Valley Site
+  teamId: 483815
+  teamName: CMICH GOLD
+  totalTime: 373
+- citation: ''
+  honorableMentionCitation: null
+  institution: Central Michigan University
+  lastProblemTime: 58
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 483814
+  teamName: CMICH MAROON
+  totalTime: 58
+- citation: ''
+  honorableMentionCitation: null
+  institution: Cleveland State University
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 485759
+  teamName: CSU-Chester
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Case Western Reserve University
+  lastProblemTime: 189
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 487047
+  teamName: CWRU Blue
+  totalTime: 452
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Cincinnati
+  lastProblemTime: 131
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 486542
+  teamName: Dark Side of the Moon
+  totalTime: 151
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Dayton
+  lastProblemTime: 113
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 485612
+  teamName: Dayton Flyers
+  totalTime: 289
+- citation: ''
+  honorableMentionCitation: null
+  institution: Denison University
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 486492
+  teamName: DU While
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Fanshawe College
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 485285
+  teamName: Fanshawe Black
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Grove City College
+  lastProblemTime: 149
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 486724
+  teamName: Grovers
+  totalTime: 297
+- citation: ''
+  honorableMentionCitation: null
+  institution: Brock University
+  lastProblemTime: 197
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 483981
+  teamName: Honey Badgers
+  totalTime: 330
+- citation: ''
+  honorableMentionCitation: null
+  institution: Kenyon College
+  lastProblemTime: 283
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 487640
+  teamName: Kenyon Purple
+  totalTime: 416
+- citation: ''
+  honorableMentionCitation: null
+  institution: Kenyon College
+  lastProblemTime: 275
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 487641
+  teamName: Kenyon White
+  totalTime: 561
+- citation: ''
+  honorableMentionCitation: null
+  institution: Denison University
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 486491
+  teamName: Koding Koala
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Ohio Wesleyan University
+  lastProblemTime: 138
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 486806
+  teamName: OWU Bishops A
+  totalTime: 138
+- citation: ''
+  honorableMentionCitation: null
+  institution: Ohio Wesleyan University
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 486807
+  teamName: OWU Bishops B
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Ohio Wesleyan University
+  lastProblemTime: 127
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 486808
+  teamName: OWU Bishops C
+  totalTime: 167
+- citation: ''
+  honorableMentionCitation: null
+  institution: Pennsylvania State University
+  lastProblemTime: 41
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 487454
+  teamName: PSU Blue
+  totalTime: 41
+- citation: ''
+  honorableMentionCitation: null
+  institution: Pennsylvania State University
+  lastProblemTime: 162
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 487070
+  teamName: PSU JFF
+  totalTime: 249
+- citation: ''
+  honorableMentionCitation: null
+  institution: Purdue University
+  lastProblemTime: 124
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: ''
+  teamId: 487218
+  teamName: Purdue NT
+  totalTime: 270
+- citation: ''
+  honorableMentionCitation: null
+  institution: Ryerson University
+  lastProblemTime: 129
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485619
+  teamName: Ryerson B
+  totalTime: 129
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Windsor
+  lastProblemTime: 217
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 486721
+  teamName: Team Blue
+  totalTime: 622
+- citation: ''
+  honorableMentionCitation: null
+  institution: Otterbein University
+  lastProblemTime: 135
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 486297
+  teamName: The Otters
+  totalTime: 135
+- citation: ''
+  honorableMentionCitation: null
+  institution: Edinboro University of Pennsylvania
+  lastProblemTime: 277
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: ''
+  teamId: 486825
+  teamName: The Typing Scots
+  totalTime: 385
