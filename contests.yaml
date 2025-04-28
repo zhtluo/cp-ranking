@@ -17,7 +17,6 @@ contests:
     - Central-Europe
     - SWERC
     - Northwestern-Europe
-    - Northern-Eurasia
     - Asia-EC-League-Final
 
     # NA Regionals
@@ -44,6 +43,10 @@ contests:
       - South-Central-USA
 
     ## Northern Eurasia Regionals -- complete
+    Northern-Eurasia:
+      #Northern-Eurasia from -2018 to present
+      - Northern-Eurasia
+      - Northeastern-Europe
     Armenia:
       # regional from -2020 (2019-2020) to present
       # Subregional from -2019 to -2009
