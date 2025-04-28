@@ -1,6 +1,7 @@
 import yaml
 import requests
 import os
+from copy import deepcopy
 
 
 # Load the YAML file
@@ -37,6 +38,8 @@ def fetch_contest_id(url):
 
 # Save data to a YAML file
 def save_to_yaml(data, file_path):
+    # Create directories if needed
+    os.makedirs(os.path.dirname(file_path), exist_ok=True)
     with open(file_path, "w") as file:
         yaml.dump(data, file, default_flow_style=False)
     print(f"Data saved to {file_path}")
@@ -63,5 +66,22 @@ if __name__ == "__main__":
 
     # Save to output YAML file
     output_dir = "./outputs"
-    os.makedirs(output_dir, exist_ok=True)
-    save_to_yaml(contest_data, "outputs/contest_ids.yaml")
+    output_path = output_dir + "/contest_ids.yaml"
+    APPEND_MODE = True
+
+    if APPEND_MODE:
+        print("Append mode ON — existing data will be preserved.")
+        existing = load_yaml(output_path)
+
+        # Merge without clobbering existing years
+        merged = deepcopy(existing)
+        for key, year_map in contest_data.items():
+            merged.setdefault(key, {})
+            for year, cid in year_map.items():
+                merged[key].setdefault(year, cid)
+        final_data = merged
+    else:
+        print("Append mode OFF — file will be overwritten.")
+        final_data = contest_data
+
+    save_to_yaml(contest_data, output_path)
