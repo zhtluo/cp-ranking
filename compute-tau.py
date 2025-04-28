@@ -4,14 +4,14 @@ import os
 import math
 
 
+# Load the YAML configuration file.
 def load_yaml(file_path):
-    """Load the YAML configuration file."""
     with open(file_path, "r") as file:
         return yaml.safe_load(file)
 
 
+# Load the ranking file in YAML format and assign index as rank if rank is null.
 def load_ranking(file_path):
-    """Load the ranking file in YAML format and assign index as rank if rank is null."""
     with open(file_path, "r") as file:
         rankings = yaml.safe_load(file)
 
@@ -49,8 +49,8 @@ def load_ranking(file_path):
     return institution_rankings
 
 
+# Load CF rating file in YAML format and assign rank based on average CF rating.
 def load_cf_ratings(file_path):
-    """Load CF rating file in YAML format and assign rank based on average CF rating."""
     with open(file_path, "r") as file:
         cf_data = yaml.safe_load(file)
 
@@ -70,8 +70,8 @@ def load_cf_ratings(file_path):
     return cf_rankings
 
 
+# Compare the rankings of two contests in a specific year using Kendall's Tau.
 def compare_contests(year, contest1, contest2, rankings_dir):
-    """Compare the rankings of two contests in a specific year using Kendall's Tau."""
     file1 = os.path.join(rankings_dir, f"{contest1}_{year}_ranking.yaml")
     file2 = os.path.join(rankings_dir, f"{contest2}_{year}_ranking.yaml")
     if not os.path.exists(file1) or not os.path.exists(file2):
@@ -101,8 +101,8 @@ def compare_contests(year, contest1, contest2, rankings_dir):
     return tau, num_schools
 
 
+# Compare a specific contest against CF ratings.
 def compare_contests_with_cf(contest, cf_ratings_dir, rankings_dir, years):
-    """Compare a specific contest against CF ratings."""
     total_tau = 0
     total_schools = 0
     yearly_results = {}
