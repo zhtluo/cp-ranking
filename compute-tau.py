@@ -203,7 +203,7 @@ def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
     return results
 
 
-# Example usage
+# Main
 if __name__ == "__main__":
     # Load YAML configuration
     yaml_file = "contests.yaml"
