@@ -27,7 +27,7 @@ def fetch_ranking(contest_id, output_dir, contest_name, year):
         )
 
     except requests.RequestException as e:
-        print(f"Failed to fetch ranking for contest ID {contest_id}: {e}")
+        print(f"[WARN] Failed to fetch ranking for contest ID {contest_id}: {e}")
 
 
 # Main script
