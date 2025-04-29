@@ -178,8 +178,10 @@ def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
     # Process other contest pairs
     print("  * indicates skipped due to only 1 team to compare to")
     print("  ! indicates skipped due to 0 teams advancing to finals")
+    print("  # indicates this region is now a subregional (comparing to worlds)")
     print("  otherwise skipped due to lack of data file")
     for contest1, contest2 in pairs:
+        #TODO: make this the same as CF above (same function and everything)
         print(f"Processing comparison: {contest1} vs {contest2} (for years =", end='')
         total_tau = 0
         total_pairs = 0
@@ -188,6 +190,12 @@ def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
 
         for year in years:
             tau, num_schools = compare_contests(year, contest1, contest2, rankings_dir)
+            #EU championships started in 2024, don't compare subregionals to them.
+            is_now_regional = False
+            if (year > 2023) and (contest1 == "World-Finals") and \
+               (contest2 in ['SEERC', 'Central-Europe', 'SWERC', 'Northwestern-Europe']):
+                tau = None
+                is_now_regional = True
             if tau is not None and not math.isnan(tau):
                 print(" " + str(year) + ",", end='')
                 yearly_results[year] = {"tau": tau, "num_schools": num_schools}
@@ -196,7 +204,9 @@ def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
                 total_pairs += pairs
             else:
                 reason = str(year)
-                if num_schools == 1:
+                if is_now_regional:
+                    reason += "#"
+                elif num_schools == 1:
                     reason += "*"
                 elif num_schools == 0:
                     reason += "!"

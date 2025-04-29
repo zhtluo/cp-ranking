@@ -13,6 +13,7 @@ Processing comparison: Northern-Eurasia vs CF Ratings
 Processing comparison: Asia-EC-League-Final vs CF Ratings
   * indicates skipped due to only 1 team to compare to
   ! indicates skipped due to 0 teams advancing to finals
+  # indicates this region is now a subregional (comparing to worlds)
   otherwise skipped due to lack of data file
 Processing comparison: World-Finals vs North-America-Championship (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
 Processing comparison: World-Finals vs APSEPC (for years = 2024)  -------- Skipped: 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
@@ -20,10 +21,10 @@ Processing comparison: World-Finals vs Latin-America-Champ (for years = 2024)  -
 Processing comparison: World-Finals vs ICPCKolkataKanpur (for years = 2024, 2023, 2020)  -------- Skipped: 2022!, 2021!, 2019, 2018, 2017, 2016, 2015
 Processing comparison: World-Finals vs ACPC (for years = 2024, 2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015)  -------- Skipped: 2020*
 Processing comparison: World-Finals vs EUC (for years = 2024)  -------- Skipped: 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
-Processing comparison: World-Finals vs SEERC (for years = 2024, 2023, 2022, 2020, 2019, 2018, 2017)  -------- Skipped: 2021!, 2016, 2015
-Processing comparison: World-Finals vs Central-Europe (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
-Processing comparison: World-Finals vs SWERC (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
-Processing comparison: World-Finals vs Northwestern-Europe (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
+Processing comparison: World-Finals vs SEERC (for years = 2023, 2022, 2020, 2019, 2018, 2017)  -------- Skipped: 2024#, 2021!, 2016, 2015
+Processing comparison: World-Finals vs Central-Europe (for years = 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)  -------- Skipped: 2024#
+Processing comparison: World-Finals vs SWERC (for years = 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)  -------- Skipped: 2024#
+Processing comparison: World-Finals vs Northwestern-Europe (for years = 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)  -------- Skipped: 2024#
 Processing comparison: World-Finals vs Northern-Eurasia (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
 Processing comparison: World-Finals vs Asia-EC-League-Final (for years = 2022, 2021, 2019, 2018)  -------- Skipped: 2024, 2023, 2020!, 2017, 2016, 2015
 Processing comparison: North-America-Championship vs East-Central-NA (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
@@ -184,18 +185,16 @@ Comparison: ('World-Finals', 'EUC')
   Pairs (denominator): 153
 
 Comparison: ('World-Finals', 'SEERC')
-  Year 2024: Tau = -0.333, Shared Schools = 3
   Year 2023: Tau = 0.400, Shared Schools = 5
   Year 2022: Tau = 1.000, Shared Schools = 3
   Year 2020: Tau = 1.000, Shared Schools = 3
   Year 2019: Tau = 0.000, Shared Schools = 4
   Year 2018: Tau = 0.333, Shared Schools = 6
   Year 2017: Tau = 0.333, Shared Schools = 6
-  Weighted Average Tau: 0.345
-  Pairs (denominator): 55
+  Weighted Average Tau: 0.385
+  Pairs (denominator): 52
 
 Comparison: ('World-Finals', 'Central-Europe')
-  Year 2024: Tau = -0.200, Shared Schools = 5
   Year 2023: Tau = 0.333, Shared Schools = 3
   Year 2022: Tau = 0.333, Shared Schools = 3
   Year 2021: Tau = 0.000, Shared Schools = 4
@@ -205,11 +204,10 @@ Comparison: ('World-Finals', 'Central-Europe')
   Year 2017: Tau = 1.000, Shared Schools = 4
   Year 2016: Tau = 0.867, Shared Schools = 6
   Year 2015: Tau = 0.400, Shared Schools = 5
-  Weighted Average Tau: 0.452
-  Pairs (denominator): 62
+  Weighted Average Tau: 0.577
+  Pairs (denominator): 52
 
 Comparison: ('World-Finals', 'SWERC')
-  Year 2024: Tau = 0.200, Shared Schools = 5
   Year 2023: Tau = 0.200, Shared Schools = 5
   Year 2022: Tau = -0.333, Shared Schools = 4
   Year 2021: Tau = 0.333, Shared Schools = 3
@@ -219,11 +217,10 @@ Comparison: ('World-Finals', 'SWERC')
   Year 2017: Tau = -1.000, Shared Schools = 2
   Year 2016: Tau = 1.000, Shared Schools = 2
   Year 2015: Tau = 1.000, Shared Schools = 2
-  Weighted Average Tau: 0.083
-  Pairs (denominator): 48
+  Weighted Average Tau: 0.053
+  Pairs (denominator): 38
 
 Comparison: ('World-Finals', 'Northwestern-Europe')
-  Year 2024: Tau = 0.200, Shared Schools = 5
   Year 2023: Tau = 0.600, Shared Schools = 5
   Year 2022: Tau = -0.333, Shared Schools = 3
   Year 2021: Tau = 0.600, Shared Schools = 6
@@ -233,8 +230,8 @@ Comparison: ('World-Finals', 'Northwestern-Europe')
   Year 2017: Tau = 1.000, Shared Schools = 3
   Year 2016: Tau = 0.000, Shared Schools = 4
   Year 2015: Tau = -1.000, Shared Schools = 3
-  Weighted Average Tau: 0.408
-  Pairs (denominator): 71
+  Weighted Average Tau: 0.443
+  Pairs (denominator): 61
 
 Comparison: ('World-Finals', 'Northern-Eurasia')
   Year 2024: Tau = 0.425, Shared Schools = 18
@@ -584,13 +581,13 @@ Comparison: ('Northern-Eurasia', 'West-Siberian')
         ICPCKolkataKanpur & 239 & 0.188 \\
         ACPC & 563 & 0.410 \\
         EUC & 153 & 0.346 \\
-        SEERC & 55 & 0.345 \\
-        Central-Europe & 62 & 0.452 \\
-        SWERC & 48 & 0.083 \\
-        Northwestern-Europe & 71 & 0.408 \\
+        SEERC & 52 & 0.385 \\
+        Central-Europe & 52 & 0.577 \\
+        SWERC & 38 & 0.053 \\
+        Northwestern-Europe & 61 & 0.443 \\
         Northern-Eurasia & 1131 & 0.521 \\
         Asia-EC-League-Final & 453 & 0.395 \\
-        \textbf{Weighted Average} & - & \textbf{0.413} \\
+        \textbf{Weighted Average} & - & \textbf{0.416} \\
 
 % ---- North-America-Championship ----
         East-Central-NA & 90 & 0.556 \\
