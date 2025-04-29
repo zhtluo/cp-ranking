@@ -1,0 +1,1474 @@
+- citation: ' First Place'
+  honorableMentionCitation: null
+  institution: The University of British Columbia
+  lastProblemTime: 231
+  medalCitation: Gold Medal
+  problemsSolved: 13
+  rank: 1
+  siteCitation: Canada Site Winner
+  teamId: 398185
+  teamName: UBC p_X(x)=P(X=x)
+  totalTime: 1078
+- citation: ' Second Place'
+  honorableMentionCitation: null
+  institution: Stanford University
+  lastProblemTime: 249
+  medalCitation: Silver Medal
+  problemsSolved: 13
+  rank: 2
+  siteCitation: No. California Site Winner
+  teamId: 384968
+  teamName: Stanford Cardinal
+  totalTime: 1155
+- citation: ' Third Place'
+  honorableMentionCitation: null
+  institution: University of California, Berkeley
+  lastProblemTime: 291
+  medalCitation: Bronze Medal
+  problemsSolved: 12
+  rank: 3
+  siteCitation: ''
+  teamId: 394029
+  teamName: Berkeley Blue
+  totalTime: 1765
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: University of Washington
+  lastProblemTime: 293
+  medalCitation: null
+  problemsSolved: 11
+  rank: 4
+  siteCitation: Western Washington Site Winner
+  teamId: 393232
+  teamName: SIGSOLVE
+  totalTime: 1207
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: University of Washington
+  lastProblemTime: 241
+  medalCitation: null
+  problemsSolved: 11
+  rank: 5
+  siteCitation: ''
+  teamId: 393230
+  teamName: the Winnie's List
+  totalTime: 1225
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: University of Washington
+  lastProblemTime: 293
+  medalCitation: null
+  problemsSolved: 10
+  rank: 6
+  siteCitation: ''
+  teamId: 393234
+  teamName: GIXer
+  totalTime: 914
+- citation: D2 First Place
+  honorableMentionCitation: null
+  institution: Simon Fraser University
+  lastProblemTime: 203
+  medalCitation: D2 Gold Medal
+  problemsSolved: 10
+  rank: 7
+  siteCitation: D2 Canada Site Winner
+  teamId: 399023
+  teamName: D2_SFU_Magenta
+  totalTime: 1035
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: University of California, Berkeley
+  lastProblemTime: 287
+  medalCitation: null
+  problemsSolved: 10
+  rank: 8
+  siteCitation: ''
+  teamId: 394031
+  teamName: Berkeley Radicals
+  totalTime: 1260
+- citation: D2 Second Place
+  honorableMentionCitation: null
+  institution: The University of British Columbia
+  lastProblemTime: 249
+  medalCitation: D2 Silver Medal
+  problemsSolved: 10
+  rank: 9
+  siteCitation: ''
+  teamId: 398190
+  teamName: D2 UBC p_Y(y)=P(Y=y)
+  totalTime: 1299
+- citation: D2 Third Place
+  honorableMentionCitation: null
+  institution: The University of British Columbia
+  lastProblemTime: 248
+  medalCitation: D2 Bronze Medal
+  problemsSolved: 9
+  rank: 10
+  siteCitation: ''
+  teamId: 398189
+  teamName: D2 UBC WLOG
+  totalTime: 692
+- citation: Eleventh Place
+  honorableMentionCitation: null
+  institution: The University of British Columbia
+  lastProblemTime: 213
+  medalCitation: null
+  problemsSolved: 9
+  rank: 11
+  siteCitation: ''
+  teamId: 398186
+  teamName: UBC ReDuX
+  totalTime: 761
+- citation: Twelfth Place
+  honorableMentionCitation: null
+  institution: University of Washington
+  lastProblemTime: 197
+  medalCitation: null
+  problemsSolved: 9
+  rank: 12
+  siteCitation: ''
+  teamId: 393235
+  teamName: bugsInSpaghetti
+  totalTime: 846
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: University Of British Columbia Okanagan
+  lastProblemTime: 215
+  medalCitation: null
+  problemsSolved: 9
+  rank: 13
+  siteCitation: ''
+  teamId: 398886
+  teamName: UBCO Heat
+  totalTime: 968
+- citation: Fourteenth Place
+  honorableMentionCitation: null
+  institution: De Anza College
+  lastProblemTime: 238
+  medalCitation: null
+  problemsSolved: 9
+  rank: 14
+  siteCitation: D2 No. California Site Winner
+  teamId: 397301
+  teamName: D2 De Anza AKT
+  totalTime: 969
+- citation: Fifteenth Place
+  honorableMentionCitation: null
+  institution: George Fox University
+  lastProblemTime: 280
+  medalCitation: null
+  problemsSolved: 9
+  rank: 15
+  siteCitation: D2 Oregon Site Winner
+  teamId: 399875
+  teamName: D2 CoolTeamName
+  totalTime: 1303
+- citation: Sixteenth Place
+  honorableMentionCitation: null
+  institution: Stanford University
+  lastProblemTime: 243
+  medalCitation: null
+  problemsSolved: 8
+  rank: 16
+  siteCitation: ''
+  teamId: 384969
+  teamName: Stanford Red
+  totalTime: 610
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: University of Northern British Columbia
+  lastProblemTime: 291
+  medalCitation: null
+  problemsSolved: 8
+  rank: 17
+  siteCitation: ''
+  teamId: 396884
+  teamName: D2 Forked
+  totalTime: 757
+- citation: Eighteenth Place
+  honorableMentionCitation: null
+  institution: Simon Fraser University
+  lastProblemTime: 285
+  medalCitation: null
+  problemsSolved: 8
+  rank: 18
+  siteCitation: ''
+  teamId: 399020
+  teamName: SFU_Royal
+  totalTime: 759
+- citation: Nineteenth Place
+  honorableMentionCitation: null
+  institution: Okanagan College
+  lastProblemTime: 255
+  medalCitation: null
+  problemsSolved: 8
+  rank: 19
+  siteCitation: ''
+  teamId: 399880
+  teamName: D2 OC1 The Any Keys
+  totalTime: 790
+- citation: Twentieth Place
+  honorableMentionCitation: null
+  institution: Stanford University
+  lastProblemTime: 275
+  medalCitation: null
+  problemsSolved: 8
+  rank: 20
+  siteCitation: ''
+  teamId: 384970
+  teamName: Stanford White
+  totalTime: 796
+- citation: Twenty-first Place
+  honorableMentionCitation: null
+  institution: University of Washington Tacoma
+  lastProblemTime: 240
+  medalCitation: null
+  problemsSolved: 8
+  rank: 21
+  siteCitation: D2 Western Washington Site Winner
+  teamId: 394025
+  teamName: D2 UWT Huskies
+  totalTime: 954
+- citation: Twenty-second Place
+  honorableMentionCitation: null
+  institution: University of Portland
+  lastProblemTime: 277
+  medalCitation: null
+  problemsSolved: 8
+  rank: 22
+  siteCitation: ''
+  teamId: 399720
+  teamName: D2QiKaQQ
+  totalTime: 1171
+- citation: Twenty-third Place
+  honorableMentionCitation: null
+  institution: Pacific University
+  lastProblemTime: 280
+  medalCitation: null
+  problemsSolved: 8
+  rank: 23
+  siteCitation: ''
+  teamId: 399004
+  teamName: 'D2: ;-- DROP TABLE teamNames;--'
+  totalTime: 1314
+- citation: Twenty-fourth Place
+  honorableMentionCitation: null
+  institution: Cogswell College
+  lastProblemTime: 298
+  medalCitation: null
+  problemsSolved: 8
+  rank: 24
+  siteCitation: ''
+  teamId: 391640
+  teamName: D2 Farfalle Code
+  totalTime: 1415
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: George Fox University
+  lastProblemTime: 166
+  medalCitation: null
+  problemsSolved: 7
+  rank: 25
+  siteCitation: ''
+  teamId: 399877
+  teamName: D2 Happy Otter
+  totalTime: 396
+- citation: Twenty-sixth Place
+  honorableMentionCitation: null
+  institution: University of California, Berkeley
+  lastProblemTime: 189
+  medalCitation: null
+  problemsSolved: 7
+  rank: 26
+  siteCitation: ''
+  teamId: 394030
+  teamName: Berkeley Gold
+  totalTime: 452
+- citation: Twenty-seventh Place
+  honorableMentionCitation: null
+  institution: California State University, Monterey Bay
+  lastProblemTime: 255
+  medalCitation: null
+  problemsSolved: 7
+  rank: 27
+  siteCitation: ''
+  teamId: 381697
+  teamName: D2 Harry Otter and the Half-Pup Prince
+  totalTime: 661
+- citation: Twenty-eighth Place
+  honorableMentionCitation: null
+  institution: University of Puget Sound
+  lastProblemTime: 201
+  medalCitation: null
+  problemsSolved: 7
+  rank: 28
+  siteCitation: ''
+  teamId: 398132
+  teamName: D2 The Loops Are Ready
+  totalTime: 679
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: California State University - Chico
+  lastProblemTime: 279
+  medalCitation: null
+  problemsSolved: 7
+  rank: 29
+  siteCitation: ''
+  teamId: 396872
+  teamName: wildcat1
+  totalTime: 710
+- citation: Thirtieth Place
+  honorableMentionCitation: null
+  institution: University of Northern British Columbia
+  lastProblemTime: 180
+  medalCitation: null
+  problemsSolved: 7
+  rank: 30
+  siteCitation: ''
+  teamId: 396885
+  teamName: D2 Stacked
+  totalTime: 742
+- citation: Thirty-first Place
+  honorableMentionCitation: null
+  institution: California State University - Sacramento
+  lastProblemTime: 248
+  medalCitation: null
+  problemsSolved: 7
+  rank: 31
+  siteCitation: ''
+  teamId: 398321
+  teamName: D2 - CSUS Hornet 4
+  totalTime: 768
+- citation: Thirty-second Place
+  honorableMentionCitation: null
+  institution: University of Washington Tacoma
+  lastProblemTime: 212
+  medalCitation: null
+  problemsSolved: 7
+  rank: 32
+  siteCitation: ''
+  teamId: 398644
+  teamName: D2 UWT Purple
+  totalTime: 995
+- citation: Thirty-third Place
+  honorableMentionCitation: null
+  institution: Oregon State University
+  lastProblemTime: 279
+  medalCitation: null
+  problemsSolved: 7
+  rank: 33
+  siteCitation: ''
+  teamId: 399837
+  teamName: D2:Team 1
+  totalTime: 1002
+- citation: Thirty-fourth Place
+  honorableMentionCitation: null
+  institution: California State University, Monterey Bay
+  lastProblemTime: 298
+  medalCitation: null
+  problemsSolved: 7
+  rank: 34
+  siteCitation: ''
+  teamId: 381699
+  teamName: D2 Harry Otter and the Goblet of Fish
+  totalTime: 1125
+- citation: Thirty-fifth Place
+  honorableMentionCitation: null
+  institution: De Anza College
+  lastProblemTime: 276
+  medalCitation: null
+  problemsSolved: 7
+  rank: 35
+  siteCitation: ''
+  teamId: 397302
+  teamName: D2 De Anza BDJ
+  totalTime: 1224
+- citation: Thirty-sixth Place
+  honorableMentionCitation: null
+  institution: Seattle University
+  lastProblemTime: 242
+  medalCitation: null
+  problemsSolved: 7
+  rank: 36
+  siteCitation: ''
+  teamId: 399833
+  teamName: D2 Seattle University
+  totalTime: 1238
+- citation: Thirty-seventh Place
+  honorableMentionCitation: null
+  institution: The University of British Columbia
+  lastProblemTime: 64
+  medalCitation: null
+  problemsSolved: 6
+  rank: 37
+  siteCitation: ''
+  teamId: 398187
+  teamName: UBC Union of Bad Coders
+  totalTime: 162
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Simon Fraser University
+  lastProblemTime: 92
+  medalCitation: null
+  problemsSolved: 6
+  rank: 38
+  siteCitation: ''
+  teamId: 399021
+  teamName: SFU_Blue
+  totalTime: 207
+- citation: Thirty-ninth Place
+  honorableMentionCitation: null
+  institution: California State University - Chico
+  lastProblemTime: 126
+  medalCitation: null
+  problemsSolved: 6
+  rank: 39
+  siteCitation: ''
+  teamId: 396874
+  teamName: D2_wildcat3
+  totalTime: 412
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Eastern Washington University
+  lastProblemTime: 131
+  medalCitation: null
+  problemsSolved: 6
+  rank: 40
+  siteCitation: D2 Eastern Washington Site Winner
+  teamId: 399973
+  teamName: D2 Eagle Red
+  totalTime: 456
+- citation: Forty-first Place
+  honorableMentionCitation: null
+  institution: Stanford University
+  lastProblemTime: 243
+  medalCitation: null
+  problemsSolved: 6
+  rank: 41
+  siteCitation: ''
+  teamId: 384971
+  teamName: Stanford Band
+  totalTime: 467
+- citation: Forty-second Place
+  honorableMentionCitation: null
+  institution: University of California Davis
+  lastProblemTime: 168
+  medalCitation: null
+  problemsSolved: 6
+  rank: 42
+  siteCitation: ''
+  teamId: 399982
+  teamName: Davis Gold
+  totalTime: 491
+- citation: Forty-third Place
+  honorableMentionCitation: null
+  institution: Simon Fraser University
+  lastProblemTime: 179
+  medalCitation: null
+  problemsSolved: 6
+  rank: 43
+  siteCitation: ''
+  teamId: 399022
+  teamName: SFU_Red
+  totalTime: 514
+- citation: Forty-fourth Place
+  honorableMentionCitation: null
+  institution: California State University - Sacramento
+  lastProblemTime: 270
+  medalCitation: null
+  problemsSolved: 6
+  rank: 44
+  siteCitation: ''
+  teamId: 398318
+  teamName: CSUS Hornet 1
+  totalTime: 516
+- citation: Forty-fifth Place
+  honorableMentionCitation: null
+  institution: University of Washington
+  lastProblemTime: 227
+  medalCitation: null
+  problemsSolved: 6
+  rank: 45
+  siteCitation: ''
+  teamId: 393231
+  teamName: Team on9
+  totalTime: 531
+- citation: Forty-sixth Place
+  honorableMentionCitation: null
+  institution: Eastern Washington University
+  lastProblemTime: 153
+  medalCitation: null
+  problemsSolved: 6
+  rank: 46
+  siteCitation: ''
+  teamId: 399972
+  teamName: D2 Hackstreet_Girls
+  totalTime: 548
+- citation: Forty-seventh Place
+  honorableMentionCitation: null
+  institution: University of Washington
+  lastProblemTime: 177
+  medalCitation: null
+  problemsSolved: 6
+  rank: 47
+  siteCitation: ''
+  teamId: 393233
+  teamName: GuMaWin
+  totalTime: 557
+- citation: Forty-eighth Place
+  honorableMentionCitation: null
+  institution: George Fox University
+  lastProblemTime: 168
+  medalCitation: null
+  problemsSolved: 6
+  rank: 48
+  siteCitation: ''
+  teamId: 399873
+  teamName: D2 Jank 'n Java
+  totalTime: 566
+- citation: Forty-ninth Place
+  honorableMentionCitation: null
+  institution: George Fox University
+  lastProblemTime: 138
+  medalCitation: null
+  problemsSolved: 6
+  rank: 49
+  siteCitation: ''
+  teamId: 399876
+  teamName: D2 willCodeForRamen
+  totalTime: 574
+- citation: Fiftieth Place
+  honorableMentionCitation: null
+  institution: Okanagan College
+  lastProblemTime: 173
+  medalCitation: null
+  problemsSolved: 6
+  rank: 50
+  siteCitation: ''
+  teamId: 399881
+  teamName: D2 OC2 Phishing4Bits
+  totalTime: 634
+- citation: Fifty-first Place
+  honorableMentionCitation: null
+  institution: Thompson Rivers University
+  lastProblemTime: 290
+  medalCitation: null
+  problemsSolved: 6
+  rank: 51
+  siteCitation: ''
+  teamId: 398149
+  teamName: D2 sadpandas
+  totalTime: 736
+- citation: Fifty-second Place
+  honorableMentionCitation: null
+  institution: Eastern Washington University
+  lastProblemTime: 223
+  medalCitation: null
+  problemsSolved: 6
+  rank: 52
+  siteCitation: ''
+  teamId: 399971
+  teamName: D2 Red Squadron
+  totalTime: 737
+- citation: Fifty-third Place
+  honorableMentionCitation: null
+  institution: De Anza College
+  lastProblemTime: 268
+  medalCitation: null
+  problemsSolved: 6
+  rank: 53
+  siteCitation: ''
+  teamId: 397303
+  teamName: D2 De Anza KLZ
+  totalTime: 783
+- citation: Fifty-fourth Place
+  honorableMentionCitation: null
+  institution: California State University, Monterey Bay
+  lastProblemTime: 243
+  medalCitation: null
+  problemsSolved: 6
+  rank: 54
+  siteCitation: ''
+  teamId: 381698
+  teamName: D2 Harry Otter and the Order of the Porpoise
+  totalTime: 815
+- citation: Fifty-fifth Place
+  honorableMentionCitation: null
+  institution: University of Northern British Columbia
+  lastProblemTime: 264
+  medalCitation: null
+  problemsSolved: 6
+  rank: 55
+  siteCitation: ''
+  teamId: 396886
+  teamName: D2 Hashed
+  totalTime: 838
+- citation: Fifty-sixth Place
+  honorableMentionCitation: null
+  institution: University of the Pacific
+  lastProblemTime: 181
+  medalCitation: null
+  problemsSolved: 6
+  rank: 56
+  siteCitation: ''
+  teamId: 397533
+  teamName: NoMoreHex
+  totalTime: 876
+- citation: Fifty-seventh Place
+  honorableMentionCitation: null
+  institution: Gonzaga University
+  lastProblemTime: 243
+  medalCitation: null
+  problemsSolved: 6
+  rank: 57
+  siteCitation: ''
+  teamId: 401283
+  teamName: D2 Rule of Three
+  totalTime: 993
+- citation: Fifty-eighth Place
+  honorableMentionCitation: null
+  institution: Pacific University
+  lastProblemTime: 247
+  medalCitation: null
+  problemsSolved: 6
+  rank: 58
+  siteCitation: ''
+  teamId: 399005
+  teamName: 'D2: 2B||!2B'
+  totalTime: 997
+- citation: Fifty-ninth Place
+  honorableMentionCitation: null
+  institution: DigiPen Institute of Technology
+  lastProblemTime: 265
+  medalCitation: null
+  problemsSolved: 6
+  rank: 59
+  siteCitation: ''
+  teamId: 389699
+  teamName: DigiPen1
+  totalTime: 1002
+- citation: Sixtieth Place
+  honorableMentionCitation: null
+  institution: Brigham Young University - Hawaii
+  lastProblemTime: 296
+  medalCitation: null
+  problemsSolved: 6
+  rank: 60
+  siteCitation: D2 Hawaii Site Winner
+  teamId: 400151
+  teamName: D2 JeDi Order
+  totalTime: 1099
+- citation: Sixty-first Place
+  honorableMentionCitation: null
+  institution: California State University - Sacramento
+  lastProblemTime: 285
+  medalCitation: null
+  problemsSolved: 6
+  rank: 61
+  siteCitation: ''
+  teamId: 398319
+  teamName: D2 - CSUS Hornet 2
+  totalTime: 1158
+- citation: Sixty-second Place
+  honorableMentionCitation: null
+  institution: California State University, Monterey Bay
+  lastProblemTime: 96
+  medalCitation: null
+  problemsSolved: 5
+  rank: 62
+  siteCitation: ''
+  teamId: 381696
+  teamName: Harry Otter and the Deathly Shallows
+  totalTime: 317
+- citation: Sixty-third Place
+  honorableMentionCitation: null
+  institution: Pacific University
+  lastProblemTime: 160
+  medalCitation: null
+  problemsSolved: 5
+  rank: 63
+  siteCitation: Oregon Site Winner
+  teamId: 399002
+  teamName: 'D1: NP=No Problem'
+  totalTime: 453
+- citation: Sixty-fourth Place
+  honorableMentionCitation: null
+  institution: George Fox University
+  lastProblemTime: 179
+  medalCitation: null
+  problemsSolved: 5
+  rank: 64
+  siteCitation: ''
+  teamId: 399878
+  teamName: D2 Buffer_Overflow
+  totalTime: 454
+- citation: Sixty-fifth Place
+  honorableMentionCitation: null
+  institution: George Fox University
+  lastProblemTime: 213
+  medalCitation: null
+  problemsSolved: 5
+  rank: 65
+  siteCitation: ''
+  teamId: 399874
+  teamName: ButIWasBusyThisWeekend
+  totalTime: 462
+- citation: Sixty-sixth Place
+  honorableMentionCitation: null
+  institution: Thompson Rivers University
+  lastProblemTime: 187
+  medalCitation: null
+  problemsSolved: 5
+  rank: 66
+  siteCitation: ''
+  teamId: 398148
+  teamName: Bits Please
+  totalTime: 469
+- citation: Sixty-seventh Place
+  honorableMentionCitation: null
+  institution: De Anza College
+  lastProblemTime: 187
+  medalCitation: null
+  problemsSolved: 5
+  rank: 67
+  siteCitation: ''
+  teamId: 397304
+  teamName: D2 De Anza LMT
+  totalTime: 482
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Linfield College
+  lastProblemTime: 167
+  medalCitation: null
+  problemsSolved: 5
+  rank: 68
+  siteCitation: ''
+  teamId: 382847
+  teamName: D2Linfield 2
+  totalTime: 513
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Washington Tacoma
+  lastProblemTime: 190
+  medalCitation: null
+  problemsSolved: 5
+  rank: 69
+  siteCitation: ''
+  teamId: 394024
+  teamName: UWT Huskies
+  totalTime: 545
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Hawaii Pacific University
+  lastProblemTime: 180
+  medalCitation: null
+  problemsSolved: 5
+  rank: 70
+  siteCitation: Hawaii Site Winner
+  teamId: 399559
+  teamName: '#00FF00'
+  totalTime: 551
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Portland
+  lastProblemTime: 277
+  medalCitation: null
+  problemsSolved: 5
+  rank: 71
+  siteCitation: ''
+  teamId: 399713
+  teamName: D2HaPaAl
+  totalTime: 574
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Okanagan College
+  lastProblemTime: 138
+  medalCitation: null
+  problemsSolved: 5
+  rank: 72
+  siteCitation: ''
+  teamId: 399882
+  teamName: D2 OC3 Team !Cool
+  totalTime: 581
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Whitworth University
+  lastProblemTime: 229
+  medalCitation: null
+  problemsSolved: 5
+  rank: 73
+  siteCitation: Eastern Washington Site Winner
+  teamId: 396911
+  teamName: Whitworth');DROP TABLE Teams;
+  totalTime: 596
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Hawaii - Manoa
+  lastProblemTime: 215
+  medalCitation: null
+  problemsSolved: 5
+  rank: 74
+  siteCitation: ''
+  teamId: 398393
+  teamName: int main(){*(int *)0=0;}
+  totalTime: 676
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of California Davis
+  lastProblemTime: 259
+  medalCitation: null
+  problemsSolved: 5
+  rank: 75
+  siteCitation: ''
+  teamId: 399983
+  teamName: Davis Blue
+  totalTime: 681
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Pacific University
+  lastProblemTime: 251
+  medalCitation: null
+  problemsSolved: 5
+  rank: 76
+  siteCitation: ''
+  teamId: 399003
+  teamName: 'D2: //TODO: Team Name'
+  totalTime: 690
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Oregon State University
+  lastProblemTime: 275
+  medalCitation: null
+  problemsSolved: 5
+  rank: 77
+  siteCitation: ''
+  teamId: 399839
+  teamName: OSU orange
+  totalTime: 690
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Eastern Washington University
+  lastProblemTime: 269
+  medalCitation: null
+  problemsSolved: 5
+  rank: 78
+  siteCitation: ''
+  teamId: 399974
+  teamName: D2 Eagle White
+  totalTime: 720
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Pacific University
+  lastProblemTime: 263
+  medalCitation: null
+  problemsSolved: 5
+  rank: 79
+  siteCitation: ''
+  teamId: 399006
+  teamName: 'D2: NULL && VOID'
+  totalTime: 754
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Lewis & Clark College
+  lastProblemTime: 237
+  medalCitation: null
+  problemsSolved: 5
+  rank: 80
+  siteCitation: ''
+  teamId: 399532
+  teamName: President Win Diesel
+  totalTime: 788
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Eastern Washington University
+  lastProblemTime: 297
+  medalCitation: null
+  problemsSolved: 5
+  rank: 81
+  siteCitation: ''
+  teamId: 399977
+  teamName: D2 Screaming Eagles
+  totalTime: 874
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Hawaii - Manoa
+  lastProblemTime: 293
+  medalCitation: null
+  problemsSolved: 5
+  rank: 82
+  siteCitation: ''
+  teamId: 398395
+  teamName: UHM1
+  totalTime: 879
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Hawaii - Manoa
+  lastProblemTime: 294
+  medalCitation: null
+  problemsSolved: 5
+  rank: 83
+  siteCitation: ''
+  teamId: 398394
+  teamName: roasted_marshmallow
+  totalTime: 906
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Oregon
+  lastProblemTime: 284
+  medalCitation: null
+  problemsSolved: 5
+  rank: 84
+  siteCitation: ''
+  teamId: 399535
+  teamName: UO-off-by-one
+  totalTime: 924
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Everett Community College
+  lastProblemTime: 232
+  medalCitation: null
+  problemsSolved: 5
+  rank: 85
+  siteCitation: ''
+  teamId: 398457
+  teamName: D2 Trojans
+  totalTime: 968
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Whitworth University
+  lastProblemTime: 274
+  medalCitation: null
+  problemsSolved: 5
+  rank: 86
+  siteCitation: ''
+  teamId: 396909
+  teamName: Whitworth Bioinformatics Pirate Chinchillas
+  totalTime: 1241
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: The University of British Columbia
+  lastProblemTime: 58
+  medalCitation: null
+  problemsSolved: 4
+  rank: 87
+  siteCitation: ''
+  teamId: 398188
+  teamName: UBC (;u;)7
+  totalTime: 145
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Brigham Young University - Hawaii
+  lastProblemTime: 69
+  medalCitation: null
+  problemsSolved: 4
+  rank: 88
+  siteCitation: ''
+  teamId: 382874
+  teamName: D2 Seasiders
+  totalTime: 217
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Brigham Young University - Hawaii
+  lastProblemTime: 109
+  medalCitation: null
+  problemsSolved: 4
+  rank: 89
+  siteCitation: ''
+  teamId: 400149
+  teamName: D2 Sith Lords
+  totalTime: 219
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Whitworth University
+  lastProblemTime: 174
+  medalCitation: null
+  problemsSolved: 4
+  rank: 90
+  siteCitation: ''
+  teamId: 396913
+  teamName: 'D2: Whitworth Q.E.D.'
+  totalTime: 277
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Puget Sound
+  lastProblemTime: 158
+  medalCitation: null
+  problemsSolved: 4
+  rank: 91
+  siteCitation: ''
+  teamId: 398133
+  teamName: Heap of Trouble
+  totalTime: 329
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of California Davis
+  lastProblemTime: 127
+  medalCitation: null
+  problemsSolved: 4
+  rank: 92
+  siteCitation: ''
+  teamId: 399984
+  teamName: Davis White
+  totalTime: 331
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Washington Tacoma
+  lastProblemTime: 166
+  medalCitation: null
+  problemsSolved: 4
+  rank: 93
+  siteCitation: ''
+  teamId: 398095
+  teamName: UWT Purple
+  totalTime: 333
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Whitworth University
+  lastProblemTime: 143
+  medalCitation: null
+  problemsSolved: 4
+  rank: 94
+  siteCitation: ''
+  teamId: 396910
+  teamName: Whitworth Pirates
+  totalTime: 351
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Oregon State University
+  lastProblemTime: 148
+  medalCitation: null
+  problemsSolved: 4
+  rank: 95
+  siteCitation: ''
+  teamId: 399838
+  teamName: Kleene Stars
+  totalTime: 378
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Pacific Lutheran University
+  lastProblemTime: 136
+  medalCitation: null
+  problemsSolved: 4
+  rank: 96
+  siteCitation: ''
+  teamId: 399434
+  teamName: D2 PLU
+  totalTime: 430
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Hawaii - Hilo
+  lastProblemTime: 224
+  medalCitation: null
+  problemsSolved: 4
+  rank: 97
+  siteCitation: ''
+  teamId: 398382
+  teamName: Vulcan 1
+  totalTime: 441
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Portland
+  lastProblemTime: 182
+  medalCitation: null
+  problemsSolved: 4
+  rank: 98
+  siteCitation: ''
+  teamId: 399715
+  teamName: D1JaStCh
+  totalTime: 449
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: California State University, Monterey Bay
+  lastProblemTime: 176
+  medalCitation: null
+  problemsSolved: 4
+  rank: 99
+  siteCitation: ''
+  teamId: 381700
+  teamName: D2 Harry Otter and the Chamber of Seacrets
+  totalTime: 456
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Eastern Washington University
+  lastProblemTime: 161
+  medalCitation: null
+  problemsSolved: 4
+  rank: 100
+  siteCitation: ''
+  teamId: 399970
+  teamName: Eagle Black
+  totalTime: 462
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of the Pacific
+  lastProblemTime: 160
+  medalCitation: null
+  problemsSolved: 4
+  rank: 101
+  siteCitation: ''
+  teamId: 397531
+  teamName: Unexpected {
+  totalTime: 497
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Lewis & Clark College
+  lastProblemTime: 190
+  medalCitation: null
+  problemsSolved: 4
+  rank: 102
+  siteCitation: ''
+  teamId: 399533
+  teamName: Erran & The Kinderguardians
+  totalTime: 500
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Linfield College
+  lastProblemTime: 187
+  medalCitation: null
+  problemsSolved: 4
+  rank: 103
+  siteCitation: ''
+  teamId: 382846
+  teamName: D2Linfield 1
+  totalTime: 534
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Whitworth University
+  lastProblemTime: 257
+  medalCitation: null
+  problemsSolved: 4
+  rank: 104
+  siteCitation: ''
+  teamId: 396912
+  teamName: Whitworth's Best Chance
+  totalTime: 600
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Oregon
+  lastProblemTime: 247
+  medalCitation: null
+  problemsSolved: 4
+  rank: 105
+  siteCitation: ''
+  teamId: 399537
+  teamName: UO-off-by-three
+  totalTime: 622
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Thompson Rivers University
+  lastProblemTime: 278
+  medalCitation: null
+  problemsSolved: 4
+  rank: 106
+  siteCitation: ''
+  teamId: 398147
+  teamName: A Walk In The Park
+  totalTime: 674
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: California State University, Monterey Bay
+  lastProblemTime: 213
+  medalCitation: null
+  problemsSolved: 4
+  rank: 107
+  siteCitation: ''
+  teamId: 381701
+  teamName: D2 Harry Otter and the Sea Lion's Stone
+  totalTime: 709
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Lewis & Clark College
+  lastProblemTime: 230
+  medalCitation: null
+  problemsSolved: 4
+  rank: 108
+  siteCitation: ''
+  teamId: 399534
+  teamName: The Nito Ferman Experience
+  totalTime: 759
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Eastern Washington University
+  lastProblemTime: 219
+  medalCitation: null
+  problemsSolved: 4
+  rank: 109
+  siteCitation: ''
+  teamId: 399976
+  teamName: D2 Struct By Lightning
+  totalTime: 776
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Cogswell College
+  lastProblemTime: 289
+  medalCitation: null
+  problemsSolved: 4
+  rank: 110
+  siteCitation: ''
+  teamId: 391642
+  teamName: D2 Mom's Spaghetti Code
+  totalTime: 833
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Hawaii Pacific University
+  lastProblemTime: 260
+  medalCitation: null
+  problemsSolved: 4
+  rank: 111
+  siteCitation: ''
+  teamId: 399560
+  teamName: 'D2 #0000FF'
+  totalTime: 875
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Idaho
+  lastProblemTime: 257
+  medalCitation: null
+  problemsSolved: 4
+  rank: 112
+  siteCitation: ''
+  teamId: 399709
+  teamName: UI Coders
+  totalTime: 1003
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Thompson Rivers University
+  lastProblemTime: 86
+  medalCitation: null
+  problemsSolved: 3
+  rank: 113
+  siteCitation: ''
+  teamId: 398150
+  teamName: Weird Flex But Ok
+  totalTime: 190
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: California State University - Sacramento
+  lastProblemTime: 78
+  medalCitation: null
+  problemsSolved: 3
+  rank: 114
+  siteCitation: ''
+  teamId: 398320
+  teamName: D2 - CSUS Hornet 3
+  totalTime: 286
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Puget Sound
+  lastProblemTime: 147
+  medalCitation: null
+  problemsSolved: 3
+  rank: 115
+  siteCitation: ''
+  teamId: 398131
+  teamName: LizardWizard
+  totalTime: 307
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Hawaii - Hilo
+  lastProblemTime: 137
+  medalCitation: null
+  problemsSolved: 3
+  rank: 116
+  siteCitation: ''
+  teamId: 398383
+  teamName: D2 - Vulcan 2
+  totalTime: 328
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Cogswell College
+  lastProblemTime: 147
+  medalCitation: null
+  problemsSolved: 3
+  rank: 117
+  siteCitation: ''
+  teamId: 391639
+  teamName: D2 Hashlings
+  totalTime: 367
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Linfield College
+  lastProblemTime: 134
+  medalCitation: null
+  problemsSolved: 3
+  rank: 118
+  siteCitation: ''
+  teamId: 382849
+  teamName: D2Linfield 4
+  totalTime: 395
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Hawaii Pacific University
+  lastProblemTime: 205
+  medalCitation: null
+  problemsSolved: 3
+  rank: 119
+  siteCitation: ''
+  teamId: 399562
+  teamName: 'D2 #FFFFFF'
+  totalTime: 395
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Linfield College
+  lastProblemTime: 216
+  medalCitation: null
+  problemsSolved: 3
+  rank: 120
+  siteCitation: ''
+  teamId: 382848
+  teamName: D2Linfield 3
+  totalTime: 536
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Cogswell College
+  lastProblemTime: 240
+  medalCitation: null
+  problemsSolved: 3
+  rank: 121
+  siteCitation: ''
+  teamId: 391641
+  teamName: D2 Hashing Slashers
+  totalTime: 554
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Hawaii - Manoa
+  lastProblemTime: 82
+  medalCitation: null
+  problemsSolved: 2
+  rank: 122
+  siteCitation: ''
+  teamId: 398396
+  teamName: UHM2
+  totalTime: 126
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of the Pacific
+  lastProblemTime: 124
+  medalCitation: null
+  problemsSolved: 2
+  rank: 123
+  siteCitation: ''
+  teamId: 397535
+  teamName: D2tan(gerine)
+  totalTime: 168
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Washington Tacoma
+  lastProblemTime: 211
+  medalCitation: null
+  problemsSolved: 2
+  rank: 124
+  siteCitation: ''
+  teamId: 398093
+  teamName: UWT Gold
+  totalTime: 295
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Eastern Washington University
+  lastProblemTime: 171
+  medalCitation: null
+  problemsSolved: 2
+  rank: 125
+  siteCitation: ''
+  teamId: 399975
+  teamName: D2 Resume Builders
+  totalTime: 320
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Brigham Young University - Hawaii
+  lastProblemTime: 273
+  medalCitation: null
+  problemsSolved: 2
+  rank: 126
+  siteCitation: ''
+  teamId: 389245
+  teamName: D2 Unicorns MMXVIII
+  totalTime: 425
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of the Pacific
+  lastProblemTime: 275
+  medalCitation: null
+  problemsSolved: 2
+  rank: 127
+  siteCitation: ''
+  teamId: 397534
+  teamName: Trie-Hards
+  totalTime: 452
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: California State University - Chico
+  lastProblemTime: 299
+  medalCitation: null
+  problemsSolved: 2
+  rank: 128
+  siteCitation: ''
+  teamId: 396873
+  teamName: wildcat2
+  totalTime: 461
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Hawaii Pacific University
+  lastProblemTime: 224
+  medalCitation: null
+  problemsSolved: 2
+  rank: 129
+  siteCitation: ''
+  teamId: 399561
+  teamName: 'D2 #FF0000'
+  totalTime: 492
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Everett Community College
+  lastProblemTime: 58
+  medalCitation: null
+  problemsSolved: 1
+  rank: 130
+  siteCitation: ''
+  teamId: 398456
+  teamName: D2 Vindicators 3
+  totalTime: 78
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: Brigham Young University - Hawaii
+  lastProblemTime: 175
+  medalCitation: null
+  problemsSolved: 1
+  rank: 131
+  siteCitation: ''
+  teamId: 382879
+  teamName: D2 Don't Expect Much
+  totalTime: 215
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of the Pacific
+  lastProblemTime: 254
+  medalCitation: null
+  problemsSolved: 1
+  rank: 132
+  siteCitation: ''
+  teamId: 397536
+  teamName: CoreDumped
+  totalTime: 314
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of Idaho
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 133
+  siteCitation: ''
+  teamId: 400869
+  teamName: D2 UI Programmers
+  totalTime: 0
+- citation: Honorable Mention
+  honorableMentionCitation: null
+  institution: University of the Pacific
+  lastProblemTime: 0
+  medalCitation: null
+  problemsSolved: 0
+  rank: 133
+  siteCitation: ''
+  teamId: 397532
+  teamName: D2Error404
+  totalTime: 0

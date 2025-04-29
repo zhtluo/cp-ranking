@@ -24,7 +24,6 @@ contests:
     - Mid-Atlantic-USA
     - Mid-Central-USA
     - North-Central-North-America
-    - PacNW
     - Rocky-Mountain
     - Southern-California
     - Southeast-USA
@@ -36,9 +35,14 @@ contests:
     - TjRC
   split-keys:
     # NA Regionals
+    PacNW:
+      # PacNW from -2022 to present
+      # Pacific-Northwest from -2021 to -1999
+      - PacNW
+      - Pacific-Northwest
     South-Central:
-      # SCUSA from -1999 to -2018
-      # South-Central-USA from -2018 to present
+      # South-Central-USA from -1999 to -2018
+      # SCUSA from -2019 to present
       - SCUSA
       - South-Central-USA
 

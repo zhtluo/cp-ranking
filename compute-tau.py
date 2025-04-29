@@ -32,9 +32,7 @@ def load_ranking(file_path):
 
     # Create a dictionary to store the best-ranked team for each institution
     institution_rankings = {}
-    for index, entry in enumerate(
-        sorted_rankings, start=1
-    ):  # Assign ranks based on sorted order
+    for index, entry in enumerate(sorted_rankings, start=1):  # Assign ranks based on sorted order
         institution = entry["institution"]
 
         if (
@@ -97,14 +95,14 @@ def compare_contests(year, contest1, contest2, rankings_dir):
         ranks2.append(rankings2[institution]["rank"])
 
     # Calculate Kendall's Tau
-    tau, _ = kendalltau(ranks1, ranks2)
+    tau, _ = kendalltau(ranks1, ranks2) #Returns tau, pvalue
     return tau, num_schools
 
 
 # Compare a specific contest against CF ratings.
 def compare_contests_with_cf(contest, cf_ratings_dir, rankings_dir, years):
     total_tau = 0
-    total_schools = 0
+    total_pairs = 0
     yearly_results = {}
 
     for year in years:
@@ -133,16 +131,17 @@ def compare_contests_with_cf(contest, cf_ratings_dir, rankings_dir, years):
             ranks2.append(cf_rankings[university]["rank"])
 
         # Calculate Kendall's Tau
-        tau, _ = kendalltau(ranks1, ranks2)
+        tau, _ = kendalltau(ranks1, ranks2) #Returns tau, pvalue
         if tau is not None and not math.isnan(tau):
             yearly_results[year] = {"tau": tau, "num_schools": num_schools}
-            total_tau += tau * num_schools * (num_schools - 1)
-            total_schools += num_schools * (num_schools - 1)
+            pairs = num_schools * (num_schools - 1) // 2
+            total_tau += tau * pairs
+            total_pairs += pairs
 
-    if total_schools == 0:
+    if total_pairs == 0:
         weighted_average_tau = None
     else:
-        weighted_average_tau = total_tau / total_schools
+        weighted_average_tau = total_tau / total_pairs
 
     return yearly_results, weighted_average_tau
 
@@ -178,22 +177,25 @@ def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
 
     # Process other contest pairs
     for contest1, contest2 in pairs:
-        print(f"Processing comparison: {contest1} vs {contest2}")
+        print(f"Processing comparison: {contest1} vs {contest2} (for years =", end='')
         total_tau = 0
-        total_schools = 0
+        total_pairs = 0
         yearly_results = {}
 
         for year in years:
             tau, num_schools = compare_contests(year, contest1, contest2, rankings_dir)
             if tau is not None and not math.isnan(tau):
+                print(" " + str(year) + ",", end='')
                 yearly_results[year] = {"tau": tau, "num_schools": num_schools}
-                total_tau += tau * num_schools * (num_schools - 1)
-                total_schools += num_schools * (num_schools - 1)
+                pairs = num_schools * (num_schools - 1) // 2
+                total_tau += tau * pairs
+                total_pairs += pairs
+        print("\b)")#clean up skipped newline
 
-        if total_schools == 0:
+        if total_pairs == 0:
             weighted_average_tau = None
         else:
-            weighted_average_tau = total_tau / total_schools
+            weighted_average_tau = total_tau / total_pairs
 
         results[(contest1, contest2)] = {
             "yearly_results": yearly_results,
@@ -227,18 +229,19 @@ if __name__ == "__main__":
             print("  No valid data found.")
             continue
 
-        denominator = 0
+        denom_pairs = 0
         for year, result in data["yearly_results"].items():
+            n = result["num_schools"]
+            denom_pairs += n*(n-1)//2
             print(f"  Year {year}: Tau = {result['tau']:.3f}, "\
-                  f"Shared Schools = {result['num_schools']}")
-            denominator += result["num_schools"] * (result["num_schools"] - 1)
+                  f"Shared Schools = {n}")
 
         avg_tau = data["weighted_average_tau"]
         if avg_tau is None:
             print("  Weighted Average Tau: None (no valid years)")
         else:
             print(f"  Weighted Average Tau: {avg_tau:.3f}")
-            print(f"  Denominator: {denominator}")
+            print(f"  Pairs (denominator): {denom_pairs}")
 
         # for creating latex-ready tables:
         # decide which table this row belongs to
@@ -248,7 +251,7 @@ if __name__ == "__main__":
             row_label, _ = key.split("_vs_")
             table_name   = "codeforces"
 
-        tables[table_name].append((row_label, denominator, avg_tau))
+        tables[table_name].append((row_label, denom_pairs, avg_tau))
 
     # emit the LaTeX rows
     for table_name, rows in tables.items():
@@ -256,14 +259,25 @@ if __name__ == "__main__":
         weighted_sum = 0
         weighted_den = 0
 
-        for label, denom, tau in rows:
+        for label, pairs, tau in rows:
             tau_str = "-" if tau is None else f"{tau:.3f}"
-            print(f"        {label} & {denom if denom else '-'} & {tau_str} \\\\")
+            print(f"        {label} & {pairs if pairs else '-'} & {tau_str} \\\\")
             if tau is not None:
-                weighted_sum += tau * denom
-                weighted_den += denom
+                weighted_sum += tau * pairs
+                weighted_den += pairs
 
         if weighted_den:                          # weighted average for the table
             wt_avg = weighted_sum / weighted_den
             print(f"        \\textbf{{Weighted Average}} & - & "
                   f"\\textbf{{{wt_avg:.3f}}} \\\\")
+# ChatGPT on p-value reporting:
+# Whether you display the p-value alongside Kendall’s τ depends on what you want the number to do for you:
+#
+# Goal	Typical practice
+# Hypothesis testing (“Are the two rankings significantly associated?”)	Report τ, n, p-value (or at least mark significance with * or †).
+# Descriptive agreement (“How strongly do they align, ignoring sampling error?”)	Report τ and n (or pairs); omit p-value.
+# So if your table is meant as a descriptive comparison—​common in
+#  information-retrieval, ranking-aggregation, or contest-analysis papers—​leaving
+#  out the p-value is perfectly normal. If you want to make inferential claims
+#  (“the correlation is significant at α = 0.05”), then you should show it (or
+#  note the α-level).
