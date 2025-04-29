@@ -27,7 +27,7 @@ Processing comparison: North-America-Championship vs East-Central-NA (for years 
 Processing comparison: North-America-Championship vs Mid-Atlantic-USA (for years = 2023, 2022, 2021, 2020)
 Processing comparison: North-America-Championship vs Mid-Central-USA (for years = 2024, 2023, 2022, 2021, 2020)
 Processing comparison: North-America-Championship vs North-Central-North-America (for years = 2024, 2023, 2022, 2021, 2020)
-Processing comparison: North-America-Championship vs PacNW (for years = 2024, 2023, 2022)
+Processing comparison: North-America-Championship vs PacNW (for years = 2024, 2023, 2022, 2021, 2020)
 Processing comparison: North-America-Championship vs Rocky-Mountain (for years = 2024, 2023, 2022, 2021, 2020)
 Processing comparison: North-America-Championship vs South-Central (for years = 2024, 2023, 2022, 2021, 2020)
 Processing comparison: North-America-Championship vs Southern-California (for years = 2024, 2023, 2022, 2021, 2020)
@@ -296,8 +296,10 @@ Comparison: ('North-America-Championship', 'PacNW')
   Year 2024: Tau = 1.000, Shared Schools = 5
   Year 2023: Tau = 0.200, Shared Schools = 5
   Year 2022: Tau = 0.000, Shared Schools = 5
-  Weighted Average Tau: 0.400
-  Pairs (denominator): 30
+  Year 2021: Tau = 0.600, Shared Schools = 6
+  Year 2020: Tau = 0.600, Shared Schools = 5
+  Weighted Average Tau: 0.491
+  Pairs (denominator): 55
 
 Comparison: ('North-America-Championship', 'Rocky-Mountain')
   Year 2024: Tau = 0.333, Shared Schools = 3
@@ -591,14 +593,14 @@ Comparison: ('Northern-Eurasia', 'West-Siberian')
         Mid-Atlantic-USA & 56 & 0.786 \\
         Mid-Central-USA & 42 & 0.667 \\
         North-Central-North-America & 52 & 0.692 \\
-        PacNW & 30 & 0.400 \\
+        PacNW & 55 & 0.491 \\
         Rocky-Mountain & 22 & 0.636 \\
         South-Central & 30 & 0.467 \\
         Southern-California & 32 & 0.438 \\
         Southeast-USA & 35 & 0.771 \\
         greater-new-york & 46 & 0.174 \\
         northeast-north-america & 41 & 0.659 \\
-        \textbf{Weighted Average} & - & \textbf{0.576} \\
+        \textbf{Weighted Average} & - & \textbf{0.577} \\
 
 % ---- Northern-Eurasia ----
         Armenia & 57 & 0.754 \\
