@@ -99,9 +99,11 @@ contests:
       - Kyrgyzstan-Regional
       - Kyrgyzstan-Subregional
     MoscowMRC:
-      # regional -2020 to present
+      # MRC -2022 to present
+      # regional -2021 to -2020
       # Moscow-Subregional from -2019 to -2009
       - MRC
+      - Moscow-Regional
       - Moscow-Subregional
     Northwestern-Russia:
       # regional -2020 to present
@@ -119,11 +121,13 @@ contests:
       - Taurida-Regional
       - Taurida
     UralEastern:
-      # regional -2020 to present
-      # subregional from -2019 to -2018
+      # Ural-Regional -2020 to present
+      # Urals-Regional -2019
+      # Urals-Subregional -2018
       # Eastern-Subregional from -2017 to -2016
       # Easter-Subregional from -2015 to -2009
       - Ural-Regional
+      - Urals-Regional
       - Urals-Subregional
       - Eastern-Subregional
       - Easter-Subregional
