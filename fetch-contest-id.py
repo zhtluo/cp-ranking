@@ -29,6 +29,10 @@ def generate_urls(contests_yaml, key_map):
     urls = {}
     for api_key, _canonical in key_map.items():
         for year in years:
+            #Asia West superregionals started in -2020 and used the
+            #  same tag as a subregional prior to 2020.
+            if api_key == "ICPCKolkataKanpur" and year < 2020:
+                continue
             contest_name        = f"{api_key}-{year}"
             urls[contest_name]  = f"{base_url}/{contest_name}"
     return urls
