@@ -2,7 +2,7 @@ import yaml
 from scipy.stats import kendalltau
 import os
 import math
-
+from collections import defaultdict
 
 # Load the YAML configuration file.
 def load_yaml(file_path):
@@ -167,7 +167,7 @@ def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
 
     # Process comparisons between contests and CF ratings
     for contest in cf_contests:
-        print(f"\nProcessing comparison: {contest} vs CF Ratings")
+        print(f"Processing comparison: {contest} vs CF Ratings")
         yearly_results, weighted_average_tau = compare_contests_with_cf(
             contest, cf_ratings_dir, rankings_dir, years
         )
@@ -178,7 +178,7 @@ def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
 
     # Process other contest pairs
     for contest1, contest2 in pairs:
-        print(f"\nProcessing comparison: {contest1} vs {contest2}")
+        print(f"Processing comparison: {contest1} vs {contest2}")
         total_tau = 0
         total_schools = 0
         yearly_results = {}
@@ -219,6 +219,7 @@ if __name__ == "__main__":
     pairwise_results = process_pairs_with_cf(config, rankings_dir, cf_ratings_dir)
 
     # Print results
+    tables = defaultdict(list)      # table_name -> [(row, denom, tau)]
     print("\nComparison Results:")
     for key, data in pairwise_results.items():
         print(f"\nComparison: {key}")
@@ -228,9 +229,8 @@ if __name__ == "__main__":
 
         denominator = 0
         for year, result in data["yearly_results"].items():
-            print(
-                f"  Year {year}: Tau = {result['tau']:.3f}, Shared Schools = {result['num_schools']}"
-            )
+            print(f"  Year {year}: Tau = {result['tau']:.3f}, "\
+                  f"Shared Schools = {result['num_schools']}")
             denominator += result["num_schools"] * (result["num_schools"] - 1)
 
         avg_tau = data["weighted_average_tau"]
@@ -239,3 +239,31 @@ if __name__ == "__main__":
         else:
             print(f"  Weighted Average Tau: {avg_tau:.3f}")
             print(f"  Denominator: {denominator}")
+
+        # for creating latex-ready tables:
+        # decide which table this row belongs to
+        if isinstance(key, tuple):
+            table_name, row_label = key          # (contest1, contest2)
+        else:                                    # e.g. "World-Finals_vs_CF-Ratings"
+            row_label, _ = key.split("_vs_")
+            table_name   = "codeforces"
+
+        tables[table_name].append((row_label, denominator, avg_tau))
+
+    # emit the LaTeX rows
+    for table_name, rows in tables.items():
+        print(f"\n% ---- {table_name} ----")
+        weighted_sum = 0
+        weighted_den = 0
+
+        for label, denom, tau in rows:
+            tau_str = "-" if tau is None else f"{tau:.3f}"
+            print(f"        {label} & {denom if denom else '-'} & {tau_str} \\\\")
+            if tau is not None:
+                weighted_sum += tau * denom
+                weighted_den += denom
+
+        if weighted_den:                          # weighted average for the table
+            wt_avg = weighted_sum / weighted_den
+            print(f"        \\textbf{{Weighted Average}} & - & "
+                  f"\\textbf{{{wt_avg:.3f}}} \\\\")
