@@ -73,7 +73,7 @@ def compare_contests(year, contest1, contest2, rankings_dir):
     file1 = os.path.join(rankings_dir, f"{contest1}_{year}_ranking.yaml")
     file2 = os.path.join(rankings_dir, f"{contest2}_{year}_ranking.yaml")
     if not os.path.exists(file1) or not os.path.exists(file2):
-        return None, 0
+        return None, -1
 
     rankings1 = load_ranking(file1)
     rankings2 = load_ranking(file2)
@@ -176,11 +176,15 @@ def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
         }
 
     # Process other contest pairs
+    print("  * indicates skipped due to only 1 team to compare to")
+    print("  ! indicates skipped due to 0 teams advancing to finals")
+    print("  otherwise skipped due to lack of data file")
     for contest1, contest2 in pairs:
         print(f"Processing comparison: {contest1} vs {contest2} (for years =", end='')
         total_tau = 0
         total_pairs = 0
         yearly_results = {}
+        skipped = []
 
         for year in years:
             tau, num_schools = compare_contests(year, contest1, contest2, rankings_dir)
@@ -190,7 +194,15 @@ def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
                 pairs = num_schools * (num_schools - 1) // 2
                 total_tau += tau * pairs
                 total_pairs += pairs
-        print("\b)")#clean up skipped newline
+            else:
+                reason = str(year)
+                if num_schools == 1:
+                    reason += "*"
+                elif num_schools == 0:
+                    reason += "!"
+                skipped.append(reason)
+        #clean up skipped newline
+        print("\b) " + (" -------- Skipped: " + ", ".join(skipped) if skipped else ""))
 
         if total_pairs == 0:
             weighted_average_tau = None

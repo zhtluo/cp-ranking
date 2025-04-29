@@ -11,45 +11,48 @@ Processing comparison: SWERC vs CF Ratings
 Processing comparison: Northwestern-Europe vs CF Ratings
 Processing comparison: Northern-Eurasia vs CF Ratings
 Processing comparison: Asia-EC-League-Final vs CF Ratings
-Processing comparison: World-Finals vs North-America-Championship (for years = 2024, 2023, 2022, 2021, 2020)
-Processing comparison: World-Finals vs APSEPC (for years = 2024)
-Processing comparison: World-Finals vs Latin-America-Champ (for years = 2024)
-Processing comparison: World-Finals vs ICPCKolkataKanpur (for years = 2024, 2023, 2020, 2019, 2018)
-Processing comparison: World-Finals vs ACPC (for years = 2024, 2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015)
-Processing comparison: World-Finals vs EUC (for years = 2024)
-Processing comparison: World-Finals vs SEERC (for years = 2024, 2023, 2022, 2020, 2019, 2018, 2017)
+  * indicates skipped due to only 1 team to compare to
+  ! indicates skipped due to 0 teams advancing to finals
+  otherwise skipped due to lack of data file
+Processing comparison: World-Finals vs North-America-Championship (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
+Processing comparison: World-Finals vs APSEPC (for years = 2024)  -------- Skipped: 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
+Processing comparison: World-Finals vs Latin-America-Champ (for years = 2024)  -------- Skipped: 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
+Processing comparison: World-Finals vs ICPCKolkataKanpur (for years = 2024, 2023, 2020, 2019, 2018)  -------- Skipped: 2022!, 2021!, 2017, 2016, 2015
+Processing comparison: World-Finals vs ACPC (for years = 2024, 2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015)  -------- Skipped: 2020*
+Processing comparison: World-Finals vs EUC (for years = 2024)  -------- Skipped: 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
+Processing comparison: World-Finals vs SEERC (for years = 2024, 2023, 2022, 2020, 2019, 2018, 2017)  -------- Skipped: 2021!, 2016, 2015
 Processing comparison: World-Finals vs Central-Europe (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
 Processing comparison: World-Finals vs SWERC (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
 Processing comparison: World-Finals vs Northwestern-Europe (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
 Processing comparison: World-Finals vs Northern-Eurasia (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
-Processing comparison: World-Finals vs Asia-EC-League-Final (for years = 2022, 2021, 2019, 2018)
-Processing comparison: North-America-Championship vs East-Central-NA (for years = 2024, 2023, 2022, 2021, 2020)
-Processing comparison: North-America-Championship vs Mid-Atlantic-USA (for years = 2023, 2022, 2021, 2020)
-Processing comparison: North-America-Championship vs Mid-Central-USA (for years = 2024, 2023, 2022, 2021, 2020)
-Processing comparison: North-America-Championship vs North-Central-North-America (for years = 2024, 2023, 2022, 2021, 2020)
-Processing comparison: North-America-Championship vs PacNW (for years = 2024, 2023, 2022, 2021, 2020)
-Processing comparison: North-America-Championship vs Rocky-Mountain (for years = 2024, 2023, 2022, 2021, 2020)
-Processing comparison: North-America-Championship vs South-Central (for years = 2024, 2023, 2022, 2021, 2020)
-Processing comparison: North-America-Championship vs Southern-California (for years = 2024, 2023, 2022, 2021, 2020)
-Processing comparison: North-America-Championship vs Southeast-USA (for years = 2024, 2023, 2022, 2021, 2020)
-Processing comparison: North-America-Championship vs greater-new-york (for years = 2024, 2023, 2022, 2021, 2020)
-Processing comparison: North-America-Championship vs northeast-north-america (for years = 2023, 2022, 2021, 2020)
+Processing comparison: World-Finals vs Asia-EC-League-Final (for years = 2022, 2021, 2019, 2018)  -------- Skipped: 2024, 2023, 2020!, 2017, 2016, 2015
+Processing comparison: North-America-Championship vs East-Central-NA (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
+Processing comparison: North-America-Championship vs Mid-Atlantic-USA (for years = 2023, 2022, 2021, 2020)  -------- Skipped: 2024!, 2019, 2018, 2017, 2016, 2015
+Processing comparison: North-America-Championship vs Mid-Central-USA (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
+Processing comparison: North-America-Championship vs North-Central-North-America (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
+Processing comparison: North-America-Championship vs PacNW (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
+Processing comparison: North-America-Championship vs Rocky-Mountain (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
+Processing comparison: North-America-Championship vs South-Central (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
+Processing comparison: North-America-Championship vs Southern-California (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
+Processing comparison: North-America-Championship vs Southeast-USA (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
+Processing comparison: North-America-Championship vs greater-new-york (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
+Processing comparison: North-America-Championship vs northeast-north-america (for years = 2023, 2022, 2021, 2020)  -------- Skipped: 2024!, 2019, 2018, 2017, 2016, 2015
 Processing comparison: Northern-Eurasia vs Armenia (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
-Processing comparison: Northern-Eurasia vs Azerbaijan (for years = 2024, 2023, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
+Processing comparison: Northern-Eurasia vs Azerbaijan (for years = 2024, 2023, 2021, 2020, 2019, 2018, 2017, 2016, 2015)  -------- Skipped: 2022!
 Processing comparison: Northern-Eurasia vs Belarus (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
-Processing comparison: Northern-Eurasia vs Central (for years = 2024, 2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015)
-Processing comparison: Northern-Eurasia vs East-Siberian (for years = 2024, 2023, 2022, 2020, 2018, 2017, 2016, 2015)
-Processing comparison: Northern-Eurasia vs Far-Eastern (for years = 2024, 2023, 2022, 2020, 2018, 2017, 2016, 2015)
-Processing comparison: Northern-Eurasia vs Georgia (for years = 2024, 2023, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
-Processing comparison: Northern-Eurasia vs Kazakhstan (for years = 2024, 2023, 2022, 2020, 2018, 2017, 2016, 2015)
-Processing comparison: Northern-Eurasia vs Kyrgyzstan (for years = 2024, 2023, 2022, 2020, 2018, 2017, 2016, 2015)
-Processing comparison: Northern-Eurasia vs MoscowMRC (for years = 2024, 2023, 2022, 2019, 2018, 2017, 2016, 2015)
+Processing comparison: Northern-Eurasia vs Central (for years = 2024, 2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015)  -------- Skipped: 2021!
+Processing comparison: Northern-Eurasia vs East-Siberian (for years = 2024, 2023, 2022, 2020, 2018, 2017, 2016, 2015)  -------- Skipped: 2021!, 2019!
+Processing comparison: Northern-Eurasia vs Far-Eastern (for years = 2024, 2023, 2022, 2020, 2018, 2017, 2016, 2015)  -------- Skipped: 2021!, 2019!
+Processing comparison: Northern-Eurasia vs Georgia (for years = 2024, 2023, 2021, 2020, 2019, 2018, 2017, 2016, 2015)  -------- Skipped: 2022!
+Processing comparison: Northern-Eurasia vs Kazakhstan (for years = 2024, 2023, 2022, 2020, 2018, 2017, 2016, 2015)  -------- Skipped: 2021!, 2019!
+Processing comparison: Northern-Eurasia vs Kyrgyzstan (for years = 2024, 2023, 2022, 2020, 2018, 2017, 2016, 2015)  -------- Skipped: 2021!, 2019!
+Processing comparison: Northern-Eurasia vs MoscowMRC (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
 Processing comparison: Northern-Eurasia vs Northwestern-Russia (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
-Processing comparison: Northern-Eurasia vs Southern-and-Volga (for years = 2024, 2023, 2022, 2020, 2018, 2017, 2016, 2015)
-Processing comparison: Northern-Eurasia vs Taurida (for years = 2020, 2016, 2015)
-Processing comparison: Northern-Eurasia vs TjRC (for years )
-Processing comparison: Northern-Eurasia vs UralEastern (for years = 2024, 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015)
-Processing comparison: Northern-Eurasia vs Uzbekistan (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2016, 2015)
+Processing comparison: Northern-Eurasia vs Southern-and-Volga (for years = 2024, 2023, 2022, 2020, 2018, 2017, 2016, 2015)  -------- Skipped: 2021!, 2019!
+Processing comparison: Northern-Eurasia vs Taurida (for years = 2020, 2016, 2015)  -------- Skipped: 2024*, 2023*, 2022*, 2021*, 2019!, 2018*, 2017*
+Processing comparison: Northern-Eurasia vs TjRC (for years )  -------- Skipped: 2024*, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
+Processing comparison: Northern-Eurasia vs UralEastern (for years = 2024, 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015)  -------- Skipped: 2019
+Processing comparison: Northern-Eurasia vs Uzbekistan (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2016, 2015)  -------- Skipped: 2017*
 Processing comparison: Northern-Eurasia vs West-Siberian (for years = 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015)
 
 Comparison Results:
@@ -473,13 +476,15 @@ Comparison: ('Northern-Eurasia', 'MoscowMRC')
   Year 2024: Tau = 0.515, Shared Schools = 12
   Year 2023: Tau = 0.667, Shared Schools = 13
   Year 2022: Tau = 0.733, Shared Schools = 10
+  Year 2021: Tau = 0.222, Shared Schools = 9
+  Year 2020: Tau = 0.500, Shared Schools = 9
   Year 2019: Tau = 0.643, Shared Schools = 8
   Year 2018: Tau = 0.857, Shared Schools = 8
   Year 2017: Tau = 0.889, Shared Schools = 9
   Year 2016: Tau = 0.889, Shared Schools = 9
   Year 2015: Tau = 0.857, Shared Schools = 8
-  Weighted Average Tau: 0.722
-  Pairs (denominator): 345
+  Weighted Average Tau: 0.659
+  Pairs (denominator): 417
 
 Comparison: ('Northern-Eurasia', 'Northwestern-Russia')
   Year 2024: Tau = 0.867, Shared Schools = 10
@@ -612,11 +617,11 @@ Comparison: ('Northern-Eurasia', 'West-Siberian')
         Georgia & 215 & 0.647 \\
         Kazakhstan & 296 & 0.757 \\
         Kyrgyzstan & 95 & 0.663 \\
-        MoscowMRC & 345 & 0.722 \\
+        MoscowMRC & 417 & 0.659 \\
         Northwestern-Russia & 259 & 0.807 \\
         Southern-and-Volga & 547 & 0.631 \\
         Taurida & 3 & -0.333 \\
         UralEastern & 539 & 0.640 \\
         Uzbekistan & 304 & 0.638 \\
         West-Siberian & 349 & 0.679 \\
-        \textbf{Weighted Average} & - & \textbf{0.668} \\
+        \textbf{Weighted Average} & - & \textbf{0.663} \\
