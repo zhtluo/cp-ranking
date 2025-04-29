@@ -17,7 +17,7 @@ Processing comparison: Asia-EC-League-Final vs CF Ratings
 Processing comparison: World-Finals vs North-America-Championship (for years = 2024, 2023, 2022, 2021, 2020)  -------- Skipped: 2019, 2018, 2017, 2016, 2015
 Processing comparison: World-Finals vs APSEPC (for years = 2024)  -------- Skipped: 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
 Processing comparison: World-Finals vs Latin-America-Champ (for years = 2024)  -------- Skipped: 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
-Processing comparison: World-Finals vs ICPCKolkataKanpur (for years = 2024, 2023, 2020, 2019, 2018)  -------- Skipped: 2022!, 2021!, 2017, 2016, 2015
+Processing comparison: World-Finals vs ICPCKolkataKanpur (for years = 2024, 2023, 2020)  -------- Skipped: 2022!, 2021!, 2019, 2018, 2017, 2016, 2015
 Processing comparison: World-Finals vs ACPC (for years = 2024, 2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015)  -------- Skipped: 2020*
 Processing comparison: World-Finals vs EUC (for years = 2024)  -------- Skipped: 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
 Processing comparison: World-Finals vs SEERC (for years = 2024, 2023, 2022, 2020, 2019, 2018, 2017)  -------- Skipped: 2021!, 2016, 2015
@@ -162,10 +162,8 @@ Comparison: ('World-Finals', 'ICPCKolkataKanpur')
   Year 2024: Tau = 0.341, Shared Schools = 14
   Year 2023: Tau = 0.133, Shared Schools = 16
   Year 2020: Tau = -0.071, Shared Schools = 8
-  Year 2019: Tau = -0.333, Shared Schools = 7
-  Year 2018: Tau = 0.000, Shared Schools = 8
-  Weighted Average Tau: 0.132
-  Pairs (denominator): 288
+  Weighted Average Tau: 0.188
+  Pairs (denominator): 239
 
 Comparison: ('World-Finals', 'ACPC')
   Year 2024: Tau = 0.516, Shared Schools = 14
@@ -583,7 +581,7 @@ Comparison: ('Northern-Eurasia', 'West-Siberian')
         North-America-Championship & 587 & 0.281 \\
         APSEPC & 105 & 0.695 \\
         Latin-America-Champ & 153 & 0.516 \\
-        ICPCKolkataKanpur & 288 & 0.132 \\
+        ICPCKolkataKanpur & 239 & 0.188 \\
         ACPC & 563 & 0.410 \\
         EUC & 153 & 0.346 \\
         SEERC & 55 & 0.345 \\
@@ -592,7 +590,7 @@ Comparison: ('Northern-Eurasia', 'West-Siberian')
         Northwestern-Europe & 71 & 0.408 \\
         Northern-Eurasia & 1131 & 0.521 \\
         Asia-EC-League-Final & 453 & 0.395 \\
-        \textbf{Weighted Average} & - & \textbf{0.405} \\
+        \textbf{Weighted Average} & - & \textbf{0.413} \\
 
 % ---- North-America-Championship ----
         East-Central-NA & 90 & 0.556 \\
