@@ -293,3 +293,11 @@ if __name__ == "__main__":
 #  out the p-value is perfectly normal. If you want to make inferential claims
 #  (“the correlation is significant at α = 0.05”), then you should show it (or
 #  note the α-level).
+
+#Recommendations:
+# For a concise agreement table (like the example you showed), τ and the pair
+#  count are enough—​especially if readers can see that n ≥ 30, making small
+#  τ values already informative.
+# If reviewers or co-authors insist on statistical significance, add a
+#  superscript “*” when p < 0.05 and explain the threshold in a caption;
+#  that keeps the table readable without another numeric column.
