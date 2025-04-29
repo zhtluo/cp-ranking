@@ -293,7 +293,7 @@ if __name__ == "__main__":
 #  out the p-value is perfectly normal. If you want to make inferential claims
 #  (“the correlation is significant at α = 0.05”), then you should show it (or
 #  note the α-level).
-
+# https://www.statisticshowto.com/kendalls-tau/
 #Recommendations:
 # For a concise agreement table (like the example you showed), τ and the pair
 #  count are enough—​especially if readers can see that n ≥ 30, making small
