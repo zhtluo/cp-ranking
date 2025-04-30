@@ -49,6 +49,7 @@ contests:
     ## Northern Eurasia Regionals -- complete
     Northern-Eurasia:
       #Northern-Eurasia from -2018 to present
+      # official website results finder doesn't show 2018-2020, but it's under the same url
       - Northern-Eurasia
       - Northeastern-Europe
     Armenia:
