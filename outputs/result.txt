@@ -59,36 +59,36 @@ Processing comparison: Northern-Eurasia vs West-Siberian (for years = 2024, 2023
 Comparison Results:
 
 Comparison: World-Finals_vs_CF-Ratings
-  Year 2024: Tau = 0.647, Shared Schools = 84
-  Year 2023: Tau = 0.525, Shared Schools = 87
-  Year 2022: Tau = 0.617, Shared Schools = 76
-  Year 2021: Tau = 0.612, Shared Schools = 77
-  Weighted Average Tau: 0.597
-  Pairs (denominator): 13003
+  Year 2024: Tau = 0.640, Shared Schools = 94
+  Year 2023: Tau = 0.547, Shared Schools = 97
+  Year 2022: Tau = 0.620, Shared Schools = 87
+  Year 2021: Tau = 0.580, Shared Schools = 88
+  Weighted Average Tau: 0.596
+  Pairs (denominator): 16596
 
 Comparison: North-America-Championship_vs_CF-Ratings
-  Year 2024: Tau = 0.709, Shared Schools = 11
+  Year 2024: Tau = 0.636, Shared Schools = 12
   Year 2023: Tau = 0.275, Shared Schools = 14
   Year 2022: Tau = 0.556, Shared Schools = 10
   Year 2021: Tau = 0.212, Shared Schools = 12
-  Weighted Average Tau: 0.401
-  Pairs (denominator): 257
+  Weighted Average Tau: 0.396
+  Pairs (denominator): 268
 
 Comparison: APSEPC_vs_CF-Ratings
-  Year 2024: Tau = 0.818, Shared Schools = 11
-  Weighted Average Tau: 0.818
-  Pairs (denominator): 55
+  Year 2024: Tau = 0.758, Shared Schools = 12
+  Weighted Average Tau: 0.758
+  Pairs (denominator): 66
 
 Comparison: Latin-America-Champ_vs_CF-Ratings
-  Year 2024: Tau = 0.564, Shared Schools = 11
-  Weighted Average Tau: 0.564
-  Pairs (denominator): 55
+  Year 2024: Tau = 0.451, Shared Schools = 14
+  Weighted Average Tau: 0.451
+  Pairs (denominator): 91
 
 Comparison: ICPCKolkataKanpur_vs_CF-Ratings
-  Year 2024: Tau = 0.236, Shared Schools = 11
-  Year 2023: Tau = 0.424, Shared Schools = 12
-  Weighted Average Tau: 0.339
-  Pairs (denominator): 121
+  Year 2024: Tau = 0.256, Shared Schools = 13
+  Year 2023: Tau = 0.410, Shared Schools = 15
+  Weighted Average Tau: 0.344
+  Pairs (denominator): 183
 
 Comparison: ACPC_vs_CF-Ratings
   Year 2024: Tau = 0.333, Shared Schools = 6
@@ -99,9 +99,9 @@ Comparison: ACPC_vs_CF-Ratings
   Pairs (denominator): 130
 
 Comparison: EUC_vs_CF-Ratings
-  Year 2024: Tau = 0.200, Shared Schools = 5
-  Weighted Average Tau: 0.200
-  Pairs (denominator): 10
+  Year 2024: Tau = 0.067, Shared Schools = 6
+  Weighted Average Tau: 0.067
+  Pairs (denominator): 15
 
 Comparison: SEERC_vs_CF-Ratings
   Year 2023: Tau = 1.000, Shared Schools = 2
@@ -110,35 +110,36 @@ Comparison: SEERC_vs_CF-Ratings
 
 Comparison: Central-Europe_vs_CF-Ratings
   Year 2023: Tau = 1.000, Shared Schools = 2
-  Weighted Average Tau: 1.000
-  Pairs (denominator): 1
+  Year 2021: Tau = -1.000, Shared Schools = 2
+  Weighted Average Tau: 0.000
+  Pairs (denominator): 2
 
 Comparison: SWERC_vs_CF-Ratings
-  Year 2024: Tau = 0.333, Shared Schools = 3
+  Year 2024: Tau = 0.000, Shared Schools = 4
   Year 2023: Tau = -0.200, Shared Schools = 5
-  Weighted Average Tau: -0.077
-  Pairs (denominator): 13
+  Weighted Average Tau: -0.125
+  Pairs (denominator): 16
 
 Comparison: Northwestern-Europe_vs_CF-Ratings
   Year 2023: Tau = -1.000, Shared Schools = 3
-  Year 2022: Tau = -1.000, Shared Schools = 2
-  Year 2021: Tau = 0.333, Shared Schools = 3
-  Weighted Average Tau: -0.429
-  Pairs (denominator): 7
+  Year 2022: Tau = 0.333, Shared Schools = 3
+  Year 2021: Tau = 0.333, Shared Schools = 4
+  Weighted Average Tau: 0.000
+  Pairs (denominator): 12
 
 Comparison: Northern-Eurasia_vs_CF-Ratings
-  Year 2024: Tau = 0.483, Shared Schools = 16
-  Year 2023: Tau = 0.278, Shared Schools = 9
-  Year 2022: Tau = 0.600, Shared Schools = 10
-  Year 2021: Tau = 0.511, Shared Schools = 10
-  Weighted Average Tau: 0.480
-  Pairs (denominator): 246
+  Year 2024: Tau = 0.582, Shared Schools = 18
+  Year 2023: Tau = 0.345, Shared Schools = 11
+  Year 2022: Tau = 0.606, Shared Schools = 12
+  Year 2021: Tau = 0.560, Shared Schools = 14
+  Weighted Average Tau: 0.545
+  Pairs (denominator): 365
 
 Comparison: Asia-EC-League-Final_vs_CF-Ratings
-  Year 2022: Tau = 0.333, Shared Schools = 12
+  Year 2022: Tau = 0.231, Shared Schools = 14
   Year 2021: Tau = 0.200, Shared Schools = 6
-  Weighted Average Tau: 0.309
-  Pairs (denominator): 81
+  Weighted Average Tau: 0.226
+  Pairs (denominator): 106
 
 Comparison: ('World-Finals', 'North-America-Championship')
   Year 2024: Tau = 0.229, Shared Schools = 18
@@ -559,20 +560,20 @@ Comparison: ('Northern-Eurasia', 'West-Siberian')
   Pairs (denominator): 349
 
 % ---- codeforces ----
-        World-Finals & 13003 & 0.597 \\
-        North-America-Championship & 257 & 0.401 \\
-        APSEPC & 55 & 0.818 \\
-        Latin-America-Champ & 55 & 0.564 \\
-        ICPCKolkataKanpur & 121 & 0.339 \\
+        World-Finals & 16596 & 0.596 \\
+        North-America-Championship & 268 & 0.396 \\
+        APSEPC & 66 & 0.758 \\
+        Latin-America-Champ & 91 & 0.451 \\
+        ICPCKolkataKanpur & 183 & 0.344 \\
         ACPC & 130 & 0.415 \\
-        EUC & 10 & 0.200 \\
+        EUC & 15 & 0.067 \\
         SEERC & 1 & 1.000 \\
-        Central-Europe & 1 & 1.000 \\
-        SWERC & 13 & -0.077 \\
-        Northwestern-Europe & 7 & -0.429 \\
-        Northern-Eurasia & 246 & 0.480 \\
-        Asia-EC-League-Final & 81 & 0.309 \\
-        \textbf{Weighted Average} & - & \textbf{0.585} \\
+        Central-Europe & 2 & 0.000 \\
+        SWERC & 16 & -0.125 \\
+        Northwestern-Europe & 12 & 0.000 \\
+        Northern-Eurasia & 365 & 0.545 \\
+        Asia-EC-League-Final & 106 & 0.226 \\
+        \textbf{Weighted Average} & - & \textbf{0.584} \\
 
 % ---- World-Finals ----
         North-America-Championship & 587 & 0.281 \\
