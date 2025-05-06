@@ -3,15 +3,11 @@ from scipy.stats import kendalltau
 import os
 import math
 from collections import defaultdict
-from unidecode import unidecode
-import unicodedata
-# import re
-# import codecs
+# annoying unicode decoding
 from ftfy import fix_text
+import unicodedata
 
 def normalize(name: str, lowerit=True) -> str:
-    # # 1) turn ANY accent/mojibake into plain ASCII
-    # name = unidecode(name)
     # 1) Decompose into base characters + combining marks (NFD or NFKD)
     name = fix_text(name)
     decomposed = unicodedata.normalize('NFKD', name)
@@ -20,38 +16,6 @@ def normalize(name: str, lowerit=True) -> str:
     if lowerit:
         finished = finished.lower().strip()
     return finished
-    # name = unicodedata.normalize('NFKD', name) \
-    #      .encode('ascii', 'ignore') \
-    #      .decode('ascii')
-    # return name
-
-    # # 1) repair common UTF-8 mojibake: bytes that were read as Latin‑1
-    # # 1) repair only real mojibake (Ã + something)
-    # if 'Ã' in name:
-    #     try:
-    #         name = name.encode('latin1').decode('utf8')
-    #     except (UnicodeEncodeError, UnicodeDecodeError) as e:
-    #         # if it wasn't mojibake, just leave it
-    #         print("WARN WARN WARN ERROR in decoding/normalizing university names: ", e)
-    #         pass
-    #
-    # # 2) decode any Python-style \xNN escapes (if your YAML ever has them)
-    # # decode any Python-style \xNN escapes in the string, e.g. "\xFC" → ü
-    # # 2) decode Python-style escapes if present
-    # if '\\x' in name or '\\u' in name:
-    #     try:
-    #         name = codecs.decode(name, 'unicode_escape')
-    #     except Exception as e:
-    #         # if it wasn’t encoded with \x escapes, just leave it
-    #         print("WARN WARN WARN ERROR in decoding/normalizing university names: ", e)
-    #         pass
-    #
-    # # decompose accents (ü → u + ¨), then drop non‑ASCII
-    # name = unicodedata.normalize('NFKD', name)
-    # name = name.encode('ascii', 'ignore').decode('ascii')
-    # # strip common prefixes
-    # name = re.sub(r'^(eth|univ|university)\s+', '', name, flags=re.I)
-    # return name.lower().strip()
 
 # Load the YAML configuration file.
 def load_yaml(file_path):

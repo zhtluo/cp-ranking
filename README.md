@@ -8,7 +8,7 @@ CP-Ranking has three primary processes:
 
 2. ```fetch-contest-ranking.py```: Fairly straightforward, this takes the IDs retrieved previously from ```outputs/contest_ids.yaml``` and downloads that dataset with all required metadata to ```rankings/*``` (per primary key -- for split keys -- per year); data is converted to ```yaml``` format.  By default will not download already downloaded data, but this setting can be turned off (```SKIP_PREV_GENERATED```).
 
-3. ```compute-tau.py```: Arguably the most important step, this loads ```contests.yaml``` for reference and computes the Kendall Tau value between all ```contests:pairs:*``` and between codeforces (data manually retrieved and stored in ```cf-rating/*```, see paper for details) and every contest ID under ```contests:cf:*```.  By default, it prints to terminal, since we hackily used `\b` in ```:process_pairs_with_cf(...)``` to backspace in the output, and those weren't rendering properly when written directly to a file.
+3. ```compute_tau.py```: Arguably the most important step, this loads ```contests.yaml``` for reference and computes the Kendall Tau value between all ```contests:pairs:*``` and between codeforces (data manually retrieved and stored in ```cf-rating/*```, see paper for details) and every contest ID under ```contests:cf:*```.  By default, it prints to terminal, since we hackily used `\b` in ```:process_pairs_with_cf(...)``` to backspace in the output, and those weren't rendering properly when written directly to a file.
   * Importantly, a summary of all years that were processed prints at the beginning of the output.  We attempt to explain years that were skipped with four indicators:
 ```
 * indicates skipped due to only 1 team to compare to
@@ -22,11 +22,19 @@ otherwise skipped due to lack of data file
 This is pretty easy.
 1. Retrieve a tag for a region you want to add to the analysis from [icpc.global/regionals/results](https://icpc.global/regionals/results/2024).
 2. Add it to ```contests.yaml:contests:keys``` or ```contests.yaml:contests:split-keys``` if the tag changes over the years you want to analyze.
-  * Verify it is available under this tag for all the years under ```contests.yaml:contests:years:```, or be prepared for reports of missing data in the final ```compute-tau.py```.
+  * Verify it is available under this tag for all the years under ```contests.yaml:contests:years:```, or be prepared for reports of missing data in the final ```compute_tau.py```.
 
     This shows available data: https://icpc.global/regionals/finder/Mid-Central-USA-2024/standings, this is an example of unavailable data: https://icpc.global/regionals/finder/Mid-Atlantic-USA-2024/standings.
   * Add it to be analyzed under ```contests.yaml:contests:pairs:``` (recommended) or ```:contests:cf:```, depending on what you want to compare.  Codeforces data is only available for 2020-2024, and has already been compared with all superregionals for the last 10 years.  Other comparisons with CF are unlikely to produce meaningful results as concentration of available tags associated with teams decreases quickly the further away from World Finals one gets.
-3. All done!  Run ```fetch-contest-id.py```, ```fetch-contest-ranking.py```, and ```compute-tau.py```.
+3. All done!  Run ```fetch-contest-id.py```, ```fetch-contest-ranking.py```, and ```compute_tau.py```.
+
+# Debugging
+The lists on codeforces frequently do not match exactly with the data retrieved from ```icpc.global```.  Within datasets from ```icpc.global```, one university has the same name across all contests (even back-propagating through the years).  Name changes also happen for universities, which gets updated when running ```fetch-contest-ranking.py```, but the codeforces files were updated with a script not available here.  Furthermore, ```icpc.global``` encodes unicode with escaped strings and the codeforces data just has unicode.
+
+Due to this, we present ```spotthediff_cf_vs_worlds.py``` to list out universities that do not appear in either worlds data or codeforces data.  The ones that only appear in codeforces should be the primary focus, since some world's teams don't have codeforces rankings. This was highly annoying to get right, but we ended up using a unicode normalizer (implemented in ```compute_tau.py```).  
+  * *Many* methods did not work, so be exceedingly careful if you edit that function.
+
+From there, we manually modified the codeforces data to match (e.g. changing ```technical university of munich``` to ```technische universitat munchen``` or ```universidad de guadalajara - cucei``` to ```universidad de guadalajara cucei```).
 
 # Credits
 Created by Zhongtang Luo and Ethan Dickey in F24-S25.  Please credit the original repository and paper referenced at the top of this readme when sharing.
