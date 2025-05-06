@@ -246,6 +246,7 @@ def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
 
 # Main
 if __name__ == "__main__":
+    #misc useful commands in determining where university names mismatch
     # diff -qsy outputs/rankings_old/ICPCKolkataKanpur_2024_ranking.yaml outputs/rankings_old/ICPCKolkataKanpur_2024_ranking.yaml
     # https://github.com/zhtluo/cp-ranking/compare/3e0d141..391ae0b
     # Load YAML configuration
