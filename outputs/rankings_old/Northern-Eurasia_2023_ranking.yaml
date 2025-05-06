@@ -11,7 +11,7 @@
   totalTime: 1323
 - citation: Second Place
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 278
   medalCitation: Gold Medal
   problemsSolved: 10
@@ -77,7 +77,7 @@
   totalTime: 790
 - citation: Eighth Place
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 203
   medalCitation: Silver Medal
   problemsSolved: 7
@@ -154,7 +154,7 @@
   totalTime: 577
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 277
   medalCitation: null
   problemsSolved: 6
@@ -176,7 +176,7 @@
   totalTime: 670
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 260
   medalCitation: null
   problemsSolved: 6
@@ -187,7 +187,7 @@
   totalTime: 734
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 223
   medalCitation: null
   problemsSolved: 6
@@ -220,7 +220,7 @@
   totalTime: 921
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: National Research University Higher School of Economics
+  institution: HSE University
   lastProblemTime: 295
   medalCitation: null
   problemsSolved: 6
@@ -528,7 +528,7 @@
   totalTime: 340
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: St. Petersburg Campus of Higher School of Economics
+  institution: St. Petersburg Campus of HSE University
   lastProblemTime: 184
   medalCitation: null
   problemsSolved: 4
@@ -814,8 +814,7 @@
   totalTime: 565
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Nizhny Novgorod Branch of National Research University Higher School
-    of Economics
+  institution: Nizhny Novgorod Branch of HSE University
   lastProblemTime: 245
   medalCitation: null
   problemsSolved: 4
@@ -2215,8 +2214,7 @@
   totalTime: 142
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Nizhny Novgorod Branch of National Research University Higher School
-    of Economics
+  institution: Nizhny Novgorod Branch of HSE University
   lastProblemTime: 62
   medalCitation: null
   problemsSolved: 2
@@ -2953,7 +2951,7 @@
   totalTime: 340
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Almaty University of Power Engineering & Telecommunications
+  institution: Almaty University of Power Engineering and Telecommunications
   lastProblemTime: 245
   medalCitation: null
   problemsSolved: 1
@@ -2986,7 +2984,7 @@
   totalTime: 0
 - citation: Honorable Mention
   honorableMentionCitation: null
-  institution: Almaty University of Power Engineering & Telecommunications
+  institution: Almaty University of Power Engineering and Telecommunications
   lastProblemTime: 0
   medalCitation: null
   problemsSolved: 0
