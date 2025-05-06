@@ -5,7 +5,7 @@
 - average_cf_rating: 3388.1317
   university: Kyoto University
 - average_cf_rating: 3348.3856
-  university: National Research University Higher School of Economics
+  university: HSE University
 - average_cf_rating: 3301.6488
   university: Peking University
 - average_cf_rating: 3056.3953
@@ -31,11 +31,11 @@
 - average_cf_rating: 2803.1625
   university: University of Cambridge
 - average_cf_rating: 2714.0406
-  university: KTH Royal Institute of Technology
+  university: KTH - Royal Institute of Technology
 - average_cf_rating: 2644.0188
   university: University of Wroclaw
 - average_cf_rating: 2576.7952
-  university: Charles University in Prague
+  university: Charles University
 - average_cf_rating: 2521.1017
   university: University of Bucharest
 - average_cf_rating: 2373.904
@@ -79,7 +79,7 @@
 - average_cf_rating: 2801.7024
   university: National Taiwan University
 - average_cf_rating: 2799.8717
-  university: Tokyo Institute of Technology
+  university: Institute of Science Tokyo
 - average_cf_rating: 2699.9083
   university: National University of Singapore
 - average_cf_rating: 2613.308
@@ -93,7 +93,7 @@
 - average_cf_rating: 2475.8095
   university: Korea University
 - average_cf_rating: 2452.1177
-  university: Bina Nusantara University
+  university: BINUS UNIVERSITY
 - average_cf_rating: 2414.1251
   university: National Yang Ming Chiao Tung University
 - average_cf_rating: 2388.5754
@@ -105,7 +105,7 @@
 - average_cf_rating: 2538.8139
   university: Indian Institute of Technology - Guwahati
 - average_cf_rating: 2536.9853
-  university: Dhirubhai Ambani Institute of Information and Communication Technology
+  university: Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
 - average_cf_rating: 2530.0156
   university: Indian Institute of Technology - Bombay
 - average_cf_rating: 2444.1061
@@ -143,13 +143,13 @@
 - average_cf_rating: 2331.5881
   university: Universidad Nacional de Córdoba - FaMAF
 - average_cf_rating: 2253.2131
-  university: Universidad Panamericana - Bonaterra
+  university: Universidad Panamericana Campus Bonaterra
 - average_cf_rating: 2210.9164
   university: Universidad Simón Bolívar
 - average_cf_rating: 2141.968
   university: Universidad Mayor de San Simón
 - average_cf_rating: 2137.8797
-  university: Universidad de Guadalajara - CUCEI
+  university: Universidad de Guadalajara CUCEI
 - average_cf_rating: 2129.9291
   university: Universidade Federal da Bahia
 - average_cf_rating: 1892.9033
@@ -177,15 +177,15 @@
 - average_cf_rating: 2749.6434
   university: Belarusian State University
 - average_cf_rating: 2711.4343
-  university: St. Petersburg Campus of Higher School of Economics
+  university: St. Petersburg Campus of HSE University
 - average_cf_rating: 2660.8732
   university: Moscow Institute of Physics and Technology
 - average_cf_rating: 2522.327
   university: Saratov State University
 - average_cf_rating: 2483.8844
-  university: Suleyman Demirel University
+  university: SDU University
 - average_cf_rating: 2476.2863
-  university: Kazan Federal University
+  university: Kazan (Volga Region) Federal University
 - average_cf_rating: 2380.1
   university: Belarusian State University of Informatics and Radioelectronics
 - average_cf_rating: 2369.6643

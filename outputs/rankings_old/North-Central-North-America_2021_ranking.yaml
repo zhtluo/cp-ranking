@@ -1,0 +1,990 @@
+- citation: First Place
+  honorableMentionCitation: null
+  institution: University of Wisconsin-Madison
+  lastProblemTime: 287
+  medalCitation: Gold Medal
+  problemsSolved: 11
+  rank: 1
+  siteCitation: Universal Registration Site
+  teamId: 483750
+  teamName: teamname or NP = D?(AdjP)*N(PP)*
+  totalTime: 1758
+- citation: Second Place
+  honorableMentionCitation: null
+  institution: Milwaukee School of Engineering
+  lastProblemTime: 256
+  medalCitation: Gold Medal
+  problemsSolved: 10
+  rank: 2
+  siteCitation: ''
+  teamId: 483599
+  teamName: Kotlinaughts
+  totalTime: 1258
+- citation: Third Place
+  honorableMentionCitation: null
+  institution: University of Wisconsin-Madison
+  lastProblemTime: 284
+  medalCitation: Gold Medal
+  problemsSolved: 10
+  rank: 3
+  siteCitation: ''
+  teamId: 483747
+  teamName: GNS-Software
+  totalTime: 1303
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: University of Wisconsin-Madison
+  lastProblemTime: 227
+  medalCitation: Gold Medal
+  problemsSolved: 9
+  rank: 4
+  siteCitation: ''
+  teamId: 483748
+  teamName: volatile long long int*
+  totalTime: 1271
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: Carleton College
+  lastProblemTime: 264
+  medalCitation: Silver Medal
+  problemsSolved: 8
+  rank: 5
+  siteCitation: ''
+  teamId: 485720
+  teamName: Carleton Infinite Recursion
+  totalTime: 1276
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: Iowa State University
+  lastProblemTime: 295
+  medalCitation: Silver Medal
+  problemsSolved: 7
+  rank: 6
+  siteCitation: ''
+  teamId: 485022
+  teamName: CY2
+  totalTime: 1162
+- citation: Seventh Place
+  honorableMentionCitation: null
+  institution: University of Minnesota - Twin Cities
+  lastProblemTime: 296
+  medalCitation: Silver Medal
+  problemsSolved: 6
+  rank: 7
+  siteCitation: ''
+  teamId: 483853
+  teamName: Team Pho
+  totalTime: 952
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 131
+  medalCitation: Silver Medal
+  problemsSolved: 5
+  rank: 8
+  siteCitation: ''
+  teamId: 485876
+  teamName: UManitoba 2
+  totalTime: 578
+- citation: Ninth Place
+  honorableMentionCitation: null
+  institution: University of Winnipeg
+  lastProblemTime: 268
+  medalCitation: Bronze Medal
+  problemsSolved: 5
+  rank: 9
+  siteCitation: ''
+  teamId: 483190
+  teamName: localMaxima
+  totalTime: 686
+- citation: Tenth Place
+  honorableMentionCitation: null
+  institution: St. Olaf College
+  lastProblemTime: 188
+  medalCitation: Bronze Medal
+  problemsSolved: 5
+  rank: 10
+  siteCitation: ''
+  teamId: 485765
+  teamName: HAT-trick
+  totalTime: 723
+- citation: Eleventh Place
+  honorableMentionCitation: null
+  institution: Milwaukee School of Engineering
+  lastProblemTime: 248
+  medalCitation: Bronze Medal
+  problemsSolved: 5
+  rank: 11
+  siteCitation: ''
+  teamId: 485505
+  teamName: CinCity
+  totalTime: 735
+- citation: Twelfth Place
+  honorableMentionCitation: null
+  institution: Dakota State University
+  lastProblemTime: 267
+  medalCitation: Bronze Medal
+  problemsSolved: 5
+  rank: 12
+  siteCitation: ''
+  teamId: 485934
+  teamName: DSU Trojans 2
+  totalTime: 803
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: The University of South Dakota
+  lastProblemTime: 262
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 13
+  siteCitation: ''
+  teamId: 485951
+  teamName: USD A
+  totalTime: 849
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: Michigan Technological University
+  lastProblemTime: 280
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 13
+  siteCitation: ''
+  teamId: 485944
+  teamName: MTU Orange
+  totalTime: 901
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: Dakota State University
+  lastProblemTime: 204
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 13
+  siteCitation: ''
+  teamId: 483739
+  teamName: Dunder Mifflin Scranton
+  totalTime: 1053
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: University of Minnesota - Twin Cities
+  lastProblemTime: 270
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 13
+  siteCitation: ''
+  teamId: 485950
+  teamName: Social Coding
+  totalTime: 1093
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: University of Nebraska - Lincoln
+  lastProblemTime: 232
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 17
+  siteCitation: ''
+  teamId: 485375
+  teamName: <insert team name here>
+  totalTime: 494
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: South Dakota School of Mines and Technology
+  lastProblemTime: 275
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 17
+  siteCitation: ''
+  teamId: 484576
+  teamName: Red
+  totalTime: 511
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: University of Wisconsin - Platteville
+  lastProblemTime: 228
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 17
+  siteCitation: ''
+  teamId: 485762
+  teamName: UWPT1
+  totalTime: 604
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: Macalester College
+  lastProblemTime: 282
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 17
+  siteCitation: ''
+  teamId: 485752
+  teamName: Macalester Red
+  totalTime: 673
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: Michigan Technological University
+  lastProblemTime: 277
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 17
+  siteCitation: ''
+  teamId: 485943
+  teamName: MTU Red
+  totalTime: 739
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 272
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 17
+  siteCitation: ''
+  teamId: 485886
+  teamName: UManitoba 12
+  totalTime: 797
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: Creighton University
+  lastProblemTime: 298
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 17
+  siteCitation: ''
+  teamId: 485938
+  teamName: Runtime Terror
+  totalTime: 960
+- citation: Seventeenth Place
+  honorableMentionCitation: null
+  institution: Macalester College
+  lastProblemTime: 289
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 17
+  siteCitation: ''
+  teamId: 485634
+  teamName: Macalester Blue
+  totalTime: 1017
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Buena Vista University
+  lastProblemTime: 92
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 485935
+  teamName: BVU Beavers
+  totalTime: 281
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Luther College
+  lastProblemTime: 184
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 485909
+  teamName: WorksOnMyComputer
+  totalTime: 307
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Dakota State University
+  lastProblemTime: 204
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 483741
+  teamName: NaN
+  totalTime: 340
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Macalester College
+  lastProblemTime: 153
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 485635
+  teamName: Macalester Orange
+  totalTime: 348
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: North Dakota State University
+  lastProblemTime: 214
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 485999
+  teamName: Doing Unethical M'acronyms Badly (D.U.M.B.)
+  totalTime: 349
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: University of Wisconsin - Platteville
+  lastProblemTime: 123
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 485763
+  teamName: UWPT2
+  totalTime: 369
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Northwestern College
+  lastProblemTime: 168
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 485284
+  teamName: NWC Team 1
+  totalTime: 385
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: University of Minnesota - Twin Cities
+  lastProblemTime: 228
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 485831
+  teamName: Excalibur
+  totalTime: 432
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Dakota State University
+  lastProblemTime: 210
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 485933
+  teamName: DSU Trojans 1
+  totalTime: 491
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: North Dakota State University
+  lastProblemTime: 253
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 487279
+  teamName: Team 16
+  totalTime: 511
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: University of Wisconsin-Madison
+  lastProblemTime: 254
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 483749
+  teamName: Exception Handler
+  totalTime: 614
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: North Dakota State University
+  lastProblemTime: 243
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 486000
+  teamName: 2 Dischilihenicosation 2
+  totalTime: 702
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 222
+  medalCitation: Ranked
+  problemsSolved: 3
+  rank: 25
+  siteCitation: ''
+  teamId: 485875
+  teamName: UManitoba 1
+  totalTime: 788
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Michigan Technological University
+  lastProblemTime: 88
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485797
+  teamName: MTU Black
+  totalTime: 106
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Central College
+  lastProblemTime: 50
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485868
+  teamName: Central Dutch
+  totalTime: 153
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: University of Winnipeg
+  lastProblemTime: 73
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 484790
+  teamName: Py Terminators
+  totalTime: 153
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 84
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485883
+  teamName: UManitoba 9
+  totalTime: 180
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 97
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485878
+  teamName: UManitoba 4
+  totalTime: 198
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Iowa State University
+  lastProblemTime: 152
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485698
+  teamName: CY5
+  totalTime: 203
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Northern Michigan University
+  lastProblemTime: 116
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 486093
+  teamName: Pennyworth
+  totalTime: 233
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: University of Wisconsin - LaCrosse
+  lastProblemTime: 262
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485904
+  teamName: UWL Eagles
+  totalTime: 310
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 207
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485880
+  teamName: UManitoba 6
+  totalTime: 319
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Drake University
+  lastProblemTime: 221
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485833
+  teamName: The Spikes
+  totalTime: 321
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Missouri Western State College
+  lastProblemTime: 241
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485907
+  teamName: Griffons
+  totalTime: 325
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Iowa State University
+  lastProblemTime: 189
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485024
+  teamName: CY4
+  totalTime: 362
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Augustana University
+  lastProblemTime: 245
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485543
+  teamName: Augustana Team 3
+  totalTime: 367
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Drake University
+  lastProblemTime: 144
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485832
+  teamName: The Bulldogs
+  totalTime: 381
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Augustana University
+  lastProblemTime: 203
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485542
+  teamName: Augustana Team 2
+  totalTime: 391
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: University of Minnesota - Twin Cities
+  lastProblemTime: 255
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 484456
+  teamName: Niarti
+  totalTime: 420
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: North Dakota State University
+  lastProblemTime: 232
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 486001
+  teamName: Internet-based Cause Pandemic of Coronavirus (ICPC)
+  totalTime: 457
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: Carleton College
+  lastProblemTime: 281
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 485722
+  teamName: Carleton Self-Balancing Trees
+  totalTime: 457
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: University of Nebraska - Lincoln
+  lastProblemTime: 283
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 484009
+  teamName: CCAC
+  totalTime: 520
+- citation: Thirty-eighth Place
+  honorableMentionCitation: null
+  institution: North Dakota State University
+  lastProblemTime: 257
+  medalCitation: Ranked
+  problemsSolved: 2
+  rank: 38
+  siteCitation: ''
+  teamId: 486002
+  teamName: Just A Very-bad-language Actually (JAVA)
+  totalTime: 872
+- citation: ''
+  honorableMentionCitation: null
+  institution: North Dakota State University
+  lastProblemTime: 7
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 483918
+  teamName: DROP TABLE Teams
+  totalTime: 7
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Nebraska - Lincoln
+  lastProblemTime: 20
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 484762
+  teamName: CCAC2
+  totalTime: 20
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 19
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485879
+  teamName: UManitoba 5
+  totalTime: 39
+- citation: ''
+  honorableMentionCitation: null
+  institution: The University of South Dakota
+  lastProblemTime: 22
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485952
+  teamName: USD B
+  totalTime: 42
+- citation: ''
+  honorableMentionCitation: null
+  institution: Macalester College
+  lastProblemTime: 53
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485802
+  teamName: Macalester Green
+  totalTime: 53
+- citation: ''
+  honorableMentionCitation: null
+  institution: Augustana University
+  lastProblemTime: 78
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485541
+  teamName: Augustana Team 1
+  totalTime: 78
+- citation: ''
+  honorableMentionCitation: null
+  institution: Drake University
+  lastProblemTime: 79
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485838
+  teamName: The Griffs
+  totalTime: 79
+- citation: ''
+  honorableMentionCitation: null
+  institution: Creighton University
+  lastProblemTime: 78
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485946
+  teamName: Coding Grrrls
+  totalTime: 98
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 72
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485885
+  teamName: UManitoba 11
+  totalTime: 112
+- citation: ''
+  honorableMentionCitation: null
+  institution: Augustana University
+  lastProblemTime: 88
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485621
+  teamName: Augustana Team 5
+  totalTime: 128
+- citation: ''
+  honorableMentionCitation: null
+  institution: Michigan Technological University
+  lastProblemTime: 121
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485841
+  teamName: MTU Green
+  totalTime: 161
+- citation: ''
+  honorableMentionCitation: null
+  institution: Dakota State University
+  lastProblemTime: 109
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 483740
+  teamName: Pi's Last Digits
+  totalTime: 169
+- citation: ''
+  honorableMentionCitation: null
+  institution: North Dakota State University
+  lastProblemTime: 93
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 483917
+  teamName: Men in STEM
+  totalTime: 213
+- citation: ''
+  honorableMentionCitation: null
+  institution: Graceland University
+  lastProblemTime: 196
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485548
+  teamName: RunTimeTerror
+  totalTime: 236
+- citation: ''
+  honorableMentionCitation: null
+  institution: Graceland University
+  lastProblemTime: 85
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485545
+  teamName: DivideByZero
+  totalTime: 245
+- citation: ''
+  honorableMentionCitation: null
+  institution: Briar Cliff University
+  lastProblemTime: 154
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485747
+  teamName: BCU Gold
+  totalTime: 274
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 169
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485884
+  teamName: UManitoba 10
+  totalTime: 289
+- citation: ''
+  honorableMentionCitation: null
+  institution: Iowa State University
+  lastProblemTime: 264
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485021
+  teamName: CY1
+  totalTime: 324
+- citation: ''
+  honorableMentionCitation: null
+  institution: Macalester College
+  lastProblemTime: 278
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485942
+  teamName: Macalester Indigo
+  totalTime: 358
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 104
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485877
+  teamName: UManitoba 3
+  totalTime: 364
+- citation: ''
+  honorableMentionCitation: null
+  institution: Briar Cliff University
+  lastProblemTime: 188
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485748
+  teamName: BCU Blue
+  totalTime: 388
+- citation: ''
+  honorableMentionCitation: null
+  institution: Northern Michigan University
+  lastProblemTime: 190
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 486094
+  teamName: Drake
+  totalTime: 430
+- citation: ''
+  honorableMentionCitation: null
+  institution: Luther College
+  lastProblemTime: 220
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: ''
+  teamId: 485843
+  teamName: System in Bits 011
+  totalTime: 500
+- citation: ''
+  honorableMentionCitation: null
+  institution: Graceland University
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 485546
+  teamName: BSCodeForTheWin
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Carleton College
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 485724
+  teamName: Carleton Minimum Spanning Trees
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Creighton University
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 485987
+  teamName: Cornhackers
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Iowa State University
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 485023
+  teamName: CY3
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: UW Oshkosh Fox Cities
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 485960
+  teamName: Fox-Bytes 1
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: UW Oshkosh Fox Cities
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 485961
+  teamName: Fox-Bytes 2
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Graceland University
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 485547
+  teamName: TheBinaryBeasts
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 485881
+  teamName: UManitoba 7
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: University of Manitoba
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 485882
+  teamName: UManitoba 8
+  totalTime: 0
+- citation: ''
+  honorableMentionCitation: null
+  institution: Dakota State University
+  lastProblemTime: 0
+  medalCitation: Honorable
+  problemsSolved: 0
+  rank: null
+  siteCitation: ''
+  teamId: 483743
+  teamName: Windows Vista Fan Club
+  totalTime: 0

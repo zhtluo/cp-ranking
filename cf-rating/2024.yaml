@@ -17,11 +17,11 @@
 - average_cf_rating: 3057.1607
   university: Eötvös Loránd University
 - average_cf_rating: 3037.9946
-  university: National Research University Higher School of Economics
+  university: HSE University
 - average_cf_rating: 3012.4093
   university: Seoul National University
 - average_cf_rating: 2998.2267
-  university: Tokyo Institute of Technology
+  university: Institute of Science Tokyo
 - average_cf_rating: 2943.284
   university: National University of Singapore
 - average_cf_rating: 2888.95
@@ -93,7 +93,7 @@
 - average_cf_rating: 2334.0636
   university: Birla Institute of Technology and Science, Pilani Campus
 - average_cf_rating: 2315.0053
-  university: Indian Institute of Technology - Bhubaneswar
+  university: Indian Institute of Technology Bhubaneswar
 - average_cf_rating: 2233.7046
   university: Indian Institute of Technology - Roorkee
 - average_cf_rating: 2179.24
@@ -103,7 +103,7 @@
 - average_cf_rating: 2112.7124
   university: Indian Institute of Technology - Varanasi
 - average_cf_rating: 2018.4965
-  university: Khulna University of Engineering & Technology
+  university: Khulna University of Engineering and Technology
 - average_cf_rating: 1963.3798
   university: Indian Institute of Technology - Guwahati
 - average_cf_rating: 2679.1545
@@ -111,15 +111,15 @@
 - average_cf_rating: 2646.3547
   university: Universidade de São Paulo
 - average_cf_rating: 2475.8523
-  university: Universidad Nacional de Colombia
+  university: Universidad Nacional de Colombia - Bogota
 - average_cf_rating: 2398.5245
   university: Pontificia Universidad Católica de Chile
 - average_cf_rating: 2386.4704
   university: Universidad de La Habana
 - average_cf_rating: 2382.3943
-  university: Universidad de Guanajuato
+  university: Universidad de Guanajuato - DCNE
 - average_cf_rating: 2298.9716
-  university: Universidad Nacional de Ingeniería
+  university: Universidad Nacional de Ingeniería - FC
 - average_cf_rating: 2169.076
   university: Universidade do Estado de Santa Catarina
 - average_cf_rating: 2166.6545
@@ -145,7 +145,7 @@
 - average_cf_rating: 2584.4625
   university: University of California, Berkeley
 - average_cf_rating: 2548.3597
-  university: University of Michigan
+  university: University of Michigan at Ann Arbor
 - average_cf_rating: 2501.2154
   university: The University of British Columbia
 - average_cf_rating: 2399.78
@@ -185,4 +185,4 @@
 - average_cf_rating: 2188.0
   university: I. Javakhishvili Tbilisi State University
 - average_cf_rating: 2096.2063
-  university: Suleyman Demirel University
+  university: SDU University

@@ -1,0 +1,891 @@
+- citation: First Place
+  honorableMentionCitation: null
+  institution: Georgia Institute of Technology
+  lastProblemTime: 270
+  medalCitation: Gold Medal
+  problemsSolved: 16
+  rank: 1
+  siteCitation: null
+  teamId: 485725
+  teamName: GT 01
+  totalTime: 1282
+- citation: Second Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 289
+  medalCitation: Silver Medal
+  problemsSolved: 16
+  rank: 2
+  siteCitation: null
+  teamId: 483523
+  teamName: UCF Slow Cooker
+  totalTime: 1556
+- citation: Third Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 228
+  medalCitation: Silver Medal
+  problemsSolved: 15
+  rank: 3
+  siteCitation: null
+  teamId: 483520
+  teamName: UCF Iron
+  totalTime: 1312
+- citation: Fourth Place
+  honorableMentionCitation: null
+  institution: Georgia Institute of Technology
+  lastProblemTime: 193
+  medalCitation: Bronze Medal
+  problemsSolved: 14
+  rank: 4
+  siteCitation: null
+  teamId: 485726
+  teamName: GT 02
+  totalTime: 954
+- citation: Fifth Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 277
+  medalCitation: Bronze Medal
+  problemsSolved: 14
+  rank: 5
+  siteCitation: null
+  teamId: 483521
+  teamName: UCF AC
+  totalTime: 1190
+- citation: Sixth Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 249
+  medalCitation: Bronze Medal
+  problemsSolved: 13
+  rank: 6
+  siteCitation: null
+  teamId: 483526
+  teamName: UCF Freezer
+  totalTime: 847
+- citation: Seventh Place
+  honorableMentionCitation: null
+  institution: Emory University
+  lastProblemTime: 266
+  medalCitation: Bronze Medal
+  problemsSolved: 13
+  rank: 7
+  siteCitation: null
+  teamId: 485913
+  teamName: M||E
+  totalTime: 1219
+- citation: Eighth Place
+  honorableMentionCitation: null
+  institution: Georgia Institute of Technology
+  lastProblemTime: 201
+  medalCitation: Ranked
+  problemsSolved: 11
+  rank: 8
+  siteCitation: null
+  teamId: 485727
+  teamName: GT 03
+  totalTime: 904
+- citation: Ninth Place
+  honorableMentionCitation: null
+  institution: University of Florida
+  lastProblemTime: 269
+  medalCitation: Ranked
+  problemsSolved: 11
+  rank: 9
+  siteCitation: null
+  teamId: 483906
+  teamName: Unordered_set
+  totalTime: 1154
+- citation: Tenth Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 295
+  medalCitation: Ranked
+  problemsSolved: 11
+  rank: 10
+  siteCitation: null
+  teamId: 483524
+  teamName: UCF Light
+  totalTime: 1180
+- citation: Eleventh Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 173
+  medalCitation: Ranked
+  problemsSolved: 10
+  rank: 11
+  siteCitation: null
+  teamId: 483525
+  teamName: UCF Torch
+  totalTime: 807
+- citation: Twelfth Place
+  honorableMentionCitation: null
+  institution: Georgia Institute of Technology
+  lastProblemTime: 257
+  medalCitation: Ranked
+  problemsSolved: 10
+  rank: 12
+  siteCitation: null
+  teamId: 485731
+  teamName: GT 07
+  totalTime: 1189
+- citation: Thirteenth Place
+  honorableMentionCitation: null
+  institution: University of Florida
+  lastProblemTime: 254
+  medalCitation: Ranked
+  problemsSolved: 10
+  rank: 13
+  siteCitation: null
+  teamId: 483903
+  teamName: 'Deque '
+  totalTime: 1221
+- citation: Fourteenth Place
+  honorableMentionCitation: null
+  institution: Clemson University
+  lastProblemTime: 237
+  medalCitation: Ranked
+  problemsSolved: 9
+  rank: 14
+  siteCitation: null
+  teamId: 484634
+  teamName: Clemson 000
+  totalTime: 1246
+- citation: Fourteenth Place
+  honorableMentionCitation: null
+  institution: Georgia Institute of Technology
+  lastProblemTime: 225
+  medalCitation: Ranked
+  problemsSolved: 9
+  rank: 14
+  siteCitation: null
+  teamId: 485728
+  teamName: GT 04
+  totalTime: 796
+- citation: Fourteenth Place
+  honorableMentionCitation: null
+  institution: Bob Jones University
+  lastProblemTime: 281
+  medalCitation: Ranked
+  problemsSolved: 9
+  rank: 14
+  siteCitation: null
+  teamId: 485786
+  teamName: BJU Bruins A
+  totalTime: 1117
+- citation: Fourteenth Place
+  honorableMentionCitation: null
+  institution: Georgia Institute of Technology
+  lastProblemTime: 261
+  medalCitation: Ranked
+  problemsSolved: 9
+  rank: 14
+  siteCitation: null
+  teamId: 485729
+  teamName: GT 05
+  totalTime: 1059
+- citation: Fourteenth Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 275
+  medalCitation: Ranked
+  problemsSolved: 9
+  rank: 14
+  siteCitation: null
+  teamId: 483522
+  teamName: UCF Sink
+  totalTime: 725
+- citation: Nineteenth Place
+  honorableMentionCitation: null
+  institution: Florida Institute of Technology
+  lastProblemTime: 270
+  medalCitation: Ranked
+  problemsSolved: 8
+  rank: 19
+  siteCitation: null
+  teamId: 485990
+  teamName: Garbage Collectors
+  totalTime: 808
+- citation: Nineteenth Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 184
+  medalCitation: Ranked
+  problemsSolved: 8
+  rank: 19
+  siteCitation: null
+  teamId: 483527
+  teamName: UCF Garbage Disposal
+  totalTime: 625
+- citation: Nineteenth Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 250
+  medalCitation: Ranked
+  problemsSolved: 8
+  rank: 19
+  siteCitation: null
+  teamId: 483530
+  teamName: UCF Utah Teapot
+  totalTime: 724
+- citation: Twenty-second Place
+  honorableMentionCitation: null
+  institution: Auburn University
+  lastProblemTime: 205
+  medalCitation: Ranked
+  problemsSolved: 7
+  rank: 22
+  siteCitation: null
+  teamId: 486822
+  teamName: AU Nova
+  totalTime: 433
+- citation: Twenty-second Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 265
+  medalCitation: Ranked
+  problemsSolved: 7
+  rank: 22
+  siteCitation: null
+  teamId: 483529
+  teamName: UCF French Press
+  totalTime: 680
+- citation: Twenty-second Place
+  honorableMentionCitation: null
+  institution: University of Florida
+  lastProblemTime: 199
+  medalCitation: Ranked
+  problemsSolved: 7
+  rank: 22
+  siteCitation: null
+  teamId: 483905
+  teamName: Vector
+  totalTime: 607
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: University of Florida
+  lastProblemTime: 194
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 25
+  siteCitation: null
+  teamId: 483907
+  teamName: Set
+  totalTime: 769
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Clemson University
+  lastProblemTime: 279
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 25
+  siteCitation: null
+  teamId: 484635
+  teamName: Clemson 001
+  totalTime: 746
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: Georgia Institute of Technology
+  lastProblemTime: 219
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 25
+  siteCitation: null
+  teamId: 485730
+  teamName: GT 06
+  totalTime: 561
+- citation: Twenty-fifth Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 260
+  medalCitation: Ranked
+  problemsSolved: 6
+  rank: 25
+  siteCitation: null
+  teamId: 483528
+  teamName: UCF Roomba
+  totalTime: 472
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: Bob Jones University
+  lastProblemTime: 245
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 29
+  siteCitation: null
+  teamId: 485790
+  teamName: BJU Bruins E
+  totalTime: 791
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: Bob Jones University
+  lastProblemTime: 288
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 29
+  siteCitation: null
+  teamId: 485792
+  teamName: BJU Bruins G
+  totalTime: 1101
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: Clemson University
+  lastProblemTime: 117
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 29
+  siteCitation: null
+  teamId: 484638
+  teamName: Clemson 100
+  totalTime: 383
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: University of Alabama at Tuscaloosa
+  lastProblemTime: 114
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 29
+  siteCitation: null
+  teamId: 486813
+  teamName: Crimson++
+  totalTime: 400
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: Florida International University
+  lastProblemTime: 244
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 29
+  siteCitation: null
+  teamId: 483949
+  teamName: FIU-Gold
+  totalTime: 787
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: Mercer University
+  lastProblemTime: 250
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 29
+  siteCitation: null
+  teamId: 483489
+  teamName: Mercer Binary Bears Team A
+  totalTime: 473
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: Mercer University
+  lastProblemTime: 140
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 29
+  siteCitation: null
+  teamId: 483490
+  teamName: Mercer Binary Bears Team B
+  totalTime: 422
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: University of Florida
+  lastProblemTime: 253
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 29
+  siteCitation: null
+  teamId: 483904
+  teamName: Priority_queue
+  totalTime: 685
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: Florida Southern College
+  lastProblemTime: 179
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 29
+  siteCitation: null
+  teamId: 486449
+  teamName: Team Eicholtz Stans
+  totalTime: 386
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: University of Central Florida
+  lastProblemTime: 78
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 29
+  siteCitation: null
+  teamId: 483531
+  teamName: UCF Smoke Alarm
+  totalTime: 314
+- citation: Twenty-ninth Place
+  honorableMentionCitation: null
+  institution: Morehouse College
+  lastProblemTime: 229
+  medalCitation: Ranked
+  problemsSolved: 5
+  rank: 29
+  siteCitation: null
+  teamId: 486743
+  teamName: Morehouse Team TRUE
+  totalTime: 473
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Mercer University
+  lastProblemTime: 193
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 483493
+  teamName: Mercer Binary Bears Team E
+  totalTime: 647
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: University of South Florida
+  lastProblemTime: 286
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 484599
+  teamName: USF Team 4
+  totalTime: 573
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: University of South Florida
+  lastProblemTime: 213
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 484598
+  teamName: USF Team 3
+  totalTime: 498
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: College of Charleston
+  lastProblemTime: 128
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 485346
+  teamName: Runtime Terror
+  totalTime: 445
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Florida Southern College
+  lastProblemTime: 286
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 486447
+  teamName: Orang Carrots
+  totalTime: 498
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: University of North Florida
+  lastProblemTime: 278
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 485660
+  teamName: MFS
+  totalTime: 556
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: University of South Carolina
+  lastProblemTime: 56
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 487101
+  teamName: Gamecock 1
+  totalTime: 235
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: University of North Florida
+  lastProblemTime: 168
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 485683
+  teamName: DFM2
+  totalTime: 645
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Clemson University
+  lastProblemTime: 218
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 484639
+  teamName: Clemson 101
+  totalTime: 951
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: University of North Florida
+  lastProblemTime: 216
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 485367
+  teamName: CAN
+  totalTime: 484
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Bob Jones University
+  lastProblemTime: 108
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 485788
+  teamName: BJU Bruins C
+  totalTime: 339
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Florida Southern College
+  lastProblemTime: 201
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 486446
+  teamName: B1naryBees
+  totalTime: 405
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Auburn University
+  lastProblemTime: 86
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 486823
+  teamName: AU Spirit
+  totalTime: 218
+- citation: Fortieth Place
+  honorableMentionCitation: null
+  institution: Auburn University
+  lastProblemTime: 57
+  medalCitation: Ranked
+  problemsSolved: 4
+  rank: 40
+  siteCitation: null
+  teamId: 486824
+  teamName: AU Aurea
+  totalTime: 134
+- citation: null
+  honorableMentionCitation: null
+  institution: Bob Jones University
+  lastProblemTime: 55
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: null
+  teamId: 485787
+  teamName: BJU Bruins B
+  totalTime: 82
+- citation: null
+  honorableMentionCitation: null
+  institution: Bob Jones University
+  lastProblemTime: 72
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 485789
+  teamName: BJU Bruins D
+  totalTime: 176
+- citation: null
+  honorableMentionCitation: null
+  institution: Bob Jones University
+  lastProblemTime: 127
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 485791
+  teamName: BJU Bruins F
+  totalTime: 219
+- citation: null
+  honorableMentionCitation: null
+  institution: Bob Jones University
+  lastProblemTime: 211
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 485793
+  teamName: BJU Bruins H
+  totalTime: 524
+- citation: null
+  honorableMentionCitation: null
+  institution: Clemson University
+  lastProblemTime: 67
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 484636
+  teamName: Clemson 010
+  totalTime: 175
+- citation: null
+  honorableMentionCitation: null
+  institution: Clemson University
+  lastProblemTime: 119
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: null
+  teamId: 484637
+  teamName: Clemson 011
+  totalTime: 247
+- citation: null
+  honorableMentionCitation: null
+  institution: Clemson University
+  lastProblemTime: 256
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 484640
+  teamName: Clemson 110
+  totalTime: 418
+- citation: null
+  honorableMentionCitation: null
+  institution: Clemson University
+  lastProblemTime: 276
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 484641
+  teamName: Clemson 111
+  totalTime: 355
+- citation: null
+  honorableMentionCitation: null
+  institution: College of Charleston
+  lastProblemTime: 88
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 486814
+  teamName: CSCharleston
+  totalTime: 225
+- citation: null
+  honorableMentionCitation: null
+  institution: Florida International University
+  lastProblemTime: 85
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 483950
+  teamName: FIU-Blue
+  totalTime: 167
+- citation: null
+  honorableMentionCitation: null
+  institution: Florida International University
+  lastProblemTime: 140
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 484282
+  teamName: FIU-Cats
+  totalTime: 254
+- citation: null
+  honorableMentionCitation: null
+  institution: Florida International University
+  lastProblemTime: 66
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 483977
+  teamName: FIU-Panther
+  totalTime: 131
+- citation: null
+  honorableMentionCitation: null
+  institution: Florida State University
+  lastProblemTime: 200
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 483670
+  teamName: FSU Team 1
+  totalTime: 362
+- citation: null
+  honorableMentionCitation: null
+  institution: Florida State University
+  lastProblemTime: 43
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 483671
+  teamName: FSU Team 2
+  totalTime: 133
+- citation: null
+  honorableMentionCitation: null
+  institution: Florida State University
+  lastProblemTime: 255
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: null
+  teamId: 483672
+  teamName: FSU Team 3
+  totalTime: 402
+- citation: null
+  honorableMentionCitation: null
+  institution: University of South Carolina
+  lastProblemTime: 75
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: null
+  teamId: 487102
+  teamName: Gamecock 2
+  totalTime: 99
+- citation: null
+  honorableMentionCitation: null
+  institution: University of North Alabama
+  lastProblemTime: 138
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 485800
+  teamName: Head crash
+  totalTime: 333
+- citation: null
+  honorableMentionCitation: null
+  institution: University of North Alabama
+  lastProblemTime: 33
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: null
+  teamId: 485799
+  teamName: Landing zone
+  totalTime: 47
+- citation: null
+  honorableMentionCitation: null
+  institution: Mercer University
+  lastProblemTime: 105
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 483491
+  teamName: Mercer Binary Bears Team C
+  totalTime: 180
+- citation: null
+  honorableMentionCitation: null
+  institution: Mercer University
+  lastProblemTime: 46
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 483492
+  teamName: Mercer Binary Bears Team D
+  totalTime: 125
+- citation: null
+  honorableMentionCitation: null
+  institution: Mercer University
+  lastProblemTime: 136
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 483494
+  teamName: Mercer Binary Bears Team F
+  totalTime: 272
+- citation: null
+  honorableMentionCitation: null
+  institution: Emory University
+  lastProblemTime: 112
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 485914
+  teamName: MorE
+  totalTime: 228
+- citation: null
+  honorableMentionCitation: null
+  institution: Morehouse College
+  lastProblemTime: 155
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: null
+  teamId: 486746
+  teamName: Morehouse Team FALSE
+  totalTime: 192
+- citation: null
+  honorableMentionCitation: null
+  institution: University of North Alabama
+  lastProblemTime: 98
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: null
+  teamId: 485798
+  teamName: Sector zero
+  totalTime: 204
+- citation: null
+  honorableMentionCitation: null
+  institution: Florida Southern College
+  lastProblemTime: 118
+  medalCitation: Honorable
+  problemsSolved: 3
+  rank: null
+  siteCitation: null
+  teamId: 486448
+  teamName: The Beekeepers
+  totalTime: 273
+- citation: null
+  honorableMentionCitation: null
+  institution: University of South Florida
+  lastProblemTime: 105
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: null
+  teamId: 484596
+  teamName: USF Team 1
+  totalTime: 214
+- citation: null
+  honorableMentionCitation: null
+  institution: University of South Florida
+  lastProblemTime: 164
+  medalCitation: Honorable
+  problemsSolved: 2
+  rank: null
+  siteCitation: null
+  teamId: 484597
+  teamName: USF Team 2
+  totalTime: 309
+- citation: null
+  honorableMentionCitation: null
+  institution: University of South Florida
+  lastProblemTime: 62
+  medalCitation: Honorable
+  problemsSolved: 1
+  rank: null
+  siteCitation: null
+  teamId: 484796
+  teamName: USF Team 5
+  totalTime: 62

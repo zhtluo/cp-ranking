@@ -3,6 +3,19 @@ from scipy.stats import kendalltau
 import os
 import math
 from collections import defaultdict
+# annoying unicode decoding
+from ftfy import fix_text
+import unicodedata
+
+def normalize(name: str, lowerit=True) -> str:
+    # 1) Decompose into base characters + combining marks (NFD or NFKD)
+    name = fix_text(name)
+    decomposed = unicodedata.normalize('NFKD', name)
+    # 2) Filter out all combining characters (category 'Mn')
+    finished = (''.join(ch for ch in decomposed if unicodedata.category(ch) != 'Mn'))
+    if lowerit:
+        finished = finished.lower().strip()
+    return finished
 
 # Load the YAML configuration file.
 def load_yaml(file_path):
@@ -33,7 +46,8 @@ def load_ranking(file_path):
     # Create a dictionary to store the best-ranked team for each institution
     institution_rankings = {}
     for index, entry in enumerate(sorted_rankings, start=1):  # Assign ranks based on sorted order
-        institution = entry["institution"]
+        raw = entry["institution"]
+        institution = normalize(raw)#get rid of stupid unicode stuff
 
         if (
             institution not in institution_rankings
@@ -42,6 +56,7 @@ def load_ranking(file_path):
             institution_rankings[institution] = {
                 **entry,
                 "rank": index,
+                "_raw_name": raw,
             }  # Store with updated rank
 
     return institution_rankings
@@ -57,12 +72,14 @@ def load_cf_ratings(file_path):
 
     cf_rankings = {}
     for rank, entry in enumerate(cf_data, start=1):
-        university = entry.get("university")
-        if university is None:
+        raw = entry.get("university")
+        if raw is None:
             continue
+        university = normalize(raw)#get rid of stupid unicode stuff
         cf_rankings[university] = {
             "rank": rank,
             "average_cf_rating": entry["average_cf_rating"],
+            "_raw_name": raw,
         }
 
     return cf_rankings
@@ -229,6 +246,9 @@ def process_pairs_with_cf(yaml_config, rankings_dir, cf_ratings_dir):
 
 # Main
 if __name__ == "__main__":
+    #misc useful commands in determining where university names mismatch
+    # diff -qsy outputs/rankings_old/ICPCKolkataKanpur_2024_ranking.yaml outputs/rankings_old/ICPCKolkataKanpur_2024_ranking.yaml
+    # https://github.com/zhtluo/cp-ranking/compare/3e0d141..391ae0b
     # Load YAML configuration
     yaml_file = "contests.yaml"
     config = load_yaml(yaml_file)

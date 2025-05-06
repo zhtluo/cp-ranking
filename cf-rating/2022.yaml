@@ -11,7 +11,7 @@
 - average_cf_rating: 3235.0
   university: Nanjing University of Posts and Telecommunications
 - average_cf_rating: 3125.1837
-  university: National Research University Higher School of Economics
+  university: HSE University
 - average_cf_rating: 3119.3404
   university: Tsinghua University
 - average_cf_rating: 3105.0835
@@ -31,7 +31,7 @@
 - average_cf_rating: 2585.293
   university: Harbour.Space University - Barcelona Campus
 - average_cf_rating: 2544.8011
-  university: Technical University of Munich
+  university: Technische Universitat Munchen
 - average_cf_rating: 2529.7917
   university: Jagiellonian University in Krakow
 - average_cf_rating: 2365.8612
@@ -53,7 +53,7 @@
 - average_cf_rating: 2704.6783
   university: Jinan University
 - average_cf_rating: 2690.1231
-  university: The Chinese University of Hong Kong
+  university: The Chinese University of Hong Kong, Shenzhen
 - average_cf_rating: 2681.3225
   university: University of Electronic Science and Technology of China
 - average_cf_rating: 2566.4512
@@ -61,7 +61,7 @@
 - average_cf_rating: 2552.2403
   university: Beihang University
 - average_cf_rating: 2534.5393
-  university: Sun Yat-sen University
+  university: Zhongshan (Sun Yat-sen) University
 - average_cf_rating: 2361.1811
   university: University of Science and Technology of China
 - average_cf_rating: 2789.3759
@@ -85,7 +85,7 @@
 - average_cf_rating: 2343.0012
   university: National Yang Ming Chiao Tung University
 - average_cf_rating: 2281.0868
-  university: Bina Nusantara University
+  university: BINUS UNIVERSITY
 - average_cf_rating: 2674.7326
   university: Indian Institute of Technology - Varanasi
 - average_cf_rating: 2544.2476
@@ -99,17 +99,17 @@
 - average_cf_rating: 2483.9346
   university: Indian Institute of Technology (ISM), Dhanbad
 - average_cf_rating: 2417.703
-  university: Indian Institute of Technology - Bhubaneswar
+  university: Indian Institute of Technology Bhubaneswar
 - average_cf_rating: 2405.3013
   university: Birla Institute of Technology and Science, Pilani Campus
 - average_cf_rating: 2327.4967
-  university: National Institute of Technology - Tiruchirappalli
+  university: National Institute of Technology Tiruchirappalli
 - average_cf_rating: 2327.1553
   university: Rajshahi University of Engineering & Technology
 - average_cf_rating: 2326.0196
   university: International Institute of Information Technology, Hyderabad
 - average_cf_rating: 2284.0329
-  university: Indraprastha Institute of Information Technology, Delhi
+  university: IIIT-Delhi
 - average_cf_rating: 2270.5408
   university: Indian Institute of Technology - Patna
 - average_cf_rating: 2534.7441
@@ -135,7 +135,7 @@
 - average_cf_rating: 2090.6306
   university: Universidade Federal de Campina Grande
 - average_cf_rating: 2060.7652
-  university: Universidad de Guadalajara - CUCEI
+  university: Universidad de Guadalajara CUCEI
 - average_cf_rating: 1962.4333
   university: Universidad de las Ciencias Informáticas
 - average_cf_rating: 1921.3753
@@ -163,7 +163,7 @@
 - average_cf_rating: 2626.2087
   university: Yerevan State University
 - average_cf_rating: 2605.0999
-  university: St. Petersburg Campus of Higher School of Economics
+  university: St. Petersburg Campus of HSE University
 - average_cf_rating: 2599.5773
   university: Moscow State University
 - average_cf_rating: 2476.6925
