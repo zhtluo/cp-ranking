@@ -27,3 +27,6 @@ This is pretty easy.
     This shows available data: https://icpc.global/regionals/finder/Mid-Central-USA-2024/standings, this is an example of unavailable data: https://icpc.global/regionals/finder/Mid-Atlantic-USA-2024/standings.
   * Add it to be analyzed under ```contests.yaml:contests:pairs:``` (recommended) or ```:contests:cf:```, depending on what you want to compare.  Codeforces data is only available for 2020-2024, and has already been compared with all superregionals for the last 10 years.  Other comparisons with CF are unlikely to produce meaningful results as concentration of available tags associated with teams decreases quickly the further away from World Finals one gets.
 3. All done!  Run ```fetch-contest-id.py```, ```fetch-contest-ranking.py```, and ```compute-tau.py```.
+
+# Credits
+Created by Zhongtang Luo and Ethan Dickey in F24-S25.  Please credit the original repository and paper referenced at the top of this readme when sharing.
