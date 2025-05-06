@@ -3,7 +3,7 @@ Our paper detailing this analysis is available at (insert arxiv link here)[].
 # Overview
 CP-Ranking has three primary processes:
 1. ```fetch-contest-id.py```
-  1. Reads ```contests.yaml``` for tags retrieved manually from (icpc.global/regionals/results)[https://icpc.global/regionals/results/2024].  Caution is necessary to verify that a tag is available for every year requested in ```contests.yaml:contests"years```.  Some contests changed names after a certain year.  Use ```contests:split-keys:``` for these cases, with the desired primary identifier as the key for each cluster of tags.
+  1. Reads ```contests.yaml``` for tags retrieved manually from [icpc.global/regionals/results](https://icpc.global/regionals/results/2024).  Caution is necessary to verify that a tag is available for every year requested in ```contests.yaml:contests"years```.  Some contests changed names after a certain year.  Use ```contests:split-keys:``` for these cases, with the desired primary identifier as the key for each cluster of tags.
   2. Retrieves all internal IDs for every dataset (every region, every year required in ```contests.yaml```) and stores them in ```outputs/contest_ids.yaml```.  This is necessary to retrieve the contest results from the ```icpc.global``` API with all required metadata properly.  Different options are available, including an ```append_mode``` to prevent overwriting previous downloads.  These results should not change as long as ```icpc.global```'s API remains the same, and a warning will appear if a different ID is ever detected.  If less data processing is desired, ```append_mode``` can be turned off to remove previous entries and limit analysis.
 
 2. ```fetch-contest-ranking.py```: Fairly straightforward, this takes the IDs retrieved previously from ```outputs/contest_ids.yaml``` and downloads that dataset with all required metadata to ```rankings/*``` (per primary key -- for split keys -- per year); data is converted to ```yaml``` format.  By default will not download already downloaded data, but this setting can be turned off (```SKIP_PREV_GENERATED```).
@@ -20,7 +20,7 @@ otherwise skipped due to lack of data file
 
 # Modifying CP-Ranking
 This is pretty easy.
-1. Retrieve a tag for a region you want to add to the analysis from (icpc.global/regionals/results)[https://icpc.global/regionals/results/2024].
+1. Retrieve a tag for a region you want to add to the analysis from [icpc.global/regionals/results](https://icpc.global/regionals/results/2024).
 2. Add it to ```contests.yaml:contests:keys``` or ```contests.yaml:contests:split-keys``` if the tag changes over the years you want to analyze.
   * Verify it is available under this tag for all the years under ```contests.yaml:contests:years:```, or be prepared for reports of missing data in the final ```compute-tau.py```.
 
